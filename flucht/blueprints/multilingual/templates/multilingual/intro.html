@@ -1,106 +1,23 @@
 {% extends "layout.html" %}
 {% block content %}
-    <h1 class="text-center">Flüchtlinge im Ersten Weltkrieg</h1>
+    <h1 class="text-center">{{ _('page_titel')}}</h1>
     <div class="">
-        <p>{{ _('During the First World War (1914-1918) there were floods of refugees from the theaters of war,
-            the
-            Border areas of the monarchy, inland. Residents of affected areas
-            left
-            their houses and farms to get to safety or to prevent starvation
-            who threatened them by destroying their livelihoods. Likewise were made
-            For strategic reasons, numerous villages from the k.u.k. Army evacuated to the
-            Infrastructure
-            to use it yourself or to destroy it while retreating from the advancing enemy.') }}</p>
-
-        <p>{{ _('The k.u.k. The army also went rigorously against its own multi-ethnic population
-            in front.
-            Various groups of the population were purposefully displaced in order to bring them to the (real and
-            alleged) alliance with enemy states. It also came about
-            Executions. On the front with Russia there were Jews, Ruthenians (those in Galicia and
-            the
-            Bucovina resident Ukrainians) and Romanians affected, especially the Christians
-            orthodox population.') }}</p>
-
-        <p>{{ _('There were more than a million within the monarchy during World War I.
-            People on the run. The refugees were in overcrowded collection points
-            registered
-            and categorized according to social status, material property, ethnicity and religion. aim
-            this
-            Measures was the management and control of the refugee flows. In empty
-            Railway wagons
-            and under close guard the people were finally assigned to them
-            Whereabouts transferred. Many of them died on the way from hunger and cold or
-            because of the outbreak of epidemics.') }}</p>
-
-        <p>{{ _('To the big cities of the monarchy, where refugees had already gathered,
-            to
-            relieve, in September 1914 the building of barrack camps for the destitute
-            Crowds decided. These camps were built along favorable rail connections,
-            however
-            built isolated from existing villages and towns. So should the integration
-            and
-            long-term settling of the refugees will be prevented, and the natives
-            Population in this way was inconsistent with the true extent of the war
-            faced.') }}</p>
-
-        <p>{{ _('Several such barracks were built in Lower Austria, the largest in Gmünd
-            housed up to 30,000 Ruthenian refugees. The Oberhollabrunn camp was established in
-            year
-            Established in 1916 and operated as a refugee camp until the spring of 1918. Here were before
-            everything
-            Ruthenians and Romanians from Bukovina quartered in their homeland in the summer of 1916
-            by
-            an advance by tsarist Russia led to renewed mass exodus and expulsion.
-            you
-            belonged to the Christian, to a considerable extent Orthodox population of the
-            Bucovina
-            at. In the spring of 1918, after the peace agreement with Soviet Russia in Brest-Litovsk,
-            were
-            transported them back to their largely destroyed homeland.') }}</p>
+        <p>{{ _('intro_paragraph_1') }}</p>
+        <p>{{ _('intro_paragraph_2') }}</p>
+        <p>{{ _('intro_paragraph_3') }}</p>
+        <p>{{ _('intro_paragraph_4') }}</p>
+        <p>{{ _('intro_paragraph_5') }}</p>
     </div>
 
     <h2>{{ _('Further reading') }}</h2>
+
     <ul>
-        <li> Martina Hermann, 'Cities of Barracks': Refugees in the Austrian Part of the Habsburg
-            Empire
-            during the First World War. In: Peter Gatrell, Liubov Zhvanko (Hg.), Europe on the Move:
-            Refugees in the Era of the Great War. Manchester 2017, S. 129-155.
-        </li>
-        <li> Walter Mentzel, Kriegserfahrungen von Flüchtlingen aus dem Nordosten der Monarchie
-            während des
-            Ersten Weltkrieges. In: Bernhard Bachinger, Wolfram Dornik (Hg.), Jenseits des
-            Schützengrabens:
-            der Erste Weltkrieg im Osten: Erfahrung - Wahrnehmung - Kontext. Innsbruck - Wien 2013,
-            S.
-            359-390.
-        </li>
+    {% for book in books %}
         <li>
-            Walter Mentzel, Kriegsflüchtlinge in Cis-Leithanien im Ersten Weltkrieg. Wien 1997.
+        {{ books[book] }}
         </li>
-        <li>
-            Hannes Leidinger, Verena Moritz, Karin Moser, Wolfram Dornik, Habsburgs schmutziger
-            Krieg.
-            Ermittlungen zur österreichisch-ungarischen Kriegsführung 1914-1918, St. Pölten -
-            Salzburg -
-            Wien 2014.
-        </li>
-        <li>
-            Antje Senarclens de Grancy, Different Housing Spaces - Space, Function, and Use of
-            Barrack-Huts
-            in World War I Refugee Camps. In: Oliver Rathkolb (Hg.), Zeitgeschichte 45. Jahrgang,
-            Heft 4.
-            Wien 2018, S. 457-482.
-        </li>
-        <li>
-            Werner Lamm, Vom Flüchtlingslager zur Gartenstadt. Mit Beiträgen von Walter Johann
-            Fittner,
-            Hollabrunn 1999.
-        </li>
-
+    {% endfor %}
     </ul>
-
-
-
 
 
 

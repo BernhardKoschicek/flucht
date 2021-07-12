@@ -2,6 +2,7 @@ from flask import Blueprint, abort, current_app, g, redirect, render_template, r
 from flask_babel import _
 
 from flucht import app
+from flucht.data.references import intro_books
 
 multilingual = Blueprint(
     'multilingual',
@@ -41,14 +42,13 @@ def before_request():
 
 @multilingual.route('/')
 def intro() -> str:
-    return render_template('multilingual/intro.html', title=_('The refugee camp Oberhollabrunn'))
+    return render_template('multilingual/intro.html', title=_('page_titel'), books=intro_books)
 
 
 @multilingual.route('/exhibition', defaults={'lang_code': 'en'})
 @multilingual.route('/ausstellung', defaults={'lang_code': 'de'})
 def exhibition():
-    return render_template('multilingual/exhibition.html',
-                           title=_('Exhibition of the refugee camp Oberhollabrunn'))
+    return render_template('multilingual/exhibition.html', title=_('exhibition_title'))
 
 
 @multilingual.errorhandler(404)
