@@ -8,12 +8,24 @@ body {
     scroll-behavior: smooth;
 }
 
+.inner_monolog {
+    font-family: 'Sacramento', serif;
+    font-size: 48px;
+}
+
+.pic-source {
+    font-size: 0.6em;
+}
+
+.source-text {
+    font-size: 1em;
+    font-family: 'UnifrakturMaguntia', serif;
+}
 
 /* Exhibition Sidebar */
 
 .sidebar {
-    width: 10%;
-    min-width: 10px;
+    width: 1%;
     height: 100vh;
     min-height: 200px;
     overflow: auto;
@@ -29,6 +41,8 @@ body {
     justify-content: space-between;
 }
 
+
+/* Sticky side menu exhibition */
 .nav {
     white-space: nowrap;
     background: #37474F;
