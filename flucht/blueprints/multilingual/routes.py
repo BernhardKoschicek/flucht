@@ -2,7 +2,7 @@ from flask import Blueprint, abort, current_app, g, redirect, render_template, r
 from flask_babel import _
 
 from flucht import app
-from flucht.data.images import build_img_tag, pictures_exhibition
+from flucht.data.exhibition import build_img_tag, citations
 from flucht.data.references import intro_books
 
 multilingual = Blueprint(
@@ -52,7 +52,7 @@ def exhibition():
     return render_template(
         'multilingual/exhibition.html',
         title=_('exhibition_title'),
-        pictures=pictures_exhibition,
+        citation=citations,
         images=build_img_tag())
 
 

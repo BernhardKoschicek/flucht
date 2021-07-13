@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-09 21:16+0200\n"
-"PO-Revision-Date: 2021-07-09 21:18+0200\n"
+"POT-Creation-Date: 2021-07-13 15:22+0200\n"
+"PO-Revision-Date: 2021-07-13 15:28+0200\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -19,153 +19,137 @@ msgstr ""
 "Last-Translator: \n"
 "X-Generator: Poedit 2.2.1\n"
 
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:20
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:3
+msgid "page_titel"
+msgstr "Auf der Flucht in der Monarchie"
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:21
+msgid "page_subtitel"
+msgstr "Das Schicksal der orthodoxen Flüchtlinge im Lager Oberhollabrunn (1914-1918)"
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:29
+msgid "inner_monolog_1"
+msgstr "Als die Front immer näher an mein Dorf rückte, floh ich in die Stadt  Czernowitz."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:42
+msgid "inner_monolog_2"
+msgstr "Die russische Armee nahm Czernowitz ein und wir wurden von der kaiserlichen Armee tiefer in die Monarchie verbracht, ..."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:59
+msgid "inner_monolog_3"
+msgstr "… und zwar in eine Stadt Namens Hollabrunn, genauer gesagt in ein dort errichtetes Lager."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:73
+msgid "inner_monolog_4"
+msgstr "Gemeinsam mit vielen hundert Vertriebenen wartete ich geduldig darauf von der Lagerverwaltung im Lagerbuch registriert zu werden."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:86
+msgid "inner_monolog_5"
+msgstr "Meine neue Heimat war eine feste Baracke, die ich mit anderen Vertriebenen teilte."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:101
+msgid "inner_monolog_6"
+msgstr "Auf meinen täglichen Spaziergängen konnte ich beobachten wie sich das Lager mehr und mehr füllte, ..."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:116
+msgid "inner_monolog_7"
+msgstr "… darunter auch ganze Familien, leider oft nicht gemeinsam."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:131
+msgid "inner_monolog_8"
+msgstr "Das Lager ist wie eine eigene Stadt, es gibt eigenes Geld, Handwerk, ..."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:147
+msgid "inner_monolog_9"
+msgstr "… eine Schule für die Kinder und sogar eine eigene Eisenbahn und Sonntags eine Messe."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:162
+msgid "inner_monolog_10"
+msgstr "Dennoch überschattet das Heimweh alles und viele werden von Krankheit dahingerafft."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:177
+msgid "inner_monolog_11"
+msgstr "Schmerzhaft ist der Abschied von diesen neuen Freunden, trotz des tröstlichen Einsatzes unserer Priester."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:191
+msgid "inner_monolog_12"
+msgstr "Endlich kann ich nach zwei Jahren das Lager wieder verlassen und in die Heimat aufbrechen"
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:205
+msgid "inner_monolog_13"
+msgstr "Viele Jahre später musste ich mit Erstaunen feststellen, dass das Lager tatsächlich eine Stadt geworden ist, die Gartenstadt."
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:215
+msgid "sponsored_by"
+msgstr "Gefördert von"
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:216
+msgid "collaboration"
+msgstr "In Zusammenarbeit mit"
+
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:5
-msgid ""
-"During the First World War (1914-1918) there were floods of refugees "
-"from the theaters of war,\n"
-"            the\n"
-"            Border areas of the monarchy, inland. Residents of affected "
-"areas\n"
-"            left\n"
-"            their houses and farms to get to safety or to prevent "
-"starvation\n"
-"            who threatened them by destroying their livelihoods. "
-"Likewise were made\n"
-"            For strategic reasons, numerous villages from the k.u.k. "
-"Army evacuated to the\n"
-"            Infrastructure\n"
-"            to use it yourself or to destroy it while retreating from "
-"the advancing enemy."
-msgstr ""
-"Im Ersten Weltkrieg (1914-1918) kam es zu Flüchtlingsströmen von den "
-"Kriegsschauplätzen, den Grenzgebieten der Monarchie, ins Landesinnere. "
-"Anwohner*innen betroffener Gebiete verließen ihre Häuser und Höfe, um "
-"sich in Sicherheit zu bringen oder sich vor dem Hungertod zu retten, der "
-"ihnen durch die Zerstörung ihrer Lebensgrundlagen drohte. Ebenso wurden "
-"aus strategischen Gründen zahlreiche Dörfer von der k.u.k. Armee "
-"evakuiert, um die Infrastruktur selbst zu nutzen oder auf dem Rückzug "
-"vor dem vordringenden Feind zu zerstören."
+msgid "intro_paragraph_1"
+msgstr "Im Ersten Weltkrieg (1914-1918) kam es zu Flüchtlingsströmen von den Kriegsschauplätzen, den Grenzgebieten der Monarchie, ins Landesinnere. Anwohner*innen betroffener Gebiete verließen ihre Häuser und Höfe, um sich in Sicherheit zu bringen oder sich vor dem Hungertod zu retten, der ihnen durch die Zerstörung ihrer Lebensgrundlagen drohte. Ebenso wurden aus strategischen Gründen zahlreiche Dörfer von der k.u.k. Armee evakuiert, um die Infrastruktur selbst zu nutzen oder auf dem Rückzug vor dem vordringenden Feind zu zerstören."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:15
-msgid ""
-"The k.u.k. The army also went rigorously against its own multi-ethnic "
-"population\n"
-"            in front.\n"
-"            Various groups of the population were purposefully displaced "
-"in order to bring them to the (real and\n"
-"            alleged) alliance with enemy states. It also came about\n"
-"            Executions. On the front with Russia there were Jews, "
-"Ruthenians (those in Galicia and\n"
-"            the\n"
-"            Bucovina resident Ukrainians) and Romanians affected, "
-"especially the Christians\n"
-"            orthodox population."
-msgstr ""
-"Die k.u.k. Armee ging dabei auch rigoros gegen die eigene multi-"
-"ethnische Bevölkerung vor. Verschiedene Bevölkerungsgruppen wurden "
-"gezielt vertrieben, um sie an der (realen und vermeintlichen) Verbündung "
-"mit den Feindstaaten zu hindern. Es kam dabei auch zu Hinrichtungen. An "
-"der Front zu Russland waren davon Juden, Ruthenen (die in Galizien und "
-"der Bukowina ansässigen Ukrainer) und Rumänen betroffen, unter den "
-"Christen besonders die orthodoxe Bevölkerung."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:6
+msgid "intro_paragraph_2"
+msgstr "Die k.u.k. Armee ging dabei auch rigoros gegen die eigene multi-ethnische Bevölkerung vor. Verschiedene Bevölkerungsgruppen wurden gezielt vertrieben, um sie an der (realen und vermeintlichen) Verbündung mit den Feindstaaten zu hindern. Es kam dabei auch zu Hinrichtungen. An der Front zu Russland waren davon Juden, Ruthenen (die in Galizien und der Bukowina ansässigen Ukrainer) und Rumänen betroffen, unter den Christen besonders die orthodoxe Bevölkerung."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:24
-msgid ""
-"There were more than a million within the monarchy during World War I.\n"
-"            People on the run. The refugees were in overcrowded "
-"collection points\n"
-"            registered\n"
-"            and categorized according to social status, material "
-"property, ethnicity and religion. aim\n"
-"            this\n"
-"            Measures was the management and control of the refugee "
-"flows. In empty\n"
-"            Railway wagons\n"
-"            and under close guard the people were finally assigned to "
-"them\n"
-"            Whereabouts transferred. Many of them died on the way from "
-"hunger and cold or\n"
-"            because of the outbreak of epidemics."
-msgstr ""
-"Innerhalb der Monarchie befanden sich während des Ersten Weltkriegs mehr "
-"als eine Million Menschen auf der Flucht. Die Flüchtlinge wurden in "
-"überfüllten Sammelstationen registriert und nach sozialem Status, "
-"materiellem Besitz, Ethnie und Religion kategorisiert. Ziel dieser "
-"Maßnahmen war die Steuerung und Kontrolle der Flüchtlingsströme. In "
-"leeren Eisenbahnwaggons und unter strenger Bewachung wurden die Menschen "
-"schließlich in die ihnen zugewiesenen Aufenthaltsorte überführt. Viele "
-"von ihnen starben auf dem Weg vor Hunger und Kälte oder wegen des "
-"Ausbruchs von Seuchen."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:7
+msgid "intro_paragraph_3"
+msgstr "Innerhalb der Monarchie befanden sich während des Ersten Weltkriegs mehr als eine Million Menschen auf der Flucht. Die Flüchtlinge wurden in überfüllten Sammelstationen registriert und nach sozialem Status, materiellem Besitz, Ethnie und Religion kategorisiert. Ziel dieser Maßnahmen war die Steuerung und Kontrolle der Flüchtlingsströme. In leeren Eisenbahnwaggons und unter strenger Bewachung wurden die Menschen schließlich in die ihnen zugewiesenen Aufenthaltsorte überführt. Viele von ihnen starben auf dem Weg vor Hunger und Kälte oder wegen des Ausbruchs von Seuchen."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:35
-msgid ""
-"To the big cities of the monarchy, where refugees had already gathered,\n"
-"            to\n"
-"            relieve, in September 1914 the building of barrack camps for "
-"the destitute\n"
-"            Crowds decided. These camps were built along favorable rail "
-"connections,\n"
-"            however\n"
-"            built isolated from existing villages and towns. So should "
-"the integration\n"
-"            and\n"
-"            long-term settling of the refugees will be prevented, and "
-"the natives\n"
-"            Population in this way was inconsistent with the true extent "
-"of the war\n"
-"            faced."
-msgstr ""
-"Um die großen Städte der Monarchie, in denen sich bereits Flüchtlinge "
-"angesammelt hatten, zu entlasten, wurde im September 1914 der Bau von "
-"Barackenlagern für die mittellosen Menschenmassen beschlossen. Diese "
-"Lager wurden entlang günstiger Bahnverbindungen, jedoch abgeschottet von "
-"bestehenden Dörfern und Städten errichtet. So sollte die Integration und "
-"langfristige Sesshaftwerdung der Flüchtlinge verhindert werden, und die "
-"einheimische Bevölkerung wurde auf diese Weise nicht mit dem wahren "
-"Ausmaß des Krieges konfrontiert."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:8
+msgid "intro_paragraph_4"
+msgstr "Um die großen Städte der Monarchie, in denen sich bereits Flüchtlinge angesammelt hatten, zu entlasten, wurde im September 1914 der Bau von Barackenlagern für die mittellosen Menschenmassen beschlossen. Diese Lager wurden entlang günstiger Bahnverbindungen, jedoch abgeschottet von bestehenden Dörfern und Städten errichtet. So sollte die Integration und langfristige Sesshaftwerdung der Flüchtlinge verhindert werden, und die einheimische Bevölkerung wurde auf diese Weise nicht mit dem wahren Ausmaß des Krieges konfrontiert."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:46
-msgid ""
-"Several such barracks were built in Lower Austria, the largest in Gmünd\n"
-"            housed up to 30,000 Ruthenian refugees. The Oberhollabrunn "
-"camp was established in\n"
-"            year\n"
-"            Established in 1916 and operated as a refugee camp until the "
-"spring of 1918. Here were before\n"
-"            everything\n"
-"            Ruthenians and Romanians from Bukovina quartered in their "
-"homeland in the summer of 1916\n"
-"            by\n"
-"            an advance by tsarist Russia led to renewed mass exodus and "
-"expulsion.\n"
-"            you\n"
-"            belonged to the Christian, to a considerable extent Orthodox "
-"population of the\n"
-"            Bucovina\n"
-"            at. In the spring of 1918, after the peace agreement with "
-"Soviet Russia in Brest-Litovsk,\n"
-"            were\n"
-"            transported them back to their largely destroyed homeland."
-msgstr ""
-"In Niederösterreich entstanden mehrere solcher Barackenstädte, die "
-"größte in Gmünd beherbergte bis zu 30.000 ruthenische Flüchtlinge. Das "
-"Lager Oberhollabrunn wurde im Jahr 1916 errichtet und bis zum Frühjahr "
-"1918 als Flüchtlingslager geführt. Hier wurden vor allem Ruthenen und "
-"Rumänen aus der Bukowina einquartiert, in deren Heimat es im Sommer 1916 "
-"durch einen Vorstoß des Zarentums Russland zu neuerlicher Massenflucht "
-"und Vertreibung kam. Sie gehörten der christlichen, zu einem "
-"beträchtlichen Teil orthodoxen Bevölkerung der Bukowina an. Im Frühjahr "
-"1918, nach dem Friedensschluss mit Sowjetrussland in Brest-Litowsk, "
-"wurden sie zurück in ihre größtenteils zerstörte Heimat transportiert."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:9
+msgid "intro_paragraph_5"
+msgstr "In Niederösterreich entstanden mehrere solcher Barackenstädte, die größte in Gmünd beherbergte bis zu 30.000 ruthenische Flüchtlinge. Das Lager Oberhollabrunn wurde im Jahr 1916 errichtet und bis zum Frühjahr 1918 als Flüchtlingslager geführt. Hier wurden vor allem Ruthenen und Rumänen aus der Bukowina einquartiert, in deren Heimat es im Sommer 1916 durch einen Vorstoß des Zarentums Russland zu neuerlicher Massenflucht und Vertreibung kam. Sie gehörten der christlichen, zu einem beträchtlichen Teil orthodoxen Bevölkerung der Bukowina an. Im Frühjahr 1918, nach dem Friedensschluss mit Sowjetrussland in Brest-Litowsk, wurden sie zurück in ihre größtenteils zerstörte Heimat transportiert."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:62
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:12
 msgid "Further reading"
 msgstr "Weiterführende Literatur"
 
-#: flucht/templates/layout.html:19
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:1
+msgid "pfarrchronik_oberhollabrunn_1916"
+msgstr "Anfang Jänner wurden die Äcker um den Kirchenwald und um die Straße nach Raschala angekauft und mit dem Bau von Kriegerheimstätten und Baracken für die Flüchtlinge begonnen. Die Sparkasse hat dazu bedeutende Summen beigegeben. 6000 Personen, meistens aus der Bukowina und Südost Galizien sind dort untergebracht. Die aus Ziegeln gebauten Baracken sollen nach dem Kriege als Invalidenheimstätte benützt werden. Die meisten gehören der griechisch-orientalischen Kirche an. Ein Pfarrer aus Galizien, der hier als Flüchtling seit einem Jahr wohnt, Pf. Bilinsky, nimmt sich der griechisch Unierten an: liest dort die hl. Messe und spendet die hl. Sakramente."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:2
+msgid "wochenzeitung24031916"
+msgstr ""
+"Flüchtlingslager.\n"
+"Die in Barackenform in Aussicht genommenen Unterkünfte für die Flüchtlinge sind bereits zum größten Teile hergestellt. Nunmehr gelangen kleinere und größere Familienwohnhäuse[r], welche vollständig in Mauerwerk ausgeführt wurden, zur Vergebung und Herstellung. Die von der Bahnstation zum Flüchtlingslager errichtete Schmalspurbahn funktioniert schon seit längerer Zeit, und wird hauptsächlich zu Materialzufuhr verwendet."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:3
+msgid "eggenburger_zeitung29091916"
+msgstr "Ober-Hollabrunn [...] Im hiesigen Flüchtlingslager sind schon mehr als 2000 Evakuierte untergebracht. Gestohlen wird von diesen Leuten auf den Feldern nicht wenig."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:4
+msgid "eggenburger_zeitung17111916"
+msgstr "Oberhollabrunn. [...] Im hiesigen Flüchtlingslager sind mehr als 3000 Flüchtlinge von der Bukowina und von Siebenbürgen untergebracht."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:5
+msgid "allgemeiner_tiroler18071917"
+msgstr "Eine neue Schule für Flüchtlinge. Im Flüchtlingslager von Oberhollabrunn (in Niederösterreich) wurde eine Volksschule für Flüchtlingskinder eröffnet. Der Einweihung wohnte u.a. der Lagerkommandant Dr. R. v. Grimm, Sekretär Graf Bidovich und Abg. Dr. Laginja bei."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:6
+msgid "kremser_zeitung05021916"
+msgstr "Auch der Bau der schmalspurigen Bahn zu diesem Flüchtlingslager geht flott von statten."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:7
+msgid "pfarrchronik_oberhollabrunn1917"
+msgstr "In den drei ersten Monaten dieses Jahres sind im Barackenlager, wo hauptsächlich Rumänen untergebracht sind, mehr als hundert Personen gestorben. Beinahe alle waren griechisch-orientalisch. „Kälte, Hunger und Heimweh“, so wurde mir mitgeteilt, „sind die Ursachen der außerordentlich vielen Sterbefälle.“"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:8
+msgid "wochenzeitung24051918"
+msgstr "Flüchtlingslager. Die noch zurückgebliebenen kranken Flüchtlinge haben nun auch das hiesige Lager verlassen, um in die Heimat zurückzukehren. Zweckmäßiger Weise wurde hiezu der Samstag vor den Pfingstfeiertagen gewählt."
+
+#: flucht/templates/nav.html:18
 msgid "Intro"
 msgstr "Einleitung"
 
-#: flucht/templates/layout.html:20
+#: flucht/templates/nav.html:19
 msgid "Exhibition"
 msgstr "Ausstellung"

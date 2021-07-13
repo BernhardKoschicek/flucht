@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-09 21:16+0200\n"
+"POT-Creation-Date: 2021-07-13 15:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,112 +17,136 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:20
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:3
+msgid "page_titel"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:21
+msgid "page_subtitel"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:29
+msgid "inner_monolog_1"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:42
+msgid "inner_monolog_2"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:59
+msgid "inner_monolog_3"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:73
+msgid "inner_monolog_4"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:86
+msgid "inner_monolog_5"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:101
+msgid "inner_monolog_6"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:116
+msgid "inner_monolog_7"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:131
+msgid "inner_monolog_8"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:147
+msgid "inner_monolog_9"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:162
+msgid "inner_monolog_10"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:177
+msgid "inner_monolog_11"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:191
+msgid "inner_monolog_12"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:205
+msgid "inner_monolog_13"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:215
+msgid "sponsored_by"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:216
+msgid "collaboration"
+msgstr ""
+
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:5
-msgid ""
-"During the First World War (1914-1918) there were floods of refugees from"
-" the theaters of war,\n"
-"            the\n"
-"            Border areas of the monarchy, inland. Residents of affected "
-"areas\n"
-"            left\n"
-"            their houses and farms to get to safety or to prevent "
-"starvation\n"
-"            who threatened them by destroying their livelihoods. Likewise"
-" were made\n"
-"            For strategic reasons, numerous villages from the k.u.k. Army"
-" evacuated to the\n"
-"            Infrastructure\n"
-"            to use it yourself or to destroy it while retreating from the"
-" advancing enemy."
+msgid "intro_paragraph_1"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:15
-msgid ""
-"The k.u.k. The army also went rigorously against its own multi-ethnic "
-"population\n"
-"            in front.\n"
-"            Various groups of the population were purposefully displaced "
-"in order to bring them to the (real and\n"
-"            alleged) alliance with enemy states. It also came about\n"
-"            Executions. On the front with Russia there were Jews, "
-"Ruthenians (those in Galicia and\n"
-"            the\n"
-"            Bucovina resident Ukrainians) and Romanians affected, "
-"especially the Christians\n"
-"            orthodox population."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:6
+msgid "intro_paragraph_2"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:24
-msgid ""
-"There were more than a million within the monarchy during World War I.\n"
-"            People on the run. The refugees were in overcrowded "
-"collection points\n"
-"            registered\n"
-"            and categorized according to social status, material "
-"property, ethnicity and religion. aim\n"
-"            this\n"
-"            Measures was the management and control of the refugee flows."
-" In empty\n"
-"            Railway wagons\n"
-"            and under close guard the people were finally assigned to "
-"them\n"
-"            Whereabouts transferred. Many of them died on the way from "
-"hunger and cold or\n"
-"            because of the outbreak of epidemics."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:7
+msgid "intro_paragraph_3"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:35
-msgid ""
-"To the big cities of the monarchy, where refugees had already gathered,\n"
-"            to\n"
-"            relieve, in September 1914 the building of barrack camps for "
-"the destitute\n"
-"            Crowds decided. These camps were built along favorable rail "
-"connections,\n"
-"            however\n"
-"            built isolated from existing villages and towns. So should "
-"the integration\n"
-"            and\n"
-"            long-term settling of the refugees will be prevented, and the"
-" natives\n"
-"            Population in this way was inconsistent with the true extent "
-"of the war\n"
-"            faced."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:8
+msgid "intro_paragraph_4"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:46
-msgid ""
-"Several such barracks were built in Lower Austria, the largest in Gmünd\n"
-"            housed up to 30,000 Ruthenian refugees. The Oberhollabrunn "
-"camp was established in\n"
-"            year\n"
-"            Established in 1916 and operated as a refugee camp until the "
-"spring of 1918. Here were before\n"
-"            everything\n"
-"            Ruthenians and Romanians from Bukovina quartered in their "
-"homeland in the summer of 1916\n"
-"            by\n"
-"            an advance by tsarist Russia led to renewed mass exodus and "
-"expulsion.\n"
-"            you\n"
-"            belonged to the Christian, to a considerable extent Orthodox "
-"population of the\n"
-"            Bucovina\n"
-"            at. In the spring of 1918, after the peace agreement with "
-"Soviet Russia in Brest-Litovsk,\n"
-"            were\n"
-"            transported them back to their largely destroyed homeland."
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:9
+msgid "intro_paragraph_5"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:62
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:12
 msgid "Further reading"
 msgstr ""
 
-#: flucht/templates/layout.html:19
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:1
+msgid "pfarrchronik_oberhollabrunn_1916"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:2
+msgid "wochenzeitung24031916"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:3
+msgid "eggenburger_zeitung29091916"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:4
+msgid "eggenburger_zeitung17111916"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:5
+msgid "allgemeiner_tiroler18071917"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:6
+msgid "kremser_zeitung05021916"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:7
+msgid "pfarrchronik_oberhollabrunn1917"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:8
+msgid "wochenzeitung24051918"
+msgstr ""
+
+#: flucht/templates/nav.html:18
 msgid "Intro"
 msgstr ""
 
-#: flucht/templates/layout.html:20
+#: flucht/templates/nav.html:19
 msgid "Exhibition"
 msgstr ""
 

@@ -25,13 +25,13 @@ body {
 /* Exhibition Sidebar */
 
 .sidebar {
-    width: 1%;
+    width: 3%;
     height: 100vh;
     min-height: 200px;
     overflow: auto;
     position: -webkit-sticky;
     position: sticky;
-    top: 5%;
+    top: 1%;
     background-color: grey;
     margin-left: 3%;
 }
@@ -64,8 +64,9 @@ body {
 
 .nav ul li {
     float: left;
-    height: 10vh;
+    height: 6vh;
 }
+
 .nav ul li a {
     display: block;
     padding: 0.5rem 1rem;
@@ -76,4 +77,22 @@ body {
 
 .nav ul li a.current {
     background-color: black;
+}
+
+.modal-body {
+    padding: unset;
+}
+
+.modal-image {
+    width: 100%;
+    height: 100%;
+}
+
+.modal-footer {
+      justify-content: unset;
+    background-color: rgba(44, 48, 52, 0.7);
+}
+
+.modal-content{
+    background-color: rgba(0, 0, 0, 0);
 }

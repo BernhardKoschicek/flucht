@@ -1,5 +1,18 @@
 {% extends "layout.html" %}
 
+{% macro build_text(texts) %}
+    <figure>
+        <blockquote class="blockquote">
+            <p class="source-text">{{ _(texts) }}</p>
+        </blockquote>
+        <figcaption class="blockquote-footer">
+            <cite title="{{ citation[texts] }}">{{ citation[texts] }}</cite>
+        </figcaption>
+    </figure>
+
+{% endmacro %}
+
+
 {% block content %}
     <div class="wrapper">
         <div class="main_exi">
@@ -8,78 +21,201 @@
                 <h2 class="text-center">{{ _('page_subtitel') }}</h2>
             </section>
             <section id="section-2">
-                    <div class="row mt-5">
-                        <div class="col">
-                            {{ images['kundmachung19071915']|safe }}
-                        </div>
-                        <div class="col-3">
-                            <p class="inner_monolog">{{ _('inner_monolog_1') }}</p>
-                        </div>
-                        <div class="col">
-                            {{ images['kuk_maschinengewehr']|safe }}
-                        </div>
+                <div class="row mt-5">
+                    <div class="col">
+                        {{ images['kundmachung19071915']|safe }}
                     </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_1') }}</p>
+                    </div>
+                    <div class="col">
+                        {{ images['kuk_maschinengewehr']|safe }}
+                    </div>
+                </div>
             </section>
             <section id="section-3">
-                    <div class="row mt-5">
-                        <div class="col">
-                            {{ images['kundmachung20051916']|safe }}
-                        </div>
-                        <div class="col-3">
-                            <p class="inner_monolog">{{ _('inner_monolog_2') }}</p>
-                        </div>
-                        <div class="col">
-                            {{ images['kriegsschaeden1917']|safe }}
-                        </div>
+                <div class="row mt-5">
+                    <div class="col">
+                        {{ images['kundmachung20051916']|safe }}
                     </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_2') }}</p>
+                    </div>
+                    <div class="col">
+                        {{ images['kriegsschaeden1917']|safe }}
+                    </div>
+                </div>
             </section>
             <section id="section-4">
-        <iframe src="https://rsimon.github.io/zukunftsfonds-mobile-site/" width="1200" height="600"></iframe>
+                <iframe src="https://rsimon.github.io/zukunftsfonds-mobile-site/" width="1200"
+                        height="600"></iframe>
             </section>
             <section id="section-5">
-                 <div class="row mt-5">
-                        <div class="col source-text">
-                            {{ _('pfarrchronik_oberhollabrunn_1916')}}
-                        </div>
-                        <div class="col-3">
-                            <p class="inner_monolog">{{ _('inner_monolog_3') }}</p>
-                        </div>
-                        <div class="col">
-                            {{ images['ansicht_oberhollabrunn1910']|safe }}
-                            {{ images['lagertor']|safe }}
-                        </div>
+                <div class="row mt-5">
+                    <div class="col">
+                        {{ build_text('pfarrchronik_oberhollabrunn_1916') | safe}}
                     </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_3') }}</p>
+                    </div>
+                    <div class="col">
+                        {{ images['ansicht_oberhollabrunn1910']|safe }}
+                        {{ images['lagertor']|safe }}
+                    </div>
+                </div>
             </section>
             <section id="section-6">
                 <div class="row mt-5">
-                        <div class="col source-text">
-                            {{ _('pfarrchronik_oberhollabrunn_1916')}}
-                        </div>
-                        <div class="col-3">
-                            <p class="inner_monolog">{{ _('inner_monolog_4') }}</p>
-                        </div>
-                        <div class="col">
-                            {{ images['lagertor_oberhollabrunn1916']|safe }}
-                        </div>
+                    <div class="col">
+                        BILD LAGERBUCH
                     </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_4') }}</p>
+                    </div>
+                    <div class="col">
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
             </section>
             <section id="section-7">
-                <h1>Section 7</h1>
-                <p>Cum asperiores temporibus itaque consequatur quod inventore, quia quis explicabo
-                    dicta esse minus voluptatem reiciendis eveniet animi, necessitatibus illum
-                    dolorem doloremque repellat placeat, dolores eaque.</p>
+                <div class="row mt-5">
+                    <div class="col source-text">
+                        {{ build_text('wochenzeitung24031916') | safe}}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_5') }}</p>
+                    </div>
+                    <div class="col">
+                        ANSICHT STADT
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
             </section>
             <section id="section-8">
-                <h1>Section 8</h1>
-                <p>Optio qui, omnis itaque rerum iusto molestiae necessitatibus deleniti quod
-                    tenetur id perspiciatis voluptatum dolorum quisquam eius ipsum non architecto
-                    labore! Distinctio, tenetur. Officiis, necessitatibus?</p>
+                <div class="row mt-5">
+                    <div class="col source-text">
+                        {{ build_text('eggenburger_zeitung29091916') | safe}}
+                        {{ build_text('eggenburger_zeitung17111916') | safe}}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_6') }}</p>
+                    </div>
+                    <div class="col">
+                        LAGEPLAN
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
             </section>
             <section id="section-9">
-                <h1>Section 9</h1>
-                <p>Rem iste iure blanditiis excepturi esse nisi corrupti sequi, illo, laborum quo
-                    quis quaerat assumenda perspiciatis quod fuga vel laudantium doloribus
-                    architecto tempora omnis earum!</p>
+                <div class="row mt-5">
+                    <div class="col">
+                        LAGERBUCH CZIEBANOWSKI
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_7') }}</p>
+                    </div>
+                    <div class="col">
+                        VERMISSTENANZEIGE
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
+            </section>
+            <section id="section-10">
+                <div class="row mt-5">
+                    <div class="col">
+                        BILD VON HANDWERK
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_8') }}</p>
+                    </div>
+                    <div class="col">
+                        BILD VON GELD
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
+            </section>
+            <section id="section-11">
+                <div class="row mt-5">
+                    <div class="col">
+                        BILD VON SCHULE
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                        {{ build_text('allgemeiner_tiroler18071917') | safe}}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_9') }}</p>
+                    </div>
+                    <div class="col">
+                        {{ build_text('kremser_zeitung05021916') | safe}}
+                        BILD VON ZUG
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
+            </section>
+            <section id="section-12">
+                <div class="row mt-5">
+                    <div class="col">
+                        {{ build_text('pfarrchronik_oberhollabrunn1917') | safe}}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_10') }}</p>
+                    </div>
+                    <div class="col">
+                        BILD VON TOTENBESCHAUUNG
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
+            </section>
+            <section id="section-13">
+                <div class="row mt-5">
+                    <div class="col">
+                        BILD VON KIRCHE
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_11') }}</p>
+                    </div>
+                    <div class="col">
+                        BILD VON Lagerverwaltung
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
+            </section>
+            <section id="section-14">
+                <div class="row mt-5">
+                    <div class="col">
+                         {{ build_text('wochenzeitung24051918') | safe}}
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_12') }}</p>
+                    </div>
+                    <div class="col">
+                        BILD VON GRUPPE 1918
+                        {{ images['lagertor_oberhollabrunn1916']|safe }}
+                    </div>
+                </div>
+            </section>
+            <section id="section-15">
+                <div class="row mt-5">
+                    <div class="col">
+                        Film/Slideshow von Standbilder
+                    </div>
+                    <div class="col-3">
+                        <p class="inner_monolog">{{ _('inner_monolog_13') }}</p>
+                    </div>
+                    <div class="col">
+                        Slideshow heutige Häuser
+                    </div>
+                </div>
+            </section>
+            <section id="section-16">
+                <div class="row mt-5">
+                    <div class="col">
+                       {{ _('sponsored_by') }}
+                       {{ _('collaboration') }}
+                    </div>
+                </div>
             </section>
         </div>
         <div class="sidebar nav d-flex">
@@ -93,6 +229,13 @@
                 <li style="background-color: #632d85"><a href="#section-7"></a></li>
                 <li style="background-color: #c37f83"><a href="#section-8"></a></li>
                 <li style="background-color: #3fae6b"><a href="#section-9"></a></li>
+                <li style="background-color: #5a663d"><a href="#section-10"></a></li>
+                <li style="background-color: #b794c4"><a href="#section-11"></a></li>
+                <li style="background-color: #6093e2"><a href="#section-12"></a></li>
+                <li style="background-color: #499191"><a href="#section-13"></a></li>
+                <li style="background-color: #ae9841"><a href="#section-14"></a></li>
+                <li style="background-color: #dddb22"><a href="#section-15"></a></li>
+                <li style="background-color: #dddb22"><a href="#section-16"></a></li>
             </ul>
         </div>
     </div>
