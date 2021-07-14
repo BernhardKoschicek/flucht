@@ -7,8 +7,10 @@ def build_img_tag():
     for name, value in pictures_exhibition.items():
         img_tag[name] = f'''
             <figure>
-                <img id={name} data-bs-toggle="modal" data-bs-target="#{name}Modal" class="img-thumbnail"
-                     src="{url_for('static', filename=value['filepath'])}" alt="{value['text']}">
+                <img id={name} data-bs-toggle="modal" data-bs-target="#{name}Modal" 
+                    class="img-thumbnail"
+                    src="{url_for('static', filename=value['filepath'])}" alt="{value['text']}"
+                    loading="lazy">
             </figure>
             <div class="modal fade" id="{name}Modal" tabindex="-1" aria-labelledby="{name}Modal"
                  aria-hidden="true">
