@@ -24,8 +24,12 @@ window.addEventListener("scroll", event => {
       section.offsetTop + section.offsetHeight > fromTop
     ) {
       link.classList.add("current");
+      // section.classList.add("current");
     } else {
       link.classList.remove("current");
+       // section.classList.remove("current");
     }
   });
 });
+
+

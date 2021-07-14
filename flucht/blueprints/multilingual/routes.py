@@ -3,6 +3,7 @@ from flask_babel import _
 
 from flucht import app
 from flucht.data.exhibition import build_img_tag, citations
+from flucht.data.logos import logos
 from flucht.data.references import intro_books
 
 multilingual = Blueprint(
@@ -51,9 +52,10 @@ def intro() -> str:
 def exhibition():
     return render_template(
         'multilingual/exhibition.html',
-        title=_('exhibition_title'),
+        title=_('page_titel'),
         citation=citations,
-        images=build_img_tag())
+        images=build_img_tag(),
+        sponsors=logos)
 
 
 @multilingual.errorhandler(404)

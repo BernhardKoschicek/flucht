@@ -10,7 +10,7 @@ body {
 
 .inner_monolog {
     font-family: 'Sacramento', serif;
-    font-size: 48px;
+    font-size: 3em;
 }
 
 .pic-source {
@@ -18,20 +18,20 @@ body {
 }
 
 .source-text {
-    font-size: 1em;
+    font-size: 1.3em;
     font-family: 'UnifrakturMaguntia', serif;
 }
 
 /* Exhibition Sidebar */
 
 .sidebar {
-    width: 3%;
+    width: 5%;
     height: 100vh;
     min-height: 200px;
     overflow: auto;
     position: -webkit-sticky;
     position: sticky;
-    top: 1%;
+    top: 5%;
     background-color: grey;
     margin-left: 3%;
 }
@@ -95,4 +95,28 @@ body {
 
 .modal-content{
     background-color: rgba(0, 0, 0, 0);
+}
+
+section.current {
+    background-color: black;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }

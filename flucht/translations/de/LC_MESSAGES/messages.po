@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-13 18:42+0200\n"
-"PO-Revision-Date: 2021-07-13 18:45+0200\n"
+"POT-Creation-Date: 2021-07-14 11:51+0200\n"
+"PO-Revision-Date: 2021-07-14 11:57+0200\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -19,95 +19,95 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:20
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:17
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:3
 msgid "page_titel"
 msgstr "Auf der Flucht in der Monarchie"
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:21
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:18
 msgid "page_subtitel"
 msgstr ""
 "Das Schicksal der orthodoxen Flüchtlinge im Lager Oberhollabrunn (1914-1918)"
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:29
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:25
 msgid "inner_monolog_1"
 msgstr ""
 "Als die Front immer näher an mein Dorf rückte, floh ich in die Stadt  "
 "Czernowitz."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:42
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:38
 msgid "inner_monolog_2"
 msgstr ""
 "Die russische Armee nahm Czernowitz ein und wir wurden von der kaiserlichen "
 "Armee tiefer in die Monarchie verbracht, ..."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:59
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:55
 msgid "inner_monolog_3"
 msgstr ""
 "… und zwar in eine Stadt Namens Hollabrunn, genauer gesagt in ein dort "
 "errichtetes Lager."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:73
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:69
 msgid "inner_monolog_4"
 msgstr ""
 "Gemeinsam mit vielen hundert Vertriebenen wartete ich geduldig darauf von der "
 "Lagerverwaltung im Lagerbuch registriert zu werden."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:86
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:82
 msgid "inner_monolog_5"
 msgstr ""
 "Meine neue Heimat war eine feste Baracke, die ich mit anderen Vertriebenen "
 "teilte."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:101
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:96
 msgid "inner_monolog_6"
 msgstr ""
 "Auf meinen täglichen Spaziergängen konnte ich beobachten wie sich das Lager "
 "mehr und mehr füllte, ..."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:116
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:109
 msgid "inner_monolog_7"
 msgstr "… darunter auch ganze Familien, leider oft nicht gemeinsam."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:131
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:122
 msgid "inner_monolog_8"
 msgstr "Das Lager ist wie eine eigene Stadt, es gibt eigenes Geld, Handwerk, ..."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:147
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:136
 msgid "inner_monolog_9"
 msgstr ""
 "… eine Schule für die Kinder und sogar eine eigene Eisenbahn und Sonntags eine "
 "Messe."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:162
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:150
 msgid "inner_monolog_10"
 msgstr ""
 "Dennoch überschattet das Heimweh alles und viele werden von Krankheit "
 "dahingerafft."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:177
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:163
 msgid "inner_monolog_11"
 msgstr ""
 "Schmerzhaft ist der Abschied von diesen neuen Freunden, trotz des tröstlichen "
 "Einsatzes unserer Priester."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:191
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:176
 msgid "inner_monolog_12"
 msgstr ""
 "Endlich kann ich nach zwei Jahren das Lager wieder verlassen und in die Heimat "
 "aufbrechen"
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:205
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:189
 msgid "inner_monolog_13"
 msgstr ""
 "Viele Jahre später musste ich mit Erstaunen feststellen, dass das Lager "
 "tatsächlich eine Stadt geworden ist, die Gartenstadt."
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:215
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:199
 msgid "sponsored_by"
 msgstr "Gefördert von"
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:216
+#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:200
 msgid "collaboration"
 msgstr "In Zusammenarbeit mit"
 
@@ -268,6 +268,62 @@ msgstr "Lagertor"
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:17
 msgid "lagertor_oberhollabrunn1916"
 msgstr "Das Haupttor zum Flüchtlingslager Oberhollabrunn im Jahre 1916"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:18
+msgid "ansicht_stadt_fluchtlingslager"
+msgstr "Ansicht der Stadt und des Flüchtlingslagers"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:19
+msgid "Lageplan"
+msgstr "Lagerplan "
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:20
+msgid "cziebanowski_lagerbuch"
+msgstr "Familie Cziebanowski im Lagerbuch"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:21
+msgid "oberhollabrunn_vermisstenanzeigen"
+msgstr ""
+"Nachforschung und Vermisstenanzeigen zur Wiedervereinigung und Auffindung "
+"vermisster Familienmitglieder. Kundmachung durch den k. k. Bezirkshauptmann "
+"Held vom 8.1.1915 für Oberhollabrunn in Form eines mehrsprachiges Plakats"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:22
+msgid "handwerk"
+msgstr "Handwerk im Lager"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:23
+msgid "lagergeld"
+msgstr "Lagergeld"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:24
+msgid "schule"
+msgstr "Unterricht im Lager"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:25
+msgid "zug"
+msgstr "Lagerbahn"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:26
+msgid "totenbeschauung"
+msgstr "Totenbeschauschein des Anton Pawluk"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:27
+msgid "kirche"
+msgstr "Kirche im Lager"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:28
+msgid "lagerverwaltung"
+msgstr ""
+"Schreiben der Lagerverwaltung an das Griech. Orient. Pfarramt zur hl. "
+"Dreifaltigkeit in Wien I. Fleichmarkt\n"
+"bezüglich der Anbringung einer Gedenktafel für die auf dem Friedhof in "
+"Oberhollabrunn begrabenen Flüchtlinge,\n"
+"31. Mai 1920"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:29
+msgid "gruppe1918"
+msgstr "Flüchtlingslager Oberhollabrunn, 1918"
 
 #: flucht/templates/nav.html:18
 msgid "Intro"

@@ -17,7 +17,7 @@ def build_img_tag():
                         <div class="modal-body">
                             <div class="img_container">
                                 <img id={name} class="modal-image" src="{url_for('static',
-                                filename=value['filepath'])}" alt="{_(value['text'])}">
+                                                                                 filename=value['filepath'])}" alt="{_(value['text'])}">
                             </div>
                         </div>
                         <div class="modal-footer justify-content-between">
@@ -50,7 +50,16 @@ citations = {
     'pfarrchronik_oberhollabrunn1917': 'Pfarrchronik Oberhollabrunn, 1917',
     'wochenzeitung24051918': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 24. Mai 1918'}
 
-licensing = {'public_domain': 'Public Domain'}
+licensing = {
+    'public_domain': 'Public Domain',
+    'fe': 'Friedrich Ecker',
+    'u': 'unknown',
+    'oenb': 'Österreichische National Bibliothek',
+    'ha': 'Heritage Auction',
+    'aichhorn': 'Aichhorn',
+'seher': 'Seher',
+'fittner': 'Fittner',
+'holla': 'Stadtarchiv Hollabrunn'}
 
 pictures_exhibition = {
     'kundmachung19071915': {
@@ -60,7 +69,7 @@ pictures_exhibition = {
         'licensing': licensing['public_domain']
     },
     'kuk_maschinengewehr': {
-        'filepath': 'images/exhibition/1024px-01915_Maschinengewehr_Abteilung_Lawoczne.jpg',
+        'filepath': 'images/exhibition/Maschinengewehr_Abteilung_Lawoczne.jpg',
         'text': 'maschinengewher_lawoczne',
         'url': 'https://commons.wikimedia.org/wiki/File:01915_Maschinengewehr_Abteilung,_Lawoczne.jpg',
         'licensing': licensing['public_domain']
@@ -87,13 +96,85 @@ pictures_exhibition = {
         'filepath': 'images/exhibition/lagertor.jpg',
         'text': 'lagertor',
         'url': '',
-        'licensing': ''
+        'licensing': licensing['u']
     },
     'lagertor_oberhollabrunn1916': {
         'filepath': 'images/exhibition/lagertor_oberhollabrunn1916.jpg',
         'text': 'lagertor_oberhollabrunn1916',
         'url': 'https://upload.wikimedia.org/wikipedia/de/e/e3/Stockerau_Fl%C3%BCchtlingslager.jpg',
         'licensing': licensing['public_domain']
+    },
+    'ansicht_stadt_fluchtlingslager': {
+        'filepath': 'images/exhibition/ansicht_stadt_fluchtlingslager.jpg',
+        'text': 'ansicht_stadt_fluchtlingslager',
+        'url': '',
+        'licensing': licensing['holla']
+    },
+    'Lageplan': {
+        'filepath': 'images/exhibition/Lageplan.jpg',
+        'text': 'Lageplan',
+        'url': 'http://www.ffhollabrunn.at/images/Homepage/Sachgebiete/Geschichte/lagerfeuerwehr2.jpg',
+        'licensing': licensing['fe']
+    },
+    'cziebanowski_lagerbuch': {
+        'filepath': 'images/exhibition/cziebanowski_lagerbuch.jpg',
+        'text': 'cziebanowski_lagerbuch',
+        'url': '',
+        'licensing': licensing['u']
+    },
+    'oberhollabrunn_vermisstenanzeigen': {
+        'filepath': 'images/exhibition/oberhollabrunn_vermisstenanzeigen.jpg',
+        'text': 'oberhollabrunn_vermisstenanzeigen',
+        'url': '',
+        'licensing': licensing['oenb']
+    },
+    'handwerk': {
+        'filepath': 'images/exhibition/handwerk.jpg',
+        'text': 'handwerk',
+        'url': '',
+        'licensing': licensing['aichhorn']
+    },
+    'lagergeld': {
+        'filepath': 'images/exhibition/lagergeld.jpg',
+        'text': 'lagergeld',
+        'url': '',
+        'licensing': licensing['ha']
+    },
+    'schule': {
+        'filepath': 'images/exhibition/schule.jpg',
+        'text': 'schule',
+        'url': '',
+        'licensing': licensing['aichhorn']
+    },
+    'zug': {
+        'filepath': 'images/exhibition/zug.jpg',
+        'text': 'zug',
+        'url': '',
+        'licensing': licensing['seher']
+    },
+    'totenbeschauung': {
+        'filepath': 'images/exhibition/totenbeschauung.jpg',
+        'text': 'totenbeschauung',
+        'url': '',
+        'licensing': licensing['u']
+    },
+    'kirche': {
+        'filepath': 'images/exhibition/kirche.jpg',
+        'text': 'kirche',
+        'url': '',
+        'licensing': licensing['fittner']
+    },
+    'lagerverwaltung': {
+        'filepath': 'images/exhibition/lagerverwaltung.jpg',
+        'text': 'lagerverwaltung',
+        'url': '',
+        'licensing': licensing['u']
+    },
+    'gruppe1918': {
+        'filepath': 'images/exhibition/gruppe1918.jpg',
+        'text': 'gruppe1918',
+        'url': 'https://www.wiener-werkstaette-postkarten.com/liste.php?offset=110&auction=30&categorie=1130',
+        'licensing': licensing['u']
     }
 
 }
