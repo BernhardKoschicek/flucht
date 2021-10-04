@@ -17,8 +17,12 @@ body {
     font-size: 0.6em;
 }
 
+.pic-source a {
+    color: #fcf8e3;
+}
+
 .source-text {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-family: 'UnifrakturMaguntia', serif;
 }
 
@@ -119,4 +123,21 @@ section.current {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+/** Scroll Indicator **/
+.scroll-bar-wrapper {
+  width: 100%;
+    padding-top: 56px;
+  height:10px;
+  position:fixed;
+  top:0;
+  left:0;
+  background:#CCCCCC;
+}
+
+.scroll-bar {
+  width:0;
+  height: inherit;
+  background: #8D7ECA;
 }

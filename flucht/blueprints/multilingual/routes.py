@@ -1,10 +1,13 @@
-from flask import Blueprint, abort, current_app, g, redirect, render_template, request, url_for
+from flask import Blueprint, abort, current_app, g, redirect, render_template, \
+    request, url_for
 from flask_babel import _
 
 from flucht import app
-from flucht.data.exhibition import build_img_tag, citations
 from flucht.data.logos import logos
 from flucht.data.references import intro_books
+from flucht.util.build_img_tag import build_img_tag
+from flucht.util.build_newspaper_tag import build_newspaper_tag
+from flucht.util.pages import get_sections_pages
 
 multilingual = Blueprint(
     'multilingual',
@@ -26,8 +29,6 @@ def pull_lang_code(endpoint, values):
 @multilingual.before_request
 def before_request():
     if g.lang_code not in current_app.config['LANGUAGES']:
-        print(current_app.config['LANGUAGES'])
-        print(g.lang_code)
         adapter = app.url_map.bind('')
         try:
             endpoint, args = adapter.match(
@@ -44,7 +45,10 @@ def before_request():
 
 @multilingual.route('/')
 def intro() -> str:
-    return render_template('multilingual/intro.html', title=_('page_titel'), books=intro_books)
+    return render_template(
+        'multilingual/intro.html',
+        title=_('page_titel'),
+        books=intro_books)
 
 
 @multilingual.route('/exhibition', defaults={'lang_code': 'en'})
@@ -53,7 +57,8 @@ def exhibition():
     return render_template(
         'multilingual/exhibition.html',
         title=_('page_titel'),
-        citation=citations,
+        newspaper=build_newspaper_tag(),
+        pages=get_sections_pages(),
         images=build_img_tag(),
         sponsors=logos)
 
