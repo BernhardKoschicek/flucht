@@ -10,11 +10,13 @@ body {
 
 .inner_monolog {
     font-family: 'Sacramento', serif;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .pic-source {
-    font-size: 0.6em;
+    font-size: 0.8em;
+    font-style: italic;
+    text-decoration: None;
 }
 
 .pic-source a {

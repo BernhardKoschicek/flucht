@@ -6,11 +6,11 @@ newspapers = {
     'neue_freie_presse_18071916': {
         'text': '',
         'citation': 'Neue Freie Presse, 18. Juli 1916',
-        'title': None},
+        'title': ''},
     'czernowitzer_tagblatt_27081914': {
         'text': '',
         'citation': 'Czernowitzer Tagblatt, 27. August 1914',
-        'title': None},
+        'title': ''},
     'innsbrucker_nachrichten_10071916': {
         'text': '',
         'citation': 'Innsbrucker Nachrichten, 10. Juli 1916',
@@ -22,18 +22,18 @@ newspapers = {
     'neue_freie_presse_18071916_2': {
         'text': '',
         'citation': 'Neue Freie Presse, 18. Juli 1916',
-        'title': None},
+        'title': ''},
     'pfarrchronik_oberhollabrunn_1916_1': {
         'text': '',
         'citation': 'Pfarrchronik Oberhollabrunn, 1916',
-        'title': None},
+        'title': ''},
     'wochenzeitung_24031916': {
         'text': '',
         'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 24. März 1916',
         'title': 'Flüchtlingslager.'},
     'pfarrchronik_oberhollabrunn_1916_2': {
         'citation': 'Pfarrchronik Oberhollabrunn, 1916',
-        'title': None},
+        'title': ''},
     'wochenzeitung_21011916': {
         'text': '',
         'citation': 'Wochenzeitung für das Viertel unter dem Manhartsberg, 21. Januar 1916',
@@ -41,11 +41,11 @@ newspapers = {
     'wochenzeitung_26021915': {
         'text': '',
         'citation': 'Wochenzeitung für das Viertel unter dem Manhartsberg, 26. Februar 1915',
-        'title': None},
+        'title': ''},
     'pfarrchrobnik_oberhollabrunn_1915_Bom': {
         'text': '',
         'citation': 'Pfarrer Anton van der Bom, Pfarrchronik Oberhollabrunn, 1915',
-        'title': None},
+        'title': ''},
     'eggenburger_zeitung_29091916': {
         'text': '',
         'citation': 'Eggenburger Zeitung, 29. September 1916',
@@ -57,11 +57,11 @@ newspapers = {
     'neue_freie_presse_09071916': {
         'text': '',
         'citation': 'Neue Freie Presse, 9. Juli 1916',
-        'title': None},
+        'title': ''},
     'neue_freie_presse_15091916': {
         'text': '',
         'citation': 'Neue Freie Presse, 15. September 1916',
-        'title': None},
+        'title': ''},
     'eggenburger_zeitung_21051915': {
         'text': '',
         'citation': 'Eggenburger Zeitung, 21. Mai 1915',
@@ -81,11 +81,11 @@ newspapers = {
     'pfarrchronik_oberhollabrunn_1917': {
         'text': '',
         'citation': 'Pfarrchronik Oberhollabrunn, 1917',
-        'title': None},
+        'title': ''},
     'illustrierte_kronen_zeitung_08071916': {
         'text': '',
         'citation': 'Illustrierte Kronen Zeitung, 8. Juli 1916',
-        'title': None},
+        'title': ''},
     'allgemeiner_tiroler_18071917': {
         'text': '',
         'citation': 'Allgemeiner Tiroler Anzeiger, 18. Juli 1917',

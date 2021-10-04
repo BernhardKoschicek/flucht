@@ -10,7 +10,7 @@ def build_newspaper_tag():
             <figure>
                 <blockquote class="blockquote">
                     <p class="source-text">
-                        <b>{value['title']}<b>
+                        <b>{value['title']}</b>
                         <br>
                         {_(name)}
                     </p>

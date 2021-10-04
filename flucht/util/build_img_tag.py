@@ -36,7 +36,7 @@ def build_img_tag():
                     <div class="col-10">
                         <p class="pic-source">
                             <a href="{value['url']}" target="_blank">
-                                ({value['source']})
+                                {value['source']}
                                </a>
                         </p>
                         <figcaption>

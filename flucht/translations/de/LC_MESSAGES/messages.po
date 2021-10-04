@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-14 11:51+0200\n"
-"PO-Revision-Date: 2021-07-14 11:57+0200\n"
+"POT-Creation-Date: 2021-10-04 16:03+0200\n"
+"PO-Revision-Date: 2021-10-04 16:05+0200\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -19,97 +19,10 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:17
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:3
+#: flucht/templates/pages/1.html:4
 msgid "page_titel"
 msgstr "Auf der Flucht in der Monarchie"
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:18
-msgid "page_subtitel"
-msgstr ""
-"Das Schicksal der orthodoxen Flüchtlinge im Lager Oberhollabrunn (1914-1918)"
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:25
-msgid "inner_monolog_1"
-msgstr ""
-"Als die Front immer näher an mein Dorf rückte, floh ich in die Stadt  "
-"Czernowitz."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:38
-msgid "inner_monolog_2"
-msgstr ""
-"Die russische Armee nahm Czernowitz ein und wir wurden von der kaiserlichen "
-"Armee tiefer in die Monarchie verbracht, ..."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:55
-msgid "inner_monolog_3"
-msgstr ""
-"… und zwar in eine Stadt Namens Hollabrunn, genauer gesagt in ein dort "
-"errichtetes Lager."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:69
-msgid "inner_monolog_4"
-msgstr ""
-"Gemeinsam mit vielen hundert Vertriebenen wartete ich geduldig darauf von der "
-"Lagerverwaltung im Lagerbuch registriert zu werden."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:82
-msgid "inner_monolog_5"
-msgstr ""
-"Meine neue Heimat war eine feste Baracke, die ich mit anderen Vertriebenen "
-"teilte."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:96
-msgid "inner_monolog_6"
-msgstr ""
-"Auf meinen täglichen Spaziergängen konnte ich beobachten wie sich das Lager "
-"mehr und mehr füllte, ..."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:109
-msgid "inner_monolog_7"
-msgstr "… darunter auch ganze Familien, leider oft nicht gemeinsam."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:122
-msgid "inner_monolog_8"
-msgstr "Das Lager ist wie eine eigene Stadt, es gibt eigenes Geld, Handwerk, ..."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:136
-msgid "inner_monolog_9"
-msgstr ""
-"… eine Schule für die Kinder und sogar eine eigene Eisenbahn und Sonntags eine "
-"Messe."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:150
-msgid "inner_monolog_10"
-msgstr ""
-"Dennoch überschattet das Heimweh alles und viele werden von Krankheit "
-"dahingerafft."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:163
-msgid "inner_monolog_11"
-msgstr ""
-"Schmerzhaft ist der Abschied von diesen neuen Freunden, trotz des tröstlichen "
-"Einsatzes unserer Priester."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:176
-msgid "inner_monolog_12"
-msgstr ""
-"Endlich kann ich nach zwei Jahren das Lager wieder verlassen und in die Heimat "
-"aufbrechen"
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:189
-msgid "inner_monolog_13"
-msgstr ""
-"Viele Jahre später musste ich mit Erstaunen feststellen, dass das Lager "
-"tatsächlich eine Stadt geworden ist, die Gartenstadt."
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:199
-msgid "sponsored_by"
-msgstr "Gefördert von"
-
-#: flucht/blueprints/multilingual/templates/multilingual/exhibition.html:200
-msgid "collaboration"
-msgstr "In Zusammenarbeit mit"
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:5
 msgid "intro_paragraph_1"
@@ -126,8 +39,8 @@ msgstr ""
 msgid "intro_paragraph_2"
 msgstr ""
 "Die k.u.k. Armee ging dabei auch rigoros gegen die eigene multi-ethnische "
-"Bevölkerung vor. Verschiedene Bevölkerungsgruppen wurden gezielt vertrieben, "
-"um sie an der (realen und vermeintlichen) Verbündung mit den Feindstaaten zu "
+"Bevölkerung vor. Verschiedene Bevölkerungsgruppen wurden gezielt vertrieben, um "
+"sie an der (realen und vermeintlichen) Verbündung mit den Feindstaaten zu "
 "hindern. Es kam dabei auch zu Hinrichtungen. An der Front zu Russland waren "
 "davon Juden, Ruthenen (die in Galizien und der Bukowina ansässigen Ukrainer) "
 "und Rumänen betroffen, unter den Christen besonders die orthodoxe Bevölkerung."
@@ -172,163 +85,706 @@ msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:12
 msgid "Further reading"
-msgstr "Weiterführende Literatur"
+msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:1
-msgid "pfarrchronik_oberhollabrunn_1916"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:2
+msgid "deutsches_volksblatt_20061915"
+msgstr ""
+"Während der letzten Invasion haben die Russen nicht nur, wie schon gemeldet, "
+"das griechisch-orientalische Pfarrhaus in Toporoutz vernichtet. Auch in die "
+"neue Kirche wollten sie einbrechen, um dieselbe auszuplündern. Die "
+"zusammenlaufende Bevölkerung, namentlich Weiber, flehte kniend um die "
+"Verschonung der Kirche, worauf die Russen nach mehreren Mißhandlungen der "
+"Frauen dies unterließen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:3
+msgid "neue_freie_presse_18071916"
+msgstr ""
+"Man irrt aber, wenn man glaubt, daß Czernowitz ganz und gar menschenleer "
+"geworden sei. Es gibt viele Tausende, die nicht fliehen wollen, in erster Reihe "
+"die agrarischen Vorstädtler, die sich lieber in Stücke schneiden lassen, ehe "
+"sie sich entschließen, ihr Anwesen zu verlassen. Dann kommen die ganz Armen, "
+"die sich in ihre dürftigen Behausungen verkriechen und hoffen, das russische "
+"Schicksal werde an ihnen achtlos vorbeiziehen. Dann gibt es wieder viele, die "
+"ihre kranken Frauen, Mütter oder Schwestern nicht verlassen können, und "
+"schließlich auch solche, die sich sagen: „Ich habe nichts zu verlieren, und in "
+"ein Flüchtlingslager gehe ich nicht."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:4
+msgid "czernowitzer_tagblatt_27081914"
+msgstr ""
+"Ein langer Zug von Flüchtlingen kam mir entgegen. Wohin? Fort von den Russen. "
+"Man hieß ihnen ihre Häuser verlassen. In aller Eile packten sie, was ihnen "
+"gerade unentbehrlich schien und verluden es auf die kleinen Fuhren. Darauf "
+"setzten sich die Weiber, in deren Armen Kinder ruhten. Sie hatten ein Ziel, "
+"vorläufig aus der Schußweite zu kommen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:5
+msgid "innsbrucker_nachrichten_10071916"
+msgstr ""
+"Die Männer im Alter von 18 bis 50 Jahren mußten sich bei sonstiger Todesstrafe "
+"beim Magistrate melden, vermutlich wegen ihrer allfälligen Internierung. Ihre "
+"Anzahl ist jedoch mit Rücksicht auf die von den österreichischen Behörden "
+"angeordnete Evakuierung sehr gering."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:6
+msgid "neue_freie_presse_20061916"
+msgstr ""
+"Unsere Armeeleitung traf ihre letzten Maßnahmen. Von neun Uhr abends an begann "
+"sie mit der Bergung der Güter. Von fünf zu fünf  Minuten gingen Züge mit "
+"achtzig bis hundert  Waggons ab, auf welche die Stacheldrähte und  ungeheure "
+"Mengen von Munition sowie große Getreidevorräte verladen wurden. Infolgedessen "
+"konnten auch die Personenzüge nicht vor acht Uhr verkehren. Die Lokomotiven "
+"kehrten nämlich in den Morgenstunden nach und nach alle zurück, um die "
+"Beförderung der Publikumszüge zu übernehmen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:7
+msgid "neue_freie_presse_18071916_2"
+msgstr ""
+"Ein neues, vorher nie gesehenes Bild bot sich uns dar: der Auszug der Rinder "
+"aus der Bukowina. Ueber hunderttausend Stück wurden so zunächst ins Innere des "
+"Landes und als der Feind die Pruthlinie nahm, nach Siebenbürgen abgeschoben. "
+"Die Tücke des Zufalls wollte es übrigens, daß die Saaten gerade heuer zu den "
+"schönsten Hoffnungen berechtigten. Nun werden sie, wie ich höre, von den "
+"Kosaken im halbreifen Zustande niedergemäht und als Pferdefutter verwendet, im "
+"übrigen aber rücksichtslos niedergetreten."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:8
+msgid "pfarrchronik_oberhollabrunn_1916_1"
 msgstr ""
 "Anfang Jänner wurden die Äcker um den Kirchenwald und um die Straße nach "
 "Raschala angekauft und mit dem Bau von Kriegerheimstätten und Baracken für die "
-"Flüchtlinge begonnen. Die Sparkasse hat dazu bedeutende Summen beigegeben. "
-"6000 Personen, meistens aus der Bukowina und Südost Galizien sind dort "
+"Flüchtlinge begonnen. Die Sparkasse hat dazu bedeutende Summen beigegeben. 6000 "
+"Personen, meistens aus der Bukowina und Südost Galizien sind dort "
 "untergebracht. Die aus Ziegeln gebauten Baracken sollen nach dem Kriege als "
 "Invalidenheimstätte benützt werden. Die meisten gehören der griechisch-"
 "orientalischen Kirche an. Ein Pfarrer aus Galizien, der hier als Flüchtling "
 "seit einem Jahr wohnt, Pf. Bilinsky, nimmt sich der griechisch Unierten an: "
 "liest dort die hl. Messe und spendet die hl. Sakramente."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:2
-msgid "wochenzeitung24031916"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:9
+msgid "wochenzeitung_24031916"
 msgstr ""
-"Flüchtlingslager.\n"
-"Die in Barackenform in Aussicht genommenen Unterkünfte für die Flüchtlinge "
-"sind bereits zum größten Teile hergestellt. Nunmehr gelangen kleinere und "
-"größere Familienwohnhäuse[r], welche vollständig in Mauerwerk ausgeführt "
-"wurden, zur Vergebung und Herstellung. Die von der Bahnstation zum "
-"Flüchtlingslager errichtete Schmalspurbahn funktioniert schon seit längerer "
-"Zeit, und wird hauptsächlich zu Materialzufuhr verwendet."
+"Die in Barackenform in Aussicht genommenen Unterkünfte für die Flüchtlinge sind "
+"bereits zum größten Teile hergestellt. Nunmehr gelangen kleinere und größere "
+"Familienwohnhäuse[r], welche vollständig in Mauerwerk ausgeführt wurden, zur "
+"Vergebung und Herstellung. Die von der Bahnstation zum Flüchtlingslager "
+"errichtete Schmalspurbahn funktioniert schon seit längerer Zeit, und wird "
+"hauptsächlich zu Materialzufuhr verwendet."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:3
-msgid "eggenburger_zeitung29091916"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:10
+msgid "pfarrchronik_oberhollabrunn_1916_2"
 msgstr ""
-"Ober-Hollabrunn [...] Im hiesigen Flüchtlingslager sind schon mehr als 2000 "
+"Anfang Jänner wurden die Äcker um den Kirchenwald und um die Straße nach "
+"Raschala angekauft und mit dem Bau von Kriegerheimstätten und Baracken für die "
+"Flüchtlinge begonnen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:11
+msgid "wochenzeitung_21011916"
+msgstr ""
+"Die Arbeiten zur Herstellung des von der Staatsverwaltung in Oberhollabrunn in "
+"Aussicht genommenen Flüchtlingslagers sind bereits in Angriff genommen worden. "
+"Zu dem Lagerplatze, der einen Raum von 70 Joch Grund in Anspruch nimmt, wird "
+"eine schmalspurige Bahn zwecks Verbindung mit der Nordwestbahn gebaut. Sie ist "
+"unter Zuhilfenahme der Internierten schon seit einigen Tagen im Bau begriffen. "
+"Auch an der Zuleitung des Wassers aus der städtischen Wasserversorgungsanlage, "
+"sowie des elektrischen Stromes aus dem städtischen Elektrizitätswerke wird "
+"gearbeitet."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:12
+msgid "wochenzeitung_26021915"
+msgstr ""
+"Die Internierungsstationen befinden sich in Weierburg, Enzersdorf im Tale, "
+"Sitzendorf, Mittergrabern und Raschala, wobei die in diesen Orten befindlichen "
+"herrschaftlichen Schüttkästen samt umliegenden Grundstücken benützt werden. Dem "
+"Vernehmen nach soll auch in Oberhollabrunn und zwar in der ehemals Gindlschen "
+"Gasthausrealität eine Internierungsstation untergebracht werden."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:13
+msgid "pfarrchrobnik_oberhollabrunn_1915_Bom"
+msgstr ""
+"Interniertenlager in Raschala: In Raschala neben dem Forsthause wurde ein "
+"großes Barackenlager für Internierte Italiener und Polen und Ruthenen "
+"errichtet. An vielen Sonntagen wurde dort von mir oder von einem der Herren aus "
+"dem Seminar die Hl. Messe gelesen und gepredigt."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:14
+msgid "eggenburger_zeitung_29091916"
+msgstr ""
+"Ober-Hollabrunn: Im hiesigen Flüchtlingslager sind schon mehr als 2000 "
 "Evakuierte untergebracht. Gestohlen wird von diesen Leuten auf den Feldern "
 "nicht wenig."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:4
-msgid "eggenburger_zeitung17111916"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:15
+msgid "eggenburger_zeitung_17111916"
 msgstr ""
-"Oberhollabrunn. [...] Im hiesigen Flüchtlingslager sind mehr als 3000 "
-"Flüchtlinge von der Bukowina und von Siebenbürgen untergebracht."
+"Oberhollabrunn: Im hiesigen Flüchtlingslager sind mehr als 3000 Flüchtlinge von "
+"der Bukowina und von Siebenbürgen untergebracht."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:5
-msgid "allgemeiner_tiroler18071917"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:16
+msgid "neue_freie_presse_09071916"
 msgstr ""
-"Eine neue Schule für Flüchtlinge. Im Flüchtlingslager von Oberhollabrunn (in "
-"Niederösterreich) wurde eine Volksschule für Flüchtlingskinder eröffnet. Der "
-"Einweihung wohnte u.a. der Lagerkommandant Dr. R. v. Grimm, Sekretär Graf "
-"Bidovich und Abg. Dr. Laginja bei."
+"Die Kämpfe bei Kirlibaba waren sehr blutig. Die österreichisch-ungarischen "
+"Truppen schossen endlos."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:6
-msgid "kremser_zeitung05021916"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:17
+msgid "neue_freie_presse_15091916"
 msgstr ""
-"Auch der Bau der schmalspurigen Bahn zu diesem Flüchtlingslager geht flott von "
-"statten."
+"Bei dem von Dorna-Watra vier Kilometer entfernten rumänischen Grenzorte "
+"Guranegri stoßen die über Colbutul hinabsteigenden Russen mit den Rumänen "
+"zusammen.\n"
+"Dorna-Watra ist durch die Ereignisse in den Mittelpunkt der strategischen "
+"Operationen getreten. Entsprechend der neugeschaffenen Lage wurde die Stadt von "
+"den Zivilbehörden, die bis zur letzten Minute ausharrten, geräumt."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:7
-msgid "pfarrchronik_oberhollabrunn1917"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:18
+msgid "eggenburger_zeitung_21051915"
+msgstr ""
+"Herr Macht  berichtete über die gute Verwendbarkeit der Flüchtinge zu "
+"landwirtschaftlicher Arbeit, weshalb unsere Landwirte von dieser Möglichkeit "
+"ausgiebig Gebrauch machen sollen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:19
+msgid "wochenzeitung_10111916"
+msgstr ""
+"Das Flüchtlingslager, welches jetzt mit mehr als 3000 Flüchtlingen, zumeist aus "
+"der Bukowina und Siebenbürgen belegt ist, macht sich für die hiesige "
+"Bevölkerung recht unangenehm bemerkbar. Trotz der Einzäunung des Lagers läßt "
+"man die Insassen in großen Mengen heraus. Diese belagern alle "
+"Lebensmittelverkaufsstellen, raufen sich in den Tabaktrafiken mit den "
+"Einheimischen um die karg bemessenen Rationen und geben auch sonst zu vielen "
+"Klagen und Beschwerden Anlaß. Da sollte die Verwaltung etwas strenger sein, "
+"bevor es zum Krach kommt."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:20
+msgid "wochenzeitung_22091916"
+msgstr ""
+"Dank der Evakuierung von Teilen Ostgaliziens und der Bukowina sind schon mehr "
+"als 2000 Flüchtlinge in unserem Lager untergebracht. Leider gibt es darunter "
+"auch viele Notleidende, die es mit „Mein“ und „Dein“ nicht sehr genau nehmen. "
+"Namentlich Weintrauben und Erdäpfel erfreuen sich der besonderen Vorliebe und "
+"Aufmerksamkeit dieser Elemente."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:21
+msgid "neue_freie_presse_13071917"
+msgstr ""
+"Mit Recht nahm der Abgeordnete Grigorovici die Flüchtlinge gegen seine Vorwürfe "
+"in Schutz und sagte, jedes zweideutige Wort, das über die Flüchtlinge "
+"gesprochen werde, müsse als Verdächtigung aufgefaßt werden. Es seien "
+"Flüchtlinge in Schnee und Frost stundenlang gegangen, um ein Stückchen Brot zu "
+"erlangen. Schon Gereinigten habe man wieder die alten Kleider gegeben. "
+"Besonders in Oberhollabrunn seien die Ernährungsverhältnisse geradezu "
+"unhaltbar. Man könne die Leute kaum vor den ärgsten Ausschreitungen "
+"zurückhalten."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:22
+msgid "pfarrchronik_oberhollabrunn_1917"
 msgstr ""
 "In den drei ersten Monaten dieses Jahres sind im Barackenlager, wo "
 "hauptsächlich Rumänen untergebracht sind, mehr als hundert Personen gestorben. "
-"Beinahe alle waren griechisch-orientalisch. „Kälte, Hunger und Heimweh“, so "
-"wurde mir mitgeteilt, „sind die Ursachen der außerordentlich vielen "
-"Sterbefälle.“"
+"Beinahe alle waren griechisch-orientalisch. \"Kälte, Hunger und Heimweh\", so "
+"wurde mir mitgeteilt, \"sind die Ursachen der außerordentlich vielen "
+"Sterbefälle.\""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:8
-msgid "wochenzeitung24051918"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:23
+msgid "illustrierte_kronen_zeitung_08071916"
 msgstr ""
-"Flüchtlingslager. Die noch zurückgebliebenen kranken Flüchtlinge haben nun "
-"auch das hiesige Lager verlassen, um in die Heimat zurückzukehren. "
-"Zweckmäßiger Weise wurde hiezu der Samstag vor den Pfingstfeiertagen gewählt."
+"Pfarrer Kornel Pihuliak aus Babin, Bukowina, wird von seiner Gattin Augustine "
+"Pihuliak, derzeit im Barackenlager 147/10 in Gmünd, N.-Oe., gesucht."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:11
-msgid "kundmachung19071915"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:24
+msgid "allgemeiner_tiroler_18071917"
+msgstr ""
+"Im Flüchtlingslager von Oberhollabrunn (in Niederösterreich) wurde eine "
+"Volksschule für Flüchtlingskinder eröffnet. Der Einweihung wohnte u.a. der "
+"Lagerkommandant Dr. R. v. Grimm, Sekretär Graf Bidovich und Abg. Dr. Laginja "
+"bei."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:25
+msgid "oesterreichische_illustrierte_zeitung_21101917"
+msgstr ""
+"Die ukrainischen Flüchtlinge aus der Bukowina haben der kaiserlichen Familie "
+"Geschenke überreicht, deren Wert hauptsächlich in der Originalität besteht."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:26
+msgid "wochenzeitung_29031918"
+msgstr ""
+"Am 23. und 24. März 1918 ist ein großer Teil der im k. k. Flüchtlingslager "
+"untergebrachten Flüchtlinge aus Ostgalizien und der Bukowina in die Heimat "
+"abgegangen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:27
+msgid "eggenburger_zeitung_26041918"
+msgstr ""
+"Das Flüchtlingslager, das zur Zeit des stärksten Belages über 4000 Flüchtlinge "
+"beherbergte, ist nun fast vollständig geräumt. Dienstag ging der letzte große "
+"Transport ab, dem am 28. April der Rest folgen wird. Die Freude der "
+"Flüchtlinge, endlich in die Heimat zu kommen, gelangte oft stürmisch zum "
+"Ausbruch: nachdem sie abends auf der Bismarckstraße noch zum letztenmal Menage "
+"erhalten hatten, gingen sie in den bereitstehenden Zug, der Heimat entgegen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:30
+msgid "artilleriestellung_191606"
+msgstr "Artilleriestellung der 30.5 cm Mörser bei Toporoutz, Fotografie 06.1916\\"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:31
+msgid "trommelfeuer_1914"
+msgstr ""
+"Trommelfeuer in Toporoutz, zwischen 1914 und 1918, K.u.k. Kriegspressequartier"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:32
+msgid "kirche_toporoutz"
+msgstr "Kirche in Toporoutz, K.u.k. Kriegspressequartier, 28. September 1917"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:33
+msgid "ansichtskarte_sadogora"
+msgstr "Ansichtskarte Sadagora (Vorort von Czernowitz) 1908"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:34
+msgid "ansichtskarte_czernowitz"
+msgstr "Ansichtskarte Czernowitz Ringplatz"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:35
+msgid "oest_ung_sprachgebiete"
+msgstr "Österreichisch-ungarische Monarchie: Sprachgebiete"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:36
+msgid "bukowina"
+msgstr "Bukowina"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:37
+msgid "bahnhof_czernowitz"
+msgstr "Bahnhof Czernowitz, Postkarte 1899"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:38
+msgid "kundmachung_19071915"
 msgstr "Kundmachung k.u.k. Stadtkommando in Czernowitz, 19. Juli 1915"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:12
-msgid "kuk_maschinengewehr"
-msgstr "Österreich-ungarische Maschinengewehr-Abteilung bei Lawoczne, April 1915"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:39
+msgid "ansicht_czernowitz_1916"
+msgstr "Ansichtskarte Czernowitz 1916"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:13
-msgid "kundmachung20051916"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:40
+msgid "eisenbahnbruecke_061915"
+msgstr ""
+"Zerstörte Eisenbahnbrücke über den Pruth bei Czernowitz, Fotografie, vor 06.1915"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:41
+msgid "flucht_bukowina"
+msgstr "Flüchtlinge aus der Bukowina am Elektrotrain"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:42
+msgid "kundmachung_20061916"
 msgstr "Kundmachung des russischen Stadtkommandos in Czernowitz, 20. Juni 1916"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:14
-msgid "kriegsschaeden1917"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:43
+msgid "kriegsschaden_1917"
 msgstr "Kriegsschäden in Czernowitz 1917"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:15
-msgid "ansicht_oberhollabrunn1910"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:44
+msgid "postkarte_bahnhof_oberhollabrunn"
+msgstr "Postkarte Bahnhof Oberhollabrunn"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:45
+msgid "ansicht_oberhollabrunn_1910"
 msgstr "Ansichtskarte Oberhollabrunn, 1910"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:16
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:46
+msgid "lagerbuch_1903_1935"
+msgstr "Lagerbuch Index"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:47
 msgid "lagertor"
 msgstr "Lagertor"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:17
-msgid "lagertor_oberhollabrunn1916"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:48
+msgid "verwaltungsgebaeude"
+msgstr "Verwaltungsgebäude"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:49
+msgid "quarantaenebaracke"
+msgstr "Quarantänebaracke"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:50
+msgid "haupttor_1916"
 msgstr "Das Haupttor zum Flüchtlingslager Oberhollabrunn im Jahre 1916"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:18
-msgid "ansicht_stadt_fluchtlingslager"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:51
+msgid "baracke_film"
+msgstr "Filmaufnahme einer Baracke"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:52
+msgid "ansichtkarte_1917"
+msgstr "Ansichtskarte 1917"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:53
+msgid "ansicht_stadt_lager"
 msgstr "Ansicht der Stadt und des Flüchtlingslagers"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:19
-msgid "Lageplan"
-msgstr "Lagerplan "
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:54
+msgid "lagerplan_oberhollabrunn"
+msgstr "Lageplan des Flüchtlingslagers Oberhollabrunn"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:20
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:55
+msgid "aufnahmen_kriegspresse"
+msgstr "Aufnahmen der Filmstelle des k. u. k. Kriegspressequartiers"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:56
+msgid "schuettkasten"
+msgstr "Schüttkasten Raschala, im Besitz der Forstverwaltung Schönborn"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:57
 msgid "cziebanowski_lagerbuch"
 msgstr "Familie Cziebanowski im Lagerbuch"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:21
-msgid "oberhollabrunn_vermisstenanzeigen"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:58
+msgid "vermisstenanzeige"
+msgstr "Mehrsprachige Vermisstenanzeige 8.1.1915 für Oberhollabrunn"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:59
+msgid "kirlibaba_1916"
+msgstr "Kirlibaba, Fotografie 08.1916"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:60
+msgid "ansicht_bad_dorna_watra_1916"
+msgstr "Ansichtskarte Bad Dorna Watra, 1916"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:61
+msgid "stellung_dorna_watra_1917"
 msgstr ""
-"Nachforschung und Vermisstenanzeigen zur Wiedervereinigung und Auffindung "
-"vermisster Familienmitglieder. Kundmachung durch den k. k. Bezirkshauptmann "
-"Held vom 8.1.1915 für Oberhollabrunn in Form eines mehrsprachiges Plakats"
+"“Unsere Stellungen bei Dorna Watra”: Stellungen der k. u. k. Armee, Fotografie "
+"05.1917"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:22
-msgid "handwerk"
-msgstr "Handwerk im Lager"
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:23
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:62
 msgid "lagergeld"
 msgstr "Lagergeld"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:24
-msgid "schule"
-msgstr "Unterricht im Lager"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:63
+msgid "gruppenbild_1918"
+msgstr "Gruppenbild 1918"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:25
-msgid "zug"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:64
+msgid "pferdefuhrwerk"
+msgstr "Pferdefuhrwerk im Lager"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:65
+msgid "lagerbahn"
 msgstr "Lagerbahn"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:26
-msgid "totenbeschauung"
-msgstr "Totenbeschauschein des Anton Pawluk"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:66
+msgid "totenbeschau_popeskul"
+msgstr "Totenbeschauschein Popeskül"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:27
-msgid "kirche"
-msgstr "Kirche im Lager"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:67
+msgid "totenbeschau_pawluk"
+msgstr "Totenbeschauschein Pawluk"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:28
-msgid "lagerverwaltung"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:68
+msgid "schreiben_lagerverwaltung"
 msgstr ""
 "Schreiben der Lagerverwaltung an das Griech. Orient. Pfarramt zur hl. "
-"Dreifaltigkeit in Wien I. Fleichmarkt\n"
-"bezüglich der Anbringung einer Gedenktafel für die auf dem Friedhof in "
-"Oberhollabrunn begrabenen Flüchtlinge,\n"
+"Dreifaltigkeit in Wien I. Fleischmarkt bezüglich der Anbringung einer "
+"Gedenktafel für die auf dem Friedhof in Oberhollabrunn begrabenen Flüchtlinge, "
 "31. Mai 1920"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:29
-msgid "gruppe1918"
-msgstr "Flüchtlingslager Oberhollabrunn, 1918"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:69
+msgid "lagerkirche"
+msgstr "Lagerkirche"
 
-#: flucht/templates/nav.html:18
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:70
+msgid "totenschein_basil"
+msgstr "Totenschein unterzeichnet von Basil Arijczuk"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:71
+msgid "geburt_roman"
+msgstr "Geburt Roman Arijczuk im Lagerbuch"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:72
+msgid "truhe_fluchtlinge"
+msgstr "Truhe von Flüchtlingen gefertigt"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:73
+msgid "standbild_erholung"
+msgstr ""
+"Standbild aus dem Film \"Erholungsfürsorge der Gemeinde Wien im "
+"Flüchtlingslager Oberhollabrunn\", 1918"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:77
+msgid "inner_monolog_01"
+msgstr ""
+"Das Donnern der Kanonen kam näher und Panik breitete sich im Dorf aus. Würde "
+"die Armee des Zaren wieder bis zu uns vordringen? Schon einmal haben sie "
+"Toporoutz besetzt, als sie im Herbst 1914 die Bukowina überrannt und sogar "
+"unsere Hauptstadt Czernowitz eingenommen haben. Sie verwüsteten damals viele "
+"unserer Häuser. Die im Dorf zurückgebliebenen Männer wurden alle nach Russland "
+"verschleppt und unser Vieh davon getrieben."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:78
+msgid "inner_monolog_02"
+msgstr ""
+"Als die Rauchschwaden des Trommelfeuers am Horizont zu sehen waren, wurde ich "
+"unruhig. Alle begannen, ihre Habseligkeiten zusammenzupacken."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:79
+msgid "inner_monolog_03"
+msgstr ""
+"Leute zogen durch den Ort, teils zu Fuß, teils auf Wägen, in Richtung "
+"Hauptstadt. Sie berichteten aufgeregt, dass sie von Soldaten unserer k. u. k. "
+"Armee zum Verlassen ihrer Häuser aufgefordert worden waren. So nah waren die "
+"Kosaken also schon! "
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:80
+msgid "inner_monolog_04"
+msgstr ""
+"Eilig belud ich den kleinen Wagen vor dem Haus und spannte den Ochsen vor. Die "
+"Hühner und das Schaf überließ ich der Nachbarin, die ihre kranke Mutter "
+"pflegte. Sie wollte in ihrem Heim eingeschlossen, den Kosaken trotzen. Nur "
+"ihren zwölfjährigen Sohn schickte sie mit uns mit, damit er nicht verschleppt "
+"würde."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:81
+msgid "inner_monolog_05"
+msgstr ""
+"Der Ochse zog den Karren über Rarancze und Buda bis Czernowitz, wo wir am "
+"selben Abend ankamen. Hunderte andere Menschen waren ebenfalls dorthin "
+"unterwegs, darunter Freunde, Verwandte und viele Unbekannte. Nachdem wir den "
+"Fluss Pruth überschritten hatten, kam ich mit dem Wagen nicht mehr voran. Zu "
+"viele Menschen drängten in die Stadt hinein. Ich musste den Karren und den "
+"Ochsen zurücklassen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:82
+msgid "inner_monolog_06"
+msgstr ""
+"Würde unsere Armee Czernowitz halten können? Ich lief durch die Menge voraus "
+"zum Bahnhof. Menschen waren schon dort. Soldaten hielten sie davon ab, die "
+"eintreffenden Züge zu stürmen.  Es war unglaublich laut, und alle schrien in "
+"verschiedenen Sprachen durcheinander. Es schien, als ob die ganze Stadt hier "
+"wäre."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:83
+msgid "inner_monolog_07"
+msgstr ""
+"Bereits die ganze Nacht waren Züge abgefahren, aber sie waren nur mit Dingen "
+"der Armee beladen. Endlich durften auch Menschen einsteigen, aber nur mit "
+"gültigem Passierschein. Wieder einmal hatten die Reichen den Vortritt. Eine "
+"baldige Zugfahrt schien für Unsereins nicht möglich."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:84
+msgid "inner_monolog_08"
+msgstr ""
+"Mit vielen anderen verbrachte ich die folgenden Tage am Rand der Stadt. Von "
+"unserem Lager aus konnten wir das Grollen der Kanonen näherkommen hören. Wie "
+"ich hörte, versuchte unsere Armee, die Frontlinie am Pruth zu halten und die "
+"Stadt zu schützen. Damit war klar, dass Toporoutz bereits gefallen war."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:85
+msgid "inner_monolog_09"
+msgstr ""
+"Endlich ließ man uns zu den Zügen durch. Mit vielen anderen wurde ich von "
+"Soldaten in einen Waggon gepfercht. Eng gedrängt saßen wir auf dem kalten "
+"Boden. Der Zug fuhr ab. Alle fragten sich, wie lange wir unterwegs sein würden? "
+"Keiner wusste, wohin die Reise gehen wird. Bei jedem Donner der Kanonen zuckte "
+"ich zusammen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:86
+msgid "inner_monolog_10"
+msgstr ""
+"Meine Reise endete vor einem Tor. Auf diesem war der Adler des Kaisers, aber "
+"die Schrift konnte ich nicht lesen. Vor einem größeren Haus sollten wir uns "
+"anstellen, um uns zu registrieren. Trotz Hunger und Erschöpfung wartete ich "
+"geduldig. "
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:87
+msgid "inner_monolog_11"
+msgstr ""
+"Anschließend wurden wir zu einem Waschhaus geführt. In einem großen Duschraum "
+"konnte ich mich endlich waschen. Dann wurden frische Kleider ausgeteilt, die "
+"jedoch nicht für alle reichten. In einer Baracke nebenan war ein Arzt. Jeder "
+"wurde ihm vorgeführt. Jene, die Läuse hatten, wurden weggesperrt. Die Kranken "
+"wurden auch weggebracht."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:88
+msgid "inner_monolog_12"
+msgstr ""
+"Ich wurde zu einer gemauerten Baracke auf einer Anhöhe geführt. Das Haus war "
+"groß und neu, der Innenraum war karg. Schlafen musste ich auf einer "
+"Holzpritsche. Mit Strohsäcken und Decken wurde es etwas gemütlicher. Hier würde "
+"ich gemeinsam mit vielen anderen also die nächsten Wochen verbringen. "
+"Hoffentlich könnte ich bald nach Hause!"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:89
+msgid "inner_monolog_13"
+msgstr ""
+"Obwohl es sehr eng war, war ich froh, dass ich Menschen aus meiner Heimat um "
+"mich hatte. Erst nach einigen Tagen erfuhr ich, dass der Ort, an dem wir uns "
+"befanden, Oberhollabrunn hieß."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:90
+msgid "inner_monolog_14"
+msgstr ""
+"Auf meinen Spaziergängen wurde mir klar, wie groß das Lager eigentlich war. "
+"Rundherum standen zahlreiche andere Baracken, manche kleiner, manche größer. "
+"Die meisten waren aus Holz. Den Hügel hinunter wurden Häuser aus Ziegel "
+"errichtet. Sie waren fast fertig, aber es wohnte noch keiner darin. Nicht nur "
+"wir Geflüchtete, auch einige vom Lagerpersonal schliefen im Lager. Es gab "
+"außerdem Ställe für Rinder und Schweine. Gelegentlich fuhr eine kleine "
+"Eisenbahn herein, um Lebensmittel und Baumaterial zu bringen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:91
+msgid "inner_monolog_15"
+msgstr ""
+"Als ich an den Bauarbeiten vorbei ging, hörte ich, dass die Arbeiter meine "
+"Sprache sprachen und blieb verwundert stehen. Ich redete sie an, und wir kamen "
+"ins Plaudern. Sie kamen aus Galizien!"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:92
+msgid "inner_monolog_16"
+msgstr ""
+"Die beiden waren schon seit über einem Jahr hier, wohnten aber nicht in unserem "
+"Lager, sondern im nahe gelegenen Raschala. Dort befand sich ein anderes Lager, "
+"wo auch Italiener, Polen und Ruthenen wohnten. Sie nannten es "
+"Internierungsstation. Anscheinend waren sie aus politischen Gründen hier, aber "
+"mehr wollten sie mir dazu nicht sagen. Viele von ihnen waren bei Bauarbeiten "
+"oder auf den Feldern im Einsatz. "
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:93
+msgid "inner_monolog_17"
+msgstr ""
+"Als die Häuser fertig waren, zogen dort vertriebene Lehrer und Priester ein. "
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:94
+msgid "inner_monolog_18"
+msgstr ""
+"Im Sommer und Herbst kamen immer wieder Menschen an. Die meisten, so wie ich, "
+"mit Zügen aus dem Osten oder Süden. Manche auch aus kleinen Unterkünften oder "
+"überfüllten Lagern in der Umgebung. Sie waren bereits länger in der Gegend. "
+"Viele Familien kamen, manche waren auf der Reise leider getrennt worden. "
+"Verzweifelt versuchten sie nun, sich wiederzufinden."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:95
+msgid "inner_monolog_19"
+msgstr ""
+"Immer mehr Leute aus dem Süden der Bukowina trafen ein und wurden unsere "
+"Nachbarn. Sie erzählten Neuigkeiten aus der Heimat. Viele waren aus Kirlibaba "
+"und Dorna-Watra, wo besonders heftig gekämpft wurde. Soldaten hatten ihnen "
+"befohlen, ihre Häuser zu verlassen, als die Front näherkam. Ich hatte keine "
+"Hoffnung mehr, bald nach Hause zu kommen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:96
+msgid "inner_monolog_20"
+msgstr ""
+"Die Wochen verstrichen, und ich gewöhnte mich allmählich an den Alltag im "
+"Lager. Die Kinder und deren Mütter hielten sich vorwiegend rund um die Baracken "
+"auf. Wer aber arbeiten konnte, wurde im Lager eingeteilt oder musste bei den "
+"umliegenden Bauern mithelfen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:97
+msgid "inner_monolog_21"
+msgstr ""
+"Dreimal am Tag bekamen wir etwas zu essen aus der Küchenbaracke. Es war vor "
+"allem Brot und Brei, manchmal auch Gemüse und Fleisch. Die Kinder bekamen auch "
+"Milch."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:98
+msgid "inner_monolog_22"
+msgstr ""
+"Jeden Tag kamen Pferdewagen ins Lager. Sie hatten Essen und Kleidung geladen. "
+"Vom Lager aus konnte man die umliegenden Felder sehen. Wir beneideten die "
+"Bauern um ihre Ernte."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:99
+msgid "inner_monolog_23"
+msgstr ""
+"Zu Beginn waren die Mahlzeiten sättigend, doch mit der Zeit wurde der Brei "
+"verwässert, sodass wir oft Hunger hatten. Wir wurden deshalb wütend und schrien "
+"das Lagerpersonal an. Man erklärte uns, dass der Krieg daran schuld sei und "
+"andere auch Hunger hätten."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:100
+msgid "inner_monolog_24"
+msgstr ""
+"Im Winter wurden viele krank. Die Baracken waren zugig, das Heizmaterial zu "
+"wenig und der Hunger kaum auszuhalten. Überall hörte man Leute husten."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:101
+msgid "inner_monolog_25"
+msgstr ""
+"Ich musste zusehen wie viele schwer erkrankten, auch Freunde von mir. Sie "
+"wurden in die Krankenbaracke gebracht. Manche kamen nicht mehr zurück. In einer "
+"kleinen Kapelle am Rande des Lagers konnten wir von ihnen Abschied nehmen, ehe "
+"sie am Stadtfriedhof begraben wurden."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:102
+msgid "inner_monolog_26"
+msgstr ""
+"Die Pfarrer, die ebenfalls geflüchtet waren, versuchten uns zu trösten. Ich "
+"traf auch auf einen Geistlichen meiner orthodoxen Pfarre in Toporoutz, Basil "
+"Arijczuk. "
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:103
+msgid "inner_monolog_27"
+msgstr ""
+"Er erzählte mir, dass Pfarrer Kornel Pihuliak und seine Frau Augustine auch aus "
+"der Bukowina geflohen waren. Dabei hatten sich ihre Wege getrennt. Augustine "
+"kam, nicht weit von hier, in einem anderen Lager an und suchte verzweifelt nach "
+"ihrem Mann. Gott sei Dank konnten sich die beiden wiederfinden! Ihr Sohn Roman "
+"kam hier im Lager zur Welt."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:104
+msgid "inner_monolog_28"
+msgstr ""
+"Im Sommer 1917 trafen wichtige Leute ein, um die neue Schule zu eröffnen. "
+"Einige von uns wurden ausgewählt, um den hohen Besuch gemeinsam mit den Wachen "
+"am Lagertor zu empfangen."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:105
+msgid "inner_monolog_29"
+msgstr ""
+"Nicht nur die Kinder, sondern auch viele Erwachsene lernten in der Lagerschule "
+"deutsch. Auch handwerkliche Kurse gab es. Einige unserer Arbeiten wurden "
+"angeblich sogar dem Kaiser geschenkt."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:106
+msgid "inner_monolog_30"
+msgstr ""
+"Die Zeit verging und wir durften immer noch nicht nach Hause. Schon das zweite "
+"Weihnachten mussten wir im Lager feiern. Wann würde dieser elende Krieg vorbei "
+"sein?"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:107
+msgid "inner_monolog_31"
+msgstr ""
+"Im Frühling war es endlich so weit. Wir wurden wieder in Transportzüge "
+"gebracht. Ich hoffte, meine Heimat bald wieder zu sehen. Als der Zug anfuhr, "
+"dachte ich aber auch an alle, die wir zurückließen, an die Freunde, die im "
+"Lager gestorben waren."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:108
+msgid "inner_monolog_32"
+msgstr ""
+"Wieder war es eine Fahrt ins Ungewisse. Wir waren so viele Monate weg gewesen "
+"und hatten keine Vorstellung davon, was uns in der Heimat erwarten würde."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:109
+msgid "inner_monolog_33"
+msgstr ""
+"Zu Hause angekommen, sah ich die Verwüstungen, die der Krieg hinterlassen "
+"hatte. Viele von uns konnten nicht in ihre Häuser zurückkehren. Die Orte, die "
+"Menschen, alles hatte sich verändert."
+
+#: flucht/templates/nav.html:20
 msgid "Intro"
 msgstr "Einleitung"
 
-#: flucht/templates/nav.html:19
+#: flucht/templates/nav.html:21
 msgid "Exhibition"
 msgstr "Ausstellung"
+
+#: flucht/templates/pages/1.html:5
+msgid "page_subtitel"
+msgstr ""
+"Das Schicksal der orthodoxen Flüchtlinge im Lager Oberhollabrunn (1914-1918)"
+
+#: flucht/templates/pages/2.html:10 flucht/templates/pages/3.html:7
+msgid "inner_monolog_2"
+msgstr ""

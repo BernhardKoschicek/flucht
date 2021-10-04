@@ -1,23 +1,12 @@
 {% extends "layout.html" %}
 
-{% macro build_text(texts) %}
-    <figure>
-        <blockquote class="blockquote">
-            <p class="source-text">{{ _(texts) }}</p>
-        </blockquote>
-        <figcaption class="blockquote-footer">
-            <cite title="{{ citation[texts] }}">{{ citation[texts] }}</cite>
-        </figcaption>
-    </figure>
-{% endmacro %}
-
 {% block content %}
     <div class='scroll-bar-wrapper'>
         <div class='scroll-bar'></div>
     </div>
 
     {% for page in pages %}
-        <div class="container-fluid" style="height: 100vh">
+        <div class="container-fluid" style="min-height: 100vh">
             {% include page %}
         </div>
     {% endfor %}
