@@ -8,6 +8,14 @@ body {
     scroll-behavior: smooth;
 }
 
+cite {
+    font-size: 1.1em;
+}
+
+.container-main {
+    width: 80vw;
+}
+
 .inner_monolog {
     font-family: 'Sacramento', serif;
     font-size: 2em;

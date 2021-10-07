@@ -1,0 +1,8 @@
+#plx {
+    background: url(../images/exhibition/parallex/eisenbahnkarte.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
