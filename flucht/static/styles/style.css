@@ -14,8 +14,8 @@ cite {
 
 .container-main {
     width: 80vw;
+    min-height: 100vh;
 }
-
 .inner_monolog {
     font-family: 'Sacramento', serif;
     font-size: 2em;
