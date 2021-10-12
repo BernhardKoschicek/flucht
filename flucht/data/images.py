@@ -165,7 +165,7 @@ pictures_exhibition = {
     },
     'cziebanowski_lagerbuch': {
         'filepath': 'images/exhibition/cziebanowski_lagerbuch.jpg',
-        'citation': None,
+        'citation': 'Mihailo St. Popović, 2020',
         'url': None,
         'source': None
     },
@@ -233,7 +233,7 @@ pictures_exhibition = {
         'filepath': 'images/exhibition/schreiben_lagerverwaltung.jpg',
         'citation': None,
         'url': None,
-        'source': None
+        'source': source['metropolis']
     },
     'lagerkirche': {
         'filepath': 'images/exhibition/lagerkirche.jpg',

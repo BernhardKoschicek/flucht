@@ -22,5 +22,5 @@ source = {
     'ffholla': 'Freiwillige Feuerwehr Hollabrunn',
     'metropolis': 'Metropolis von Austria',
     'lamm': 'Werner Lamm',
-    'filmarchiv': 'Filmarchiv Austria',
+    'filmarchiv': 'Filmarchiv Austria'
 }
