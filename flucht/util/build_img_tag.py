@@ -22,7 +22,7 @@ def build_img_tag():
         modal_body = f'''
             <div class="modal-body">
                 <div class="img_container">
-                    <img id={name} 
+                    <img 
                         class="modal-image"
                         src="{url_for(
                             'static',

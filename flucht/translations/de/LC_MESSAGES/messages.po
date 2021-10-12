@@ -506,8 +506,8 @@ msgstr "Truhe von Flüchtlingen gefertigt"
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:73
 msgid "standbild_erholung"
 msgstr ""
-"Standbild aus dem Film \"Erholungsfürsorge der Gemeinde Wien im "
-"Flüchtlingslager Oberhollabrunn\", 1918"
+"Standbild aus dem Film 'Erholungsfürsorge der Gemeinde Wien im "
+"Flüchtlingslager Oberhollabrunn', 1918"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:77
 msgid "inner_monolog_01"
