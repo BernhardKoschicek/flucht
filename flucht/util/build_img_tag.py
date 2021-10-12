@@ -25,8 +25,8 @@ def build_img_tag():
                     <img id={name} 
                         class="modal-image"
                         src="{url_for(
-            'static',
-            filename=value['filepath'])}"
+                            'static',
+                            filename=value['filepath'])}"
                         alt="{_(name)}">
                 </div>
             </div>
@@ -35,7 +35,9 @@ def build_img_tag():
             <div class="modal-footer justify-content-between">
                     <div class="col-10">
                         <p class="pic-source">
-                            <a href="{value['url']}" target="_blank">
+                            <a 
+                                href="{value['url']}"
+                                 target="_blank">
                                 {value['source']}
                                </a>
                         </p>

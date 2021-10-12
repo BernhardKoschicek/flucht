@@ -7,7 +7,7 @@ def build_newspaper_tag():
     news_tag = {}
     for name, value in newspapers.items():
         news_tag[name] = f'''
-            <figure>
+            <figure class="newspaper">
                 <blockquote class="blockquote">
                     <p class="source-text">
                         <b>{value['title']}</b>
