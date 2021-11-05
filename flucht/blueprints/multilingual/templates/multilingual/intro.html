@@ -1,24 +1,45 @@
 {% extends "layout.html" %}
 {% block content %}
-    <h1 class="text-center">{{ _('page_titel')}}</h1>
-    <div class="">
-        <p>{{ _('intro_paragraph_1') }}</p>
-        <p>{{ _('intro_paragraph_2') }}</p>
-        <p>{{ _('intro_paragraph_3') }}</p>
-        <p>{{ _('intro_paragraph_4') }}</p>
-        <p>{{ _('intro_paragraph_5') }}</p>
+  <div class="row justify-content-center pt-5">
+    <div class="col-auto">
+      <h3 class="display-3">{{ _('page_titel') }}</h3>
+    </div>
+  </div>
+  <div class="row pt-4">
+    <div class="col-auto">
+      <p>{{ _('intro_paragraph_1') }}</p>
+      <p>{{ _('intro_paragraph_2') }}</p>
+      <p>{{ _('intro_paragraph_3') }}</p>
+      <p>{{ _('intro_paragraph_4') }}</p>
+    </div>
+  </div>
+  <div class="row pt-2 justify-content-center">
+    <div class="col-6">
+      {{ images['kk_frontlines']|safe }}
     </div>
 
-    <h2>{{ _('Further reading') }}</h2>
+  </div>
+  <div class="row pt-2">
+    <div class="col-auto">
+      <p>{{ _('intro_paragraph_5') }}</p>
+      <p>{{ _('intro_paragraph_6') }}</p>
+      <p>{{ _('intro_paragraph_7') }}</p>
+    </div>
+  </div>
 
-    <ul>
-    {% for book in books %}
-        <li>
-        {{ books[book] }}
-        </li>
-    {% endfor %}
-    </ul>
+  <div class="row pt-5 pb-5">
+    <div class="col-auto">
+      <h2>{{ _('further_reading') }}</h2>
+      <ul class="list-group list-group-flush">
+        {% for book in books %}
+          <li class="list-group-item bg-secondary" style="color: #fcf8e3;">
+            {{ _(books[book]) }}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
 
+  </div>
 
 
 

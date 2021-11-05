@@ -265,4 +265,10 @@ pictures_exhibition = {
         'url': None,
         'source': source['filmarchiv']
     },
+    'kk_frontlines':{
+        'filepath': 'images/kk_frontlines.jpg',
+        'citation': None,
+        'url': 'https://upload.wikimedia.org/wikipedia/commons/1/1b/%C3%96sterreich-Ungarn_Frontlinien.jpg',
+        'source': source['wikipedia']
+    }
 }

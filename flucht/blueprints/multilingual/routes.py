@@ -48,7 +48,8 @@ def intro() -> str:
     return render_template(
         'multilingual/intro.html',
         title=_('page_titel'),
-        books=intro_books)
+        books=intro_books,
+        images=build_img_tag())
 
 
 @multilingual.route('/exhibition', defaults={'lang_code': 'en'})
