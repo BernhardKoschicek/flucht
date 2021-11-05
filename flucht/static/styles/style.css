@@ -188,3 +188,15 @@ section.current {
 .popover-header {
     color: #0c4128;
 }
+
+.kaisergeld {
+    color: #F0D077;
+}
+
+.header_background {
+    background-image: url('../images/exhibition/trommelfeuer_1914.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
