@@ -58,8 +58,9 @@ def build_img_tag():
         '''
         img_tag[name] = f'''
             {figure}
-            <div class="modal
-             fade" id="{name}Modal" tabindex="-1" aria-labelledby="{name}Modal"
+            <div class="modal fade" 
+                id="{name}Modal"
+                tabindex="-1" aria-labelledby="{name}Modal"
                  aria-hidden="true">
                 <div class="modal-dialog modal-xl modal-dialog-centered">
                     <div class="modal-content">

@@ -34,6 +34,27 @@ cite {
     color: #cbccce;
 }
 
+.newspaper {
+}
+
+.source-header {
+    color: black;
+    font-weight: bold;
+    font-size: 1.4em;
+    font-family: 'UnifrakturMaguntia', serif;
+}
+.source-text {
+    font-size: 1.3em;
+    color: black;
+    font-weight: lighter;
+    font-family: 'UnifrakturMaguntia', serif;
+}
+
+.blockquote-footer {
+    color: #1e2125;
+}
+
+
 /* Modal */
 
 .pic-source {
@@ -45,11 +66,6 @@ cite {
 
 .pic-source a {
     color: #fcf8e3;
-}
-
-.source-text {
-    font-size: 1.2em;
-    font-family: 'UnifrakturMaguntia', serif;
 }
 
 
@@ -191,6 +207,10 @@ section.current {
 
 .kaisergeld {
     color: #F0D077;
+}
+
+.bg-kaisergelb {
+    background-color: #F0D077;
 }
 
 .header_background {
