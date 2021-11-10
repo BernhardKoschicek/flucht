@@ -43,6 +43,7 @@ cite {
     font-size: 1.4em;
     font-family: 'UnifrakturMaguntia', serif;
 }
+
 .source-text {
     font-size: 1.3em;
     color: black;
@@ -77,9 +78,16 @@ cite {
     display: inline-block;
     width: auto;
 }
+.modal-header {
+     background-color: rgba(44, 48, 52, 0.9);
+}
 
 .modal-body {
+    background-color: rgba(44, 48, 52, 0.9);
+}
+.modal-body-image {
     padding: unset;
+    background-color: rgba(44, 48, 52, 0.9);
 }
 
 .modal-image {

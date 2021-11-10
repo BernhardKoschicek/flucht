@@ -20,7 +20,7 @@ def build_img_tag():
             </figure>
         '''
         modal_body = f'''
-            <div class="modal-body">
+            <div class="modal-body-image">
                 <div class="img_container">
                     <img 
                         class="modal-image"
