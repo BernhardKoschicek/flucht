@@ -32,7 +32,7 @@ def build_img_tag():
             </div>
         '''
         modal_footer = f'''
-            <div class="modal-footer justify-content-between">
+            <div class="modal-footer modal-footer-image justify-content-between">
                     <div class="col-10">
                         <p class="pic-source">
                             <a 
@@ -62,7 +62,7 @@ def build_img_tag():
                 id="{name}Modal"
                 tabindex="-1" aria-labelledby="{name}Modal"
                  aria-hidden="true">
-                <div class="modal-dialog modal-xl modal-dialog-centered">
+                <div class="modal-dialog  modal-dialog-centered modal-xl">
                     <div class="modal-content">
                     {modal_body}
                     {modal_footer}

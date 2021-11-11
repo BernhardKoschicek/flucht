@@ -23,5 +23,7 @@ source = {
     'metropolis': 'Metropolis von Austria',
     'lamm': 'Werner Lamm',
     'filmarchiv': 'Filmarchiv Austria',
-    'wikipedia': 'Wikipedia'
+    'wikipedia': 'Wikipedia',
+    'erzdioezese': 'Erzdiözese Wien, Pfarrchroniken, Hollabrunn 1913-1921',
+    'hollabrunn': 'Stadtarchiv Hollabrunn'
 }

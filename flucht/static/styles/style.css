@@ -51,10 +51,24 @@ cite {
     font-family: 'UnifrakturMaguntia', serif;
 }
 
-.blockquote-footer {
+.blockquote-footer-teaser {
     color: #1e2125;
 }
 
+.newspaper-header {
+    font-family: "Times New Roman", serif;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.newspaper-blockquote {
+    font-family: "Times New Roman", serif;
+    font-size: 1.2em;
+}
+
+.blockquote-footer-newspaper {
+
+}
 
 /* Modal */
 
@@ -95,8 +109,11 @@ cite {
     max-height: 100%;
 }
 
+.modal-footer-image {
+       justify-content: unset;
+}
+
 .modal-footer {
-    justify-content: unset;
     background-color: rgba(44, 48, 52, 0.9);
 }
 
