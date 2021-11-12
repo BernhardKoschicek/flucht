@@ -36,9 +36,11 @@ def build_newspaper_tag():
         </button>
             '''
 
+        image_paph = f"images/exhibition/newspaper/{value['filename']}"
+
         newspaper_image = f'''
             <div class="d-flex justify-content-between">
-                <img src="{url_for('static', filename=value['image_path'])}"
+                <img src="{url_for('static', filename=image_paph)}"
                     alt="{name}">
             </div>
         '''
