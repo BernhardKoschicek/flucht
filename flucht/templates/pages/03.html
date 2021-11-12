@@ -1,17 +1,12 @@
 <div class="row mt-5 mb-5">
-    <div class="col-lg-4">
-        {{ images['ansichtskarte_sadogora']|safe }}
-        {{ newspaper['neue_freie_presse_18071916']|safe }}
-    </div>
-    <div class="col-lg-4">
-        <p class="inner_monolog">{{ _('inner_monolog_03') }}</p>
-        <p class="inner_monolog">{{ _('inner_monolog_04') }}</p>
-    </div>
-    <div class="col-lg-4">
-        {{ newspaper['czernowitzer_tagblatt_27081914']|safe }}
-        {{ images['ansichtskarte_czernowitz']|safe }}
-        {{ newspaper['innsbrucker_nachrichten_10071916']|safe }}
+    <div class="col">
+      <img src="{{ url_for('static', filename='images/exhibition/kk_karte.jpg') }}"
+           usemap="#image-map" loading="lazy" alt="kkkarte" class="img-fluid">
 
+      <map name="image-map">
+        <area target="" alt="" title="" href="#" coords="1756,536,128"
+              shape="circle">
+      </map>
     </div>
 </div>
 

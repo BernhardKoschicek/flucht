@@ -317,7 +317,7 @@ newspapers = {
         'title': 'Flüchtlingslager',
         'page': '',
         'url': '',
-        'source': source['Hollabrunn'],
+        'source': source['hollabrunn'],
         'filename': 'wochenzeitung22091916.jpg',
         'content': '''Dank der Evakuierung von Teilen Ostgaliziens und der Bukowina sind schon mehr als 2000 Flüchtlinge in unserem Lager untergebracht. Leider gibt es darunter auch viele Notleidende, die es mit „Mein“ und „Dein“ nicht sehr genau nehmen. Namentlich Weintrauben und Erdäpfel erfreuen sich der besonderen Vorliebe und Aufmerksamkeit dieser Elemente. Für den Flurschutz gäbe es da ein ergiebiges Feld seiner in normalen Jahren wirklich nicht übermäßig in Anspruch genommenen Tätigkeit.
                 <br>
@@ -354,7 +354,7 @@ newspapers = {
         'content': '''In den drei ersten Monaten dieses Jahres sind im Barackenlager, wo hauptsächlich Rumänen untergebracht sind, mehr <span class="text-decoration-underline">als hundert Personen gestorben</span>. Beinahe alle waren griechisch-orientalisch. „Kälte, Hunger und Heimweh“, so wurde mir mitgeteilt, „sind die Ursachen der außerordentlich vielen Sterbefälle.“'''
     },
     'illustrierte_kronen_zeitung_08071916': {
-        'teaser': '''- 310. Pfarrer Kornel Pihuliak aus Babin, Bukowina, wird von seiner Gattin Augustine
+        'teaser': '''Pfarrer Kornel Pihuliak aus Babin, Bukowina, wird von seiner Gattin Augustine
                 <span class="fst-italic">Pihuliak</span>,  derzeit im Barackenlager 147/10 in Gmünd, N.-Oe., gesucht.
                 ''',
         'citation': 'Illustrierte Kronen Zeitung, 8. Juli 1916',

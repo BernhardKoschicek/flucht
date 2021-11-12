@@ -57,6 +57,7 @@ def build_img_tag():
             </div>        
         '''
         img_tag[name] = f'''
+        <div class="col">
             {figure}
             <div class="modal fade" 
                 id="{name}Modal"
@@ -69,5 +70,6 @@ def build_img_tag():
                     </div>
                 </div>
             </div> 
+        </div> 
             '''
     return img_tag

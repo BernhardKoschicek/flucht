@@ -1,14 +1,23 @@
 {% extends "layout.html" %}
 
 {% block content %}
-    <div class='scroll-bar-wrapper'>
-        <div class='scroll-bar'></div>
-    </div>
+  <div class='scroll-bar-wrapper'>
+    <div class='scroll-bar'></div>
+  </div>
 
-    {% for page in pages %}
-        <div class="container-fluid" style="min-height: 100vh">
-            {% include page %}
+  {% for page in pages %}
+    <section id="section-{{ loop.index }}">
+      <div class="container-fluid pt-5" style="min-height: 100vh">
+        {% include page %}
+        <div class="navbar navbar-default navbar-fixed-bottom">
+          <div class="container justify-content-center">
+            <a href="#section-{{ loop.index + 1 }}">
+              <i class="bi bi-arrow-down-circle down-button"></i>
+            </a>
+          </div>
         </div>
-    {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
 
 {% endblock %}

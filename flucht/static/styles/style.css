@@ -26,8 +26,15 @@ cite {
 }
 
 .inner_monolog {
+    background-image: url('../images/exhibition/paper.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 1em;
     font-family: 'Sacramento', serif;
     font-size: 2em;
+    color: #1e2125;
+    font-weight: bold;
 }
 
 .blockquote-footer {
@@ -70,6 +77,14 @@ cite {
 
 }
 
+.down-button {
+    color: #cbccce;
+    font-size: 2em;
+}
+
+
+
+
 /* Modal */
 
 .pic-source {
@@ -92,13 +107,15 @@ cite {
     display: inline-block;
     width: auto;
 }
+
 .modal-header {
-     background-color: rgba(44, 48, 52, 0.9);
+    background-color: rgba(44, 48, 52, 0.9);
 }
 
 .modal-body {
     background-color: rgba(44, 48, 52, 0.9);
 }
+
 .modal-body-image {
     padding: unset;
     background-color: rgba(44, 48, 52, 0.9);
@@ -110,7 +127,7 @@ cite {
 }
 
 .modal-footer-image {
-       justify-content: unset;
+    justify-content: unset;
 }
 
 .modal-footer {

@@ -6,3 +6,11 @@
     background-size: cover;
     height: 100vh;
 }
+#plx-title {
+    background: url(../images/exhibition/banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}

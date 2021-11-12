@@ -10,7 +10,7 @@ def build_newspaper_tag():
         teaser = (value['teaser'][:100] + '...') if len(
             value['teaser']) > 100 else value['teaser']
         figure = f'''
-        <button class="border border-warning rounded px-3 pt-2 bg-kaisergelb" 
+        <button class="border border-warning rounded   bg-kaisergelb" 
                 data-bs-toggle="modal" 
                 data-bs-target="#{name}Modal">
             <figure class="newspaper">
@@ -29,19 +29,19 @@ def build_newspaper_tag():
                         </figcaption>
                     </div>
                     <div class="col-3">
-                        <img src="../static/images/exhibition/news_person.png" class="img-fluid">
+                        <img src="../static/images/exhibition/news_person.png" class="img-fluid" loading="lazy">
                     </div>
                  </div>
             </figure>
         </button>
             '''
 
-        image_paph = f"images/exhibition/newspaper/{value['filename']}"
+        image_path = f"images/exhibition/newspaper/{value['filename']}"
 
         newspaper_image = f'''
-            <div class="d-flex justify-content-between">
-                <img src="{url_for('static', filename=image_paph)}"
-                    alt="{name}">
+            <div class="w-auto">
+                <img src="{url_for('static', filename=image_path)}"
+                    alt="{name}" loading="lazy" class="img-fluid">
             </div>
         '''
 
@@ -58,13 +58,20 @@ def build_newspaper_tag():
 
         modal_body = f'''
               <div class="modal-body px-5">
-                <h4 class="newspaper-header">{value['title']}</h4>
-                <blockquote class="newspaper-blockquote">
-                    <p>                 
-                       {value['content']}
-                    </p>
-                </blockquote>
-                {newspaper_image if value['image_path'] else ''}
+              <div class="row justify-content-center">
+                 <div class="col-6">
+                    <h4 class="newspaper-header">{value['title']}</h4>
+                    <blockquote class="newspaper-blockquote">
+                        <p>                 
+                           {value['content']}
+                        </p>
+                    </blockquote>
+                </div>             
+              </div>
+
+                <div class="w-auto">
+                    {newspaper_image if value['filename'] else ''}
+                </div>
               </div>
             '''
 
@@ -94,12 +101,13 @@ def build_newspaper_tag():
         '''
 
         news_tag[name] = f'''
+        <div class="col">
             {figure}
             <div class="modal fade" 
                 id="{name}Modal"
                 tabindex="-1" aria-labelledby="{name}Modal"
                  aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-dialog modal-dialog-centered modal-xl modal-dialog-scrollable">
                     <div class="modal-content">
                     {modal_header}
                     {modal_body}
@@ -107,6 +115,7 @@ def build_newspaper_tag():
                     </div>
                 </div>
             </div> 
+        </div> 
             '''
 
     return news_tag
