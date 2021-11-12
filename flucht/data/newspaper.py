@@ -313,54 +313,79 @@ newspapers = {
         'content': '''Das Flüchtlingslager, welches jetzt mit mehr als 3000 Flüchtlingen, zumeist aus der Bukowina und Siebenbürgen belegt ist, macht sich für die hiesige Bevölkerung recht unangenehm bemerkbar. Trotz der Einzäunung des Lagers läßt man die Insassen in großen Mengen heraus. Diese belagern alle Lebensmittelverkaufsstellen, raufen sich in den Tabaktrafiken mit den Einheimischen um die karg bemessenen Rationen und geben auch sonst zu vielen Klagen und Beschwerden Anlaß. Da sollte die Verwaltung etwas strenger sein, bevor es zum Krach kommt.'''
     },
     'wochenzeitung_22091916': {
-        'teaser': ''' ''',
+        'teaser': '''Dank der Evakuierung
+            von Teilen Ostgaliziens und der Bukowina
+            sind schon mehr als 2000 Flüchtlinge in
+            unserem Lager untergebracht. Leider gibt es
+            darunter auch viele Notleidende, die es mit
+            „Mein“ und „Dein“ nicht sehr genau
+            nehmen. Namentlich Weintrauben und
+            Erdäpfel erfreuen sich der besonderen
+            Vorliebe und Aufmerksamkeit dieser
+            Elemente.''',
         'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 22. September 1916',
         'title': 'Flüchtlingslager',
         'page': '',
         'url': '',
-        'source': source['oenb_anno'],
+        'source': source['Hollabrunn'],
         'image_path': '',
-        'content': ''''''
+        'content': '''Dank der Evakuierung von Teilen Ostgaliziens und der Bukowina sind schon mehr als 2000 Flüchtlinge in unserem Lager untergebracht. Leider gibt es darunter auch viele Notleidende, die es mit „Mein“ und „Dein“ nicht sehr genau nehmen. Namentlich Weintrauben und Erdäpfel erfreuen sich der besonderen Vorliebe und Aufmerksamkeit dieser Elemente. Für den Flurschutz gäbe es da ein ergiebiges Feld seiner in normalen Jahren wirklich nicht übermäßig in Anspruch genommenen Tätigkeit.
+	<br>
+	Das Flüchtlingslager ist mit einer schönen, t[e]ueren Einfriedung umgeben. Wir waren der Meinung, daß diese deshalb errichtet wurde, damit die Lagerinsaßen nicht heraus können. Das war, wie wir jetzt sehen, eine irrtümliche Annahme. Der Zaun hat den Zweck, daß die Hiesi[g]en nicht in das Lager hineingehen können, der soll uns abhalten, wie man bei jeder Torwache aus dem nicht mißzuverstehenden Händewacheln und der Bemerkung: „N[i]x deutsch“ erfährt. Die biederen Galizianer und Rumänen aber, darunter die Feldraben und Weingartenschädlinge, die dürfen heraus und hinein!
+'''
     },
     'neue_freie_presse_13071917': {
-        'teaser': ''' ''',
+        'teaser': '''Mit Recht nahm der Abgeordnete
+            Grigorovici die Flüchtlinge gegen seine
+            Vorwürfe in Schutz und sagte, jedes
+            zweideutige Wort, das über die Flüchtlinge
+            gesprochen werde, müsse als Verdächtigung
+            aufgefaßt werden. Es seien Flüchtlinge in
+            Schnee und Frost stundenlang gegangen, um
+            ein Stückchen Brot zu erlangen.''',
         'citation': 'Neue Freie Presse, 13. Juli 1917',
-        'title': 'Oesterreichischer Reichsrat. Das Gesetz über Flüchtlingsfürsorge [...].',
-        'page': '',
-        'url': '',
+        'title': 'Oesterreichischer Reichsrat. Das Gesetz über Flüchtlingsfürsorge und die Dienstpragmatik für Mittelschullehrer.',
+        'page': '4-5',
+        'url': 'https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19170713&seite=4&zoom=33 ',
         'source': source['oenb_anno'],
         'image_path': '',
-        'content': ''''''
+        'content': '''Wien, 12. Juli<br>
+[…] Nach dieser Rede, die unter lebhafter Bewegung des Hauses gehalten wurde, sprach der Abgeordnete   <span class="fst-italic">Freißler</span>,  und dieser sonst so sympathische Vertreter der Deutschen in Schlesien bereitete dem Hause eine bittere Enttäuschung. Mit Recht nahm der Abgeordnete  <span class="fst-italic">Grigorovici</span> die Flüchtlinge gegen seine Vorwürfe in Schutz und sagte, jedes zweideutige Wort, das über die Flüchtlinge gesprochen werde, müsse als Verdächtigung aufgefaßt werden. Es seien Flüchtlinge in Schnee und Frost stundenlang gegangen, um ein Stückchen Brot zu erlangen. Schon Gereinigten habe man wieder die alten Kleider gegeben. Besonders in Oberhollabrunn seien die Ernährungsverhältnisse geradezu unhaltbar. Man könne die Leute kaum vor den ärgsten Ausschreitungen zurückhalten. […]
+'''
     },
     'pfarrchronik_oberhollabrunn_1917': {
-        'teaser': ''' ''',
+        'teaser': '''In den drei ersten Monaten dieses Jahres sind im Barackenlager, wo hauptsächlich Rumänen untergebracht sind, mehr <span class="text-decoration-underline">als hundert Personen gestorben</span>. Beinahe alle waren griechisch-orientalisch. „Kälte, Hunger und Heimweh“, so wurde mir mitgeteilt, „sind die Ursachen der außerordentlich vielen Sterbefälle.“''',
         'citation': 'Pfarrchronik Oberhollabrunn, 1917',
-        'title': '',
-        'page': '',
+        'title': 'Barackenlager Sterbefälle',
+        'page': '147/1',
         'url': '',
-        'source': source['oenb_anno'],
+        'source': source['erzdioezese'],
         'image_path': '',
-        'content': ''''''
+        'content': '''In den drei ersten Monaten dieses Jahres sind im Barackenlager, wo hauptsächlich Rumänen untergebracht sind, mehr <span class="text-decoration-underline">als hundert Personen gestorben</span>. Beinahe alle waren griechisch-orientalisch. „Kälte, Hunger und Heimweh“, so wurde mir mitgeteilt, „sind die Ursachen der außerordentlich vielen Sterbefälle.“'''
     },
     'illustrierte_kronen_zeitung_08071916': {
-        'teaser': ''' ''',
+        'teaser': '''- 310. Pfarrer Kornel Pihuliak aus Babin, Bukowina, wird von seiner Gattin Augustine
+                <span class="fst-italic">Pihuliak</span>,  derzeit im Barackenlager 147/10 in Gmünd, N.-Oe., gesucht.
+                ''',
         'citation': 'Illustrierte Kronen Zeitung, 8. Juli 1916',
-        'title': '',
-        'page': '',
-        'url': '',
+        'title': 'Ich bitte um die Adresse!',
+        'page': '13',
+        'url': 'https://anno.onb.ac.at/cgi-content/anno?aid=krz&datum=19160708&seite=13&zoom=33',
         'source': source['oenb_anno'],
         'image_path': '',
-        'content': ''''''
+        'content': '''- 310. Pfarrer Kornel Pihuliak aus Babin, Bukowina, wird von seiner Gattin Augustine
+                <span class="fst-italic">Pihuliak</span>,  derzeit im Barackenlager 147/10 in Gmünd, N.-Oe., gesucht.
+                '''
     },
     'allgemeiner_tiroler_18071917': {
-        'teaser': ''' ''',
+        'teaser': '''Im Flüchtlingslager von Oberhollabrunn (in Niederösterreich) wurde eine Volksschule für Flüchtlingskinder eröffnet. Der Einweihung wohnte u.a. der Lagerkommandant Dr. R. v. Grimm, Sekretär Graf Bidovich und Abg. Dr. Laginja bei. ''',
         'citation': 'Allgemeiner Tiroler Anzeiger, 18. Juli 1917',
         'title': 'Eine neue Schule für Flüchtlinge.',
-        'page': '',
-        'url': '',
+        'page': '4',
+        'url': 'https://anno.onb.ac.at/cgi-content/anno?aid=tan&datum=19170718&seite=4&zoom=33',
         'source': source['oenb_anno'],
         'image_path': '',
-        'content': ''''''
+        'content': '''Im Flüchtlingslager von Oberhollabrunn (in Niederösterreich) wurde eine Volksschule für Flüchtlingskinder eröffnet. Der Einweihung wohnte u.a. der Lagerkommandant Dr. R. v. Grimm, Sekretär Graf Bidovich und Abg. Dr. Laginja bei.'''
     },
     'oesterreichische_illustrierte_zeitung_21101917': {
         'teaser': ''' ''',
@@ -373,22 +398,22 @@ newspapers = {
         'content': ''''''
     },
     'wochenzeitung_29031918': {
-        'teaser': ''' ''',
+        'teaser': '''Am 23. und 24. März 1918 ist ein großer Teil der im k. k. Flüchtlingslager untergebrachten Flüchtlinge aus Ostgalizien und der Bukowina in die Heimat abgegangen.''',
         'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 29. März 1918',
         'title': 'Flüchtlingslager.',
         'page': '',
         'url': '',
-        'source': source['oenb_anno'],
+        'source': source['hollabrunn'],
         'image_path': '',
-        'content': ''''''
+        'content': '''Am 23. und 24. März 1918 ist ein großer Teil der im k. k. Flüchtlingslager untergebrachten Flüchtlinge aus Ostgalizien und der Bukowina in die Heimat abgegangen.'''
     },
     'eggenburger_zeitung_26041918': {
-        'teaser': ''' ''',
+        'teaser': '''Das Flüchtlingslager, das zur Zeit des stärksten Belages über 4000 Flüchtlinge beherbergte, ist nun fast vollständig geräumt. Dienstag ging der letzte große Transport ab, dem am 28. April der Rest folgen wird. Die Freude der Flüchtlinge, endlich in die Heimat zu kommen, gelangte oft stürmisch zum Ausbruch: nachdem sie abends auf der Bismarckstraße noch zum letztenmal Menage erhalten hatten, gingen sie in den bereitstehenden Zug, der Heimat entgegen.''',
         'citation': 'Eggenburger Zeitung, 26. April 1918',
         'title': 'Oberhollabrunn.',
-        'page': '',
-        'url': '',
+        'page': '5',
+        'url': 'https://anno.onb.ac.at/cgi-content/anno?aid=egg&datum=19180426&seite=5&zoom=33 ',
         'source': source['oenb_anno'],
         'image_path': '',
-        'content': ''''''}
+        'content': '''- Das Flüchtlingslager, das zur Zeit des stärksten Belages über 4000 Flüchtlinge beherbergte, ist nun fast vollständig geräumt. Dienstag ging der letzte große Transport ab, dem am 28. April der Rest folgen wird. Die Freude der Flüchtlinge, endlich in die Heimat zu kommen, gelangte oft stürmisch zum Ausbruch: nachdem sie abends auf der Bismarckstraße noch zum letztenmal Menage erhalten hatten, gingen sie in den bereitstehenden Zug, der Heimat entgegen.'''}
 }
