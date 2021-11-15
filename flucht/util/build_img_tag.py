@@ -80,4 +80,4 @@ def build_modal_img():
             </div> 
         </div> 
             '''
-        return img_tag
+    return img_tag
