@@ -7,8 +7,9 @@ from flucht.data.images import pictures_exhibition
 def build_img_tag():
     img_tag = {}
     for name, value in pictures_exhibition.items():
-        figure = f'''
-            <figure>
+        img_tag[name] = f'''
+        <div class="img-overlay-wrap">
+            <figure class="px-5">
                 <img 
                     id={name} 
                     data-bs-toggle="modal" 
@@ -18,15 +19,23 @@ def build_img_tag():
                     alt="{name}"
                     loading="lazy">
             </figure>
+            </div>
         '''
+
+    return img_tag
+
+
+def build_modal_img():
+    img_tag = {}
+    for name, value in pictures_exhibition.items():
         modal_body = f'''
             <div class="modal-body-image">
                 <div class="img_container">
                     <img 
                         class="modal-image"
                         src="{url_for(
-                            'static',
-                            filename=value['filepath'])}"
+            'static',
+            filename=value['filepath'])}"
                         alt="{_(name)}">
                 </div>
             </div>
@@ -58,7 +67,6 @@ def build_img_tag():
         '''
         img_tag[name] = f'''
         <div class="col">
-            {figure}
             <div class="modal fade" 
                 id="{name}Modal"
                 tabindex="-1" aria-labelledby="{name}Modal"
@@ -72,4 +80,4 @@ def build_img_tag():
             </div> 
         </div> 
             '''
-    return img_tag
+        return img_tag

@@ -9,15 +9,22 @@ def build_newspaper_tag():
     for name, value in newspapers.items():
         teaser = (value['teaser'][:100] + '...') if len(
             value['teaser']) > 100 else value['teaser']
-        figure = f'''
-        <button class="border border-warning rounded   bg-kaisergelb" 
+        news_tag[name] = f'''
+        <div class="col-8 ">
+        <button class="border border-warning rounded bg-kaisergelb" 
                 data-bs-toggle="modal" 
                 data-bs-target="#{name}Modal">
             <figure class="newspaper">
-                <p class="source-header">{value['title']}<p>
+                
                 <div class="row">
-                    <div class="col-9">
-                        <blockquote>
+                    <div class="col-9 ">
+                        <span class="source-header">{value['title']}<span>
+                    </div>
+                    <div class="col-3">
+                        <img src="../static/images/exhibition/news_person.png" class="img-fluid" loading="lazy">
+                    </div>
+                 </div>
+                                         <blockquote>
                             <p class="source-text">                 
                                 {teaser}
                             </p>
@@ -27,15 +34,16 @@ def build_newspaper_tag():
                                 {value['citation']}
                             </cite>
                         </figcaption>
-                    </div>
-                    <div class="col-3">
-                        <img src="../static/images/exhibition/news_person.png" class="img-fluid" loading="lazy">
-                    </div>
-                 </div>
             </figure>
         </button>
+        </div>
             '''
+    return news_tag
 
+
+def build_modal_newspaper():
+    news_tag = {}
+    for name, value in newspapers.items():
         image_path = f"images/exhibition/newspaper/{value['filename']}"
 
         newspaper_image = f'''
@@ -102,7 +110,6 @@ def build_newspaper_tag():
 
         news_tag[name] = f'''
         <div class="col">
-            {figure}
             <div class="modal fade" 
                 id="{name}Modal"
                 tabindex="-1" aria-labelledby="{name}Modal"

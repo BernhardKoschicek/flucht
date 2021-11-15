@@ -5,8 +5,9 @@ from flask_babel import _
 from flucht import app
 from flucht.data.logos import logos
 from flucht.data.references import intro_books
-from flucht.util.build_img_tag import build_img_tag
-from flucht.util.build_newspaper_tag import build_newspaper_tag
+from flucht.util.build_img_tag import build_img_tag, build_modal_img
+from flucht.util.build_newspaper_tag import build_modal_newspaper, \
+    build_newspaper_tag
 from flucht.util.pages import get_sections_pages
 
 multilingual = Blueprint(
@@ -61,6 +62,8 @@ def exhibition():
         newspaper=build_newspaper_tag(),
         pages=get_sections_pages(),
         images=build_img_tag(),
+        modal=build_modal_img(),
+        news_modal=build_modal_newspaper(),
         sponsors=logos)
 
 

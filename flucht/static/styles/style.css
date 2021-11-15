@@ -26,10 +26,10 @@ cite {
 }
 
 .inner_monolog {
-    background-image: url('../images/exhibition/paper.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    /*    background-image: url('../images/exhibition/paper.jpg');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover*/;
     padding: 1em;
     font-family: 'Sacramento', serif;
     font-size: 2em;
@@ -43,6 +43,27 @@ cite {
 
 .newspaper {
 }
+
+.img-rotate-right-5 {
+  transform: rotate( 5deg );
+}
+.img-rotate-right-10 {
+  transform: rotate( 10deg );
+}
+.img-rotate-right-15 {
+  transform: rotate( 15deg );
+}
+
+.img-rotate-left-5 {
+  transform: rotate( -5deg );
+}
+.img-rotate-left-10 {
+  transform: rotate( -10deg );
+}
+.img-rotate-left-15 {
+  transform: rotate( -15deg );
+}
+
 
 .source-header {
     color: black;
@@ -82,7 +103,12 @@ cite {
     font-size: 2em;
 }
 
-
+.old-paper {
+    background-image: url('../images/exhibition/paper_full.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
 
 
 /* Modal */
