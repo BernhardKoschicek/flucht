@@ -62,9 +62,10 @@ def exhibition():
         newspaper=build_newspaper_tag(),
         pages=get_sections_pages(),
         images=build_img_tag(),
-        modal=build_modal_img(),
+        img_modal=build_modal_img(),
         news_modal=build_modal_newspaper(),
-        sponsors=logos)
+        sponsors=logos,
+        )
 
 
 @multilingual.errorhandler(404)
