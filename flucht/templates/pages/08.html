@@ -1,14 +1,24 @@
-
-
-<div class="row mt-5 mb-5 justify-content-center">
+<div class="row mt-5 mb-5 old-paper">
   <div class="row row-cols-lg-1 col-xxl-4">
-    {{ newspaper['neue_freie_presse_18071916_2']|safe }}
+    <div class="col pt-5">
+      {{ newspaper['neue_freie_presse_18071916_2']|safe }}
+    </div>
   </div>
   <div class="col-xxl-4">
-    <p class="inner_monolog">{{ _('inner_monolog_09') }}</p>
+    <p class="inner_monolog">{{ _('inner_monolog_10') }}</p>
   </div>
   <div class="row row-cols-lg-1 col-xxl-4">
-    {{ images['flucht_bukowina']|safe }}
+    <div class="col img-rotate-right-5">
+      {{ images['flucht_bukowina']|safe }}
+    </div>
+  </div>
+  <div class="row">
+
+    <div class="col-3"></div>
+    <div class="col-9">
+          {{ images['kundmachung_20061916']|safe }}
+    </div>
+
   </div>
 </div>
 
