@@ -43,10 +43,28 @@ pictures_exhibition = {
         'url': 'http://muzejew.org.ua/Karta-De.html',
         'source': source['muzejew']
     },
-    'bahnhof_czernowitz': {
+    'bukowina_verkehrskarte': {
+        'filepath': 'images/exhibition/bukowina_verkehrskarte.jpg',
+        'citation': None,
+        'url': 'https://maps.hungaricana.hu/en/HTITerkeptar/325/',
+        'source': source['hu_museum']
+    },
+    'bukowina_verkehrskarte_focus': {
+        'filepath': 'images/exhibition/bukowina_verkehrskarte_focus.jpg',
+        'citation': None,
+        'url': 'https://maps.hungaricana.hu/en/HTITerkeptar/325/',
+        'source': source['hu_museum']
+    },
+    'bahnhof_czernowitz_postkarte': {
         'filepath': 'images/exhibition/bahnhof_czernowitz.jpg',
         'citation': None,
         'url': 'https://www.wiener-werkstaette-postkarten.com/_admin/_images/auction18/pictures/1109.jpg',
+        'source': source['wwp']
+    },
+    'bahnhof_czernowitz': {
+        'filepath': 'images/exhibition/chernivtsi_railroad.jpg',
+        'citation': None,
+        'url': 'https://de.wikipedia.org/wiki/Bahnstrecke_Tscherniwzi%E2%80%93Suceava#/media/Datei:Chernivtsi_Railroad_Station.JPG',
         'source': source['wwp']
     },
     'kundmachung_19071915': {

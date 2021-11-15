@@ -26,10 +26,6 @@ cite {
 }
 
 .inner_monolog {
-    /*    background-image: url('../images/exhibition/paper.jpg');
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: cover*/;
     padding: 1em;
     font-family: 'Sacramento', serif;
     font-size: 2em;
@@ -63,6 +59,8 @@ cite {
 .img-rotate-left-15 {
   transform: rotate( -15deg );
 }
+
+
 
 
 .source-header {
@@ -103,12 +101,6 @@ cite {
     font-size: 2em;
 }
 
-.old-paper {
-    background-image: url('../images/exhibition/paper_full.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
 
 
 /* Modal */
@@ -281,10 +273,3 @@ section.current {
     background-color: #F0D077;
 }
 
-.header_background {
-    background-image: url('../images/exhibition/trommelfeuer_1914.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    height: 100vh;
-}

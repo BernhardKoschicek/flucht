@@ -25,5 +25,6 @@ source = {
     'filmarchiv': 'Filmarchiv Austria',
     'wikipedia': 'Wikipedia',
     'erzdioezese': 'Erzdiözese Wien, Pfarrchroniken, Hollabrunn 1913-1921',
-    'hollabrunn': 'Stadtarchiv Hollabrunn'
+    'hollabrunn': 'Stadtarchiv Hollabrunn',
+    'hu_museum': 'HM Hadtörténeti Intézet és Múzeum',
 }

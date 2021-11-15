@@ -1,17 +1,21 @@
-<div class="row mt-5 mb-5 justify-content-center">
-    <div class="row row-cols-lg-1 col-xxl-4">
-        {{ images['bukowina']|safe }}
+<div class="row mt-5 mb-5 justify-content-center old-paper">
+  <div class="row col-xxl-8 bg-bukowina-verkehrskarte align-items-end">
+    <div class="col-12"></div>
+    <div class="col-6">
+      {{ images['bahnhof_czernowitz']|safe }}
     </div>
-      <div class="col-xxl-4">
-        <p class="inner_monolog">
-          {{ _('inner_monolog_05') }}
-          <br>
-          {{ _('inner_monolog_06') }}
-        </p>
+    <div class="col-6">
+      {{ images['bukowina_verkehrskarte_focus']|safe }}
     </div>
-    <div class="row row-cols-lg-1 col-xxl-4">
-        {{ images['bahnhof_czernowitz']|safe }}
-    </div>
+
+  </div>
+  <div class="col-xxl-4">
+    <p class="inner_monolog">
+      {{ _('inner_monolog_05') }}
+      <br>
+      {{ _('inner_monolog_06') }}
+    </p>
+  </div>
 </div>
 
 

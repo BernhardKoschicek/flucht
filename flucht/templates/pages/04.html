@@ -1,19 +1,38 @@
-<div class="row mt-5 mb-5 justify-content-center">
-  <div class="row row-cols-lg-1 col-xxl-4">
-    {{ images['ansicht_oberhollabrunn_1910']|safe }}
-    {{ newspaper['neue_freie_presse_18071916']|safe }}
+<div class="row mt-5 mb-5 old-paper">
+  <div class="row row-cols-lg-1 col-xxl-4 ">
+    <div class="col img-rotate-right-15">
+      {{ images['ansicht_oberhollabrunn_1910']|safe }}
+    </div>
+    <div class="col img-rotate-left-5">
+      {{ images['ansichtskarte_czernowitz']|safe }}
+    </div>
   </div>
-  <div class="col-xxl-4">
-    <p class="inner_monolog">
-      {{ _('inner_monolog_03') }}
-      <br>
-      {{ _('inner_monolog_04') }}
-    </p>
-  </div>
-  <div class="row row-cols-lg-1 col-xxl-4">
-    {{ newspaper['czernowitzer_tagblatt_27081914']|safe }}
-    {{ images['ansichtskarte_czernowitz']|safe }}
-    {{ newspaper['innsbrucker_nachrichten_10071916']|safe }}
+  <div class="col-xxl-8">
+    <div class="row">
+      <div class="col">
+        <p class="inner_monolog">
+          {{ _('inner_monolog_03') }}
+        </p>
+      </div>
+      <div class="col">
+        <p class="inner_monolog">
+          {{ _('inner_monolog_04') }}
+        </p>
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col-6 justify-content-center align-items-center align-content-center">
+        {{ newspaper['neue_freie_presse_18071916']|safe }}
+      </div>
+      <div class="col-6 justify-content-center align-items-center align-content-center">
+        {{ newspaper['innsbrucker_nachrichten_10071916']|safe }}
+      </div>
+      <div class="col justify-content-center align-items-center align-content-center">
+        {{ newspaper['czernowitzer_tagblatt_27081914']|safe }}
+      </div>
+
+
+    </div>
+
   </div>
 </div>
-

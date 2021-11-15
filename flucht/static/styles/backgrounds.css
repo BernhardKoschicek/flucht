@@ -1,0 +1,31 @@
+
+.old-paper {
+    background-image: url('../images/exhibition/paper_full.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.header_background {
+    background-image: url('../images/exhibition/trommelfeuer_1914.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.kk-background {
+    background-image: url('../images/exhibition/kk_karte.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.bg-bukowina-verkehrskarte {
+    background-image: url('../images/exhibition/bukowina_verkehrskarte.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
