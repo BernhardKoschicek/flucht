@@ -1,19 +1,25 @@
-<div class="row mt-5 mb-5 justify-content-center">
-  <div class="row row-cols-lg-1 col-xxl-4">
-    {{ newspaper['wochenzeitung_26021915']|safe }}
+<div class="row py-5 px-5 old-paper">
+  <div class="row row-cols-lg-1 col-xxl-4 ">
+    <div class="col ">
+      {{ newspaper['wochenzeitung_02071915']|safe }}
+    </div>
     {{ newspaper['pfarrchrobnik_oberhollabrunn_1915']|safe }}
   </div>
-  <div class="row row-cols-lg-1 col-xxl-4">
-    <p class="inner_monolog">
-      {{ _('inner_monolog_14') }}
-      <br>
-      {{ _('inner_monolog_15') }}
-      <br>
-      {{ _('inner_monolog_16') }}
-    </p>
-  </div>
-  <div class="row row-cols-lg-1 col-xxl-4">
-    {{ images['schuettkasten']|safe }}
+  <div class="row row-cols-lg-2 col-xxl-8">
+    <div class="col">
+      <p class="inner_monolog">
+        {{ _('inner_monolog_17') }}
+      </p>
+    </div>
+    <div class="col ">
+      {{ images['schuettkasten']|safe }}
+    </div>
+    <div class="col-12">
+      <p class="inner_monolog">
+        {{ _('inner_monolog_18') }}
+      <p class="inner_monolog">
+        {{ _('inner_monolog_19') }}
+      </p>
+    </div>
   </div>
 </div>
-

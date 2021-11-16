@@ -256,7 +256,7 @@ section.current {
 .scroll-bar {
     width: 0;
     height: inherit;
-    background: #8D7ECA;
+    background: #F0D077;
 }
 
 /* Popover */
@@ -273,3 +273,6 @@ section.current {
     background-color: #F0D077;
 }
 
+.newspaper-spacing {
+     letter-spacing: 4px;
+}
