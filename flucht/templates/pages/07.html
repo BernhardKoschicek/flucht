@@ -1,32 +1,32 @@
-<div class="row py-5 px-5 old-paper">
+<div class="row py-5 px-5">
   <div class="row row-cols-lg-1 col-xxl-4 ">
-    <div class="col img-rotate-right-10">
-      {{ images['ansicht_czernowitz_1916']|safe }}
-    </div>
-    <div class="col img-rotate-left-10">
-      {{ images['eisenbahnbruecke_061915']|safe }}
-    </div>
-  </div>
-  <div class="row-cols-lg-1 col-xxl-4">
-    <div class="col pt-3">
-      {{ images['kundmachung_19071915']|safe }}
+    <div class="col">
+
     </div>
     <div class="col">
+      {{ images['ansicht_czernowitz_1916']|safe }}
+    </div>
+
+  </div>
+  <div class="row-cols-lg-1 col-xxl-4 old-paper">
+    <div class="col">
       <p class="inner_monolog">
+        {{ _('inner_monolog_08') }}
+        <br>
         {{ _('inner_monolog_09') }}
       </p>
     </div>
   </div>
 
   <div class="row row-cols-lg-1 col-xxl-4">
-    <div class="col">
-      <p class="inner_monolog">
-        {{ _('inner_monolog_08') }}
-      </p>
-    </div>
+
     <div class="col ">
       {{ newspaper['neue_freie_presse_20061916']|safe }}
     </div>
+    <div class="col">
+      {{ images['eisenbahnbruecke_061915']|safe }}
+    </div>
   </div>
+</div>
 
 </div>

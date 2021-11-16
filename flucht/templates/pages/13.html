@@ -1,21 +1,29 @@
-
-<div class="row py-5 px-5 old-paper">
+<div class="row py-5 px-5 ">
   <div class="row row-cols-lg-1 col-xxl-4 ">
-    <div class="col"></div>
     <div class="col">
-     {{ images['lagerbuch_1903_1935']|safe }}
+    </div>
+    <div class="col">
+      {{ images['lagerbuch_1903_1935']|safe }}
     </div>
   </div>
-  <div class="col-xxl-4">
-    <p class="inner_monolog">{{ _('inner_monolog_11') }}</p>
-    <p class="inner_monolog">{{ _('inner_monolog_12') }}</p>
+  <div class="row row-cols-1 col-xxl-4">
+    <div class="col old-paper">
+      <p class="inner_monolog">{{ _('inner_monolog_11') }}</p>
+    </div>
+    <div class="col">
+    </div>
+    <div class="col old-paper">
+      <p class="inner_monolog">{{ _('inner_monolog_12') }}</p>
+    </div>
   </div>
   <div class="row row-cols-lg-1 col-xxl-4">
-    <div class="col img-rotate-right-5">
-    {{ images['verwaltungsgebaeude']|safe }}
+    <div class="col ">
+      {{ images['verwaltungsgebaeude']|safe }}
     </div>
-    <div class="col img-rotate-left-5">
-       {{ images['quarantaenebaracke']|safe }}
+    <div class="col">
+    </div>
+    <div class="col">
+      {{ images['quarantaenebaracke']|safe }}
     </div>
   </div>
 </div>

@@ -109,6 +109,12 @@ pictures_exhibition = {
         'url': 'https://www.wiener-werkstaette-postkarten.com/liste.php?offset=1345&auction=23',
         'source': source['wwp']
     },
+    'bahnhof_oberhollabrunn': {
+        'filepath': 'images/exhibition/bahnhof_oberhollabrunn.jpg',
+        'citation': None,
+        'url': None,
+        'source': source['hollabrunn']
+    },
     'ansicht_oberhollabrunn_1910': {
         'filepath': 'images/exhibition/ansicht_oberhollabrunn_1910.jpg',
         'citation': None,

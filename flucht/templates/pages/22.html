@@ -1,17 +1,43 @@
-<div class="row mt-5 mb-5 justify-content-center">
-  <div class="row row-cols-lg-1 col-xxl-4">
-    {{ newspaper['eggenburger_zeitung_21051915']|safe }}
-    {{ images['lagergeld']|safe }}
+<div class="row py-5 px-5 ">
+  <div class="row row-cols-lg-1 col-xxl-4 ">
+    <div class="col">
+      {{ newspaper['eggenburger_zeitung_21051915']|safe }}
+    </div>
+    <div class="col">
+      {{ images['lagergeld']|safe }}
+    </div>
+    <div class="col">
+      {{ newspaper['wochenzeitung_22091916']|safe }}
+    </div>
+  </div>
+  <div class="row row-cols-1 col-xxl-4">
+    <div class="col old-paper">
+      <p class="inner_monolog">{{ _('inner_monolog_22') }}</p>
+    </div>
+    <div class="col">
+    </div>
+    <div class="col old-paper">
+      <p class="inner_monolog">{{ _('inner_monolog_23') }}</p>
+      <p class="inner_monolog">{{ _('inner_monolog_24') }}</p>
+    </div>
   </div>
   <div class="row row-cols-lg-1 col-xxl-4">
-    <p class="inner_monolog">
-      {{ _('inner_monolog_19') }}
-      <br>
-      {{ _('inner_monolog_20') }}
-    </p>
-  </div>
-  <div class="row row-cols-lg-1 col-xxl-4">
-    {{ images['gruppenbild_1918']|safe }}
-    {{ newspaper['wochenzeitung_10111916']|safe }}
+    <div class="col ">
+      {{ images['gruppenbild_1918']|safe }}
+    </div>
+    <div class="col ">
+      {{ newspaper['wochenzeitung_10111916']|safe }}
+    </div>
+    <div class="col">
+    </div>
+    <div class="col">
+      {{ images['lagerbahn']|safe }}
+    </div>
+    <div class="col">
+      {{ newspaper['neue_freie_presse_13071917']|safe }}
+    </div>
+    <div class="col">
+      {{ images['pferdefuhrwerk']|safe }}
+    </div>
   </div>
 </div>

@@ -18,7 +18,7 @@
     background-image: url('../images/exhibition/kk_karte.jpg');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: auto;
 }
 
 
@@ -33,6 +33,22 @@
     background-image: url('../images/exhibition/cork.jpg');
     background-repeat: no-repeat;
     background-position: top;
+    background-size: cover;
+}
+
+
+.bg-bukovina_muster {
+    background-image: url('../images/exhibition/bukovina_muster.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+}
+
+
+.bg-kriegsschaden {
+    background-image: url('../images/exhibition/kriegsschaden_1917.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
 

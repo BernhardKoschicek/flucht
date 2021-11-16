@@ -1,13 +1,21 @@
-<div class="row py-5 px-5 old-paper">
+<div class="row align-items-center justify-content-center align-content-center">
+    <div class="col-12 justify-content-center align-items-center align-content-center">
+      <img src="{{ url_for('static', filename='images/exhibition/ansichtkarte_1917.jpg') }}"
+class="h-100 w-100">
+    </div>
+</div>
+
+
+
+
+<div class="row py-5 px-5">
   <div class="row row-cols-lg-1 col-xxl-4 ">
-    <div class="col img-rotate-left-5">
+    <div class="col"></div>
+    <div class="col">
       {{ images['haupttor_1916']|safe }}
     </div>
-    <div class="col img-rotate-right-10">
-      {{ images['ansichtkarte_1917']|safe }}
-    </div>
   </div>
-  <div class="row row-cols-lg-1 col-xxl-4">
+  <div class="row row-cols-lg-1 col-xxl-4 old-paper">
     <p class="inner_monolog">
       {{ _('inner_monolog_13') }}
     </p>
@@ -16,7 +24,6 @@
     </p>
   </div>
   <div class="row row-cols-lg-1 col-xxl-4 ">
-    <div class="col"></div>
     <div class="col">
       {{ images['baracke_film']|safe }}
     </div>

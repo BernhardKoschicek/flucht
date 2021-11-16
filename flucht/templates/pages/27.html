@@ -1,17 +1,6 @@
-
-<div class="row mt-5 mb-5 justify-content-center">
-    <div class="row row-cols-lg-1 col-xxl-4">
-        {{ images['lagerkirche']|safe }}
-        {{ images['totenschein_basil']|safe }}
-    </div>
-    <div class="row row-cols-lg-1 col-xxl-4">
-        <p class="inner_monolog">{{ _('inner_monolog_25') }}</p>
-        <p class="inner_monolog">{{ _('inner_monolog_26') }}</p>
-    </div>
-    <div class="row row-cols-lg-1 col-xxl-4">
-        {{ newspaper['illustrierte_kronen_zeitung_08071916']|safe }}
-        {{ images['geburt_roman']|safe }}
+<div class="row align-items-center justify-content-center align-content-center">
+    <div class="col-12 justify-content-center align-items-center align-content-center">
+      <img src="{{ url_for('static', filename='images/exhibition/bukovina_muster.jpg') }}"
+class="h-100 w-100">
     </div>
 </div>
-
-
