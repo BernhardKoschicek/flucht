@@ -8,16 +8,16 @@ def build_img_tag():
     img_tag = {}
     for name, value in pictures_exhibition.items():
         img_tag[name] = f'''
-            <figure class="px-3 py-3">
+        <div class="col-10">
                 <img 
                     id={name} 
                     data-bs-toggle="modal" 
                     data-bs-target="#{name}Modal" 
-                    class="img-thumbnail"
+                    class="img-thumbnail shadow-longer"
                     src="{url_for('static', filename=value['filepath'])}" 
                     alt="{name}"
                     loading="lazy">
-            </figure>
+        </div>
         '''
 
     return img_tag

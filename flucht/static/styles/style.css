@@ -2,6 +2,9 @@
 
 html {
     scroll-behavior: smooth;
+    min-height: 100%;
+        display: flex;
+    flex-direction: column;
 }
 
 body {
@@ -9,6 +12,7 @@ body {
     color: #fcf8e3;
     scroll-behavior: smooth;
     font-family: 'Open Sans', serif;
+      flex-grow: 1;
 }
 
 p {
@@ -20,10 +24,6 @@ cite {
     font-size: 1.1em;
 }
 
-.container-main {
-    width: 80vw;
-    min-height: 100vh;
-}
 
 .inner_monolog {
     padding: 1em;

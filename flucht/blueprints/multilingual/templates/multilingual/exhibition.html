@@ -4,10 +4,9 @@
   <div class='scroll-bar-wrapper'>
     <div class='scroll-bar'></div>
   </div>
-
   {% for page in pages %}
     <section id="section-{{ loop.index }}">
-      <div class="container-fluid pt-5" style="min-height: 100vh">
+      <div class="container-fluid" style="">
         {% include page %}
         <div class="navbar navbar-default navbar-fixed-bottom">
           <div class="container justify-content-center">
@@ -19,6 +18,7 @@
       </div>
     </section>
   {% endfor %}
-
-  {% include 'multilingual/modal.html' %}
+  <div class="container">
+    {% include 'multilingual/modal.html' %}
+  </div>
 {% endblock %}

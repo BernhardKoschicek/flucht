@@ -10,8 +10,8 @@ def build_newspaper_tag():
         teaser = (value['teaser'][:100] + '...') if len(
             value['teaser']) > 100 else value['teaser']
         news_tag[name] = f'''
-        <div class="col mx-auto shadow-longer">
-        <button class="border border-warning rounded bg-kaisergelb" 
+        <div class="col-8">
+        <button class="border border-warning rounded bg-kaisergelb shadow-longer" 
                 data-bs-toggle="modal" 
                 data-bs-target="#{name}Modal">
             <figure class="newspaper">
