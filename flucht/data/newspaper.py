@@ -170,7 +170,7 @@ newspapers = {
     },
     'wochenzeitung_24031916': {
         'teaser': '''Die in Barackenform in Aussicht genommenen Unterkünfte für die Flüchtlinge sind bereits zum größten Teile hergestellt. Nunmehr gelangen kleinere und größere Familienwohnhäuse[r], welche vollständig in Mauerwerk ausgeführt wurden, zur Vergebung und Herstellung. Die von der Bahnstation zum Flüchtlingslager errichtete Schmalspurbahn funktioniert schon seit längerer Zeit, und wird hauptsächlich zu Materialzufuhr verwendet. ''',
-        'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 24. März 1916',
+        'citation': 'WZ Mahnhartsberg, 24. März 1916',
         'title': 'Flüchtlingslager.',
         'page': '',
         'url': '',
@@ -180,7 +180,7 @@ newspapers = {
     },
     'wochenzeitung_02071915': {
         'teaser': '''Die Internierungsstationen befinden sich in Weierburg, Enzersdorf im Tale, Sitzendorf, Mittergrabern und Raschala, wobei die in diesen Orten befindlichen herrschaftlichen Schüttkästen samt umliegenden Grundstücken b[e]nützt werden. Dem Vernehmen nach soll auch in Oberhollabrunn und zwar in der ehemals Gindlschen Gasthausrealität eine Internierungsstation untergebracht werden.''',
-        'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 2. Juli 1918',
+        'citation': 'WZ Mahnhartsberg, 2. Juli 1918',
         'title': 'K. k. Internierungsstationen',
         'page': '',
         'url': '',
@@ -190,7 +190,7 @@ newspapers = {
     },
     'wochenzeitung_21011916': {
         'teaser': '''Die Arbeiten zur Herstellung des von der Staatsverwaltung in Oberhollabrunn in [A]ussicht genommenen Flüchtlingslagers sind bereits in Angriff genommen worden. Ein Teil der Baulichkeiten ist im Konkurrenzwege vergeben worden und haben hiebei auch hiesige Firmen Berücksichtigung gefunden. Zu dem Lagerplatze, der einen Raum von 70 Joch Grund in Anspruch nimmt, wird eine schmalspurige Bahn zwecks Verbindung mit der Nordwestbahn gebaut. ''',
-        'citation': 'Wochenzeitung für das Viertel unter dem Manhartsberg, 21. Januar 1916',
+        'citation': 'WZ Mahnhartsberg, 21. Januar 1916',
         'title': 'Flüchtlingslager.',
         'page': '',
         'url': '',
@@ -284,7 +284,7 @@ newspapers = {
     },
     'wochenzeitung_10111916': {
         'teaser': '''Das Flüchtlingslager, welches jetzt mit mehr als 3000 Flüchtlingen, zumeist aus der Bukowina und Siebenbürgen belegt ist, macht sich für die hiesige Bevölkerung recht unangenehm bemerkbar. Trotz der Einzäunung des Lagers läßt man die Insassen in großen Mengen heraus. Diese belagern alle Lebensmittelverkaufsstellen, raufen sich in den Tabaktrafiken mit den Einheimischen um die karg bemessenen Rationen und geben auch sonst zu vielen Klagen und Beschwerden Anlaß. Da sollte die Verwaltung etwas strenger sein, bevor es zum Krach kommt. ''',
-        'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 10 November 1916',
+        'citation': 'WZ Mahnhartsberg, 10 November 1916',
         'title': 'Lagermisere',
         'page': '',
         'url': '',
@@ -303,7 +303,7 @@ newspapers = {
             Erdäpfel erfreuen sich der besonderen
             Vorliebe und Aufmerksamkeit dieser
             Elemente.''',
-        'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 22. September 1916',
+        'citation': 'WZ Mahnhartsberg, 22. September 1916',
         'title': 'Flüchtlingslager',
         'page': '',
         'url': '',
@@ -379,7 +379,7 @@ newspapers = {
     },
     'wochenzeitung_29031918': {
         'teaser': '''Am 23. und 24. März 1918 ist ein großer Teil der im k. k. Flüchtlingslager untergebrachten Flüchtlinge aus Ostgalizien und der Bukowina in die Heimat abgegangen.''',
-        'citation': 'Wochen-Zeitung für das Viertel unter dem Manhartsberg, 29. März 1918',
+        'citation': 'WZ Mahnhartsberg, 29. März 1918',
         'title': 'Flüchtlingslager.',
         'page': '',
         'url': '',

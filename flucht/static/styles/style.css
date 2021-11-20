@@ -24,6 +24,9 @@ cite {
     font-size: 1.1em;
 }
 
+.img-thumbnail {
+    border: 0px solid;
+}
 
 .inner_monolog {
     padding: 1em;
@@ -37,8 +40,7 @@ cite {
     color: #cbccce;
 }
 
-.newspaper {
-}
+
 
 .img-rotate-right-5 {
   transform: rotate( 5deg );

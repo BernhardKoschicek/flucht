@@ -10,32 +10,31 @@ def build_newspaper_tag():
         teaser = (value['teaser'][:100] + '...') if len(
             value['teaser']) > 100 else value['teaser']
         news_tag[name] = f'''
-        <div class="col-8">
-        <button class="border border-warning rounded bg-kaisergelb shadow-longer" 
-                data-bs-toggle="modal" 
-                data-bs-target="#{name}Modal">
-            <figure class="newspaper">
-                
+        <div class="col-8" xmlns="http://www.w3.org/1999/html">
+            <button class="border border-warning bg-warning rounded shadow-longer" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#{name}Modal">
                 <div class="row">
-                    <div class="col-9 justify-content-start">
-                        <span class="source-header">{value['title']}<span>
-                    </div>
-                    <div class="col-3">
-                        <img src="../static/images/exhibition/news_person.png" class="img-fluid" loading="lazy">
-                    </div>
-                 </div>
-                                         <blockquote>
+                    <div class="col">
+                     <blockquote>
                             <p class="source-text">                 
                                 {teaser}
                             </p>
-                        </blockquote>
-                        <figcaption class="blockquote-footer blockquote-footer-teaser">
-                            <cite title="{value['citation']}">
+                        <figcaption class="blockquote-footer blockquote-footer-teaser ">
+                                <cite title="{value['citation']}">
                                 {value['citation']}
-                            </cite>
-                        </figcaption>
-            </figure>
-        </button>
+                                </cite>
+                          
+             
+                        </figcaption>   
+                      </div>
+                      <div class="col-3">
+                            <img src="../static/images/exhibition/news_person.png" 
+                            class="img-fluid" alt="newspict" loading="lazy">
+                      </div>
+
+                </div>
+            </button>
         </div>
             '''
     return news_tag
@@ -95,7 +94,9 @@ def build_modal_newspaper():
                     <p class="pic-source">
                      {source_link if value['url'] else value['source']}
                    </p>
+                   <p class="fst-italic">Buchstabengetreu transkribiert, Orthographie und Zeichensetzung des Originals übernommen.</p>
                 </div>
+                
                 <div class="col-1">
                     <button 
                         type="button" 
