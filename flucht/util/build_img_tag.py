@@ -8,6 +8,7 @@ def build_img_tag():
     img_tag = {}
     for name, value in pictures_exhibition.items():
         img_tag[name] = f'''
+        <div class="row d-flex justify-content-center">
         <div class="col-10">
                 <img 
                     id={name} 
@@ -17,6 +18,7 @@ def build_img_tag():
                     src="{url_for('static', filename=value['filepath'])}" 
                     alt="{name}"
                     loading="lazy">
+        </div>
         </div>
         '''
 

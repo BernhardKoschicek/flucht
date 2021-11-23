@@ -1,29 +1,17 @@
-<div class="row py-5 px-5">
-  <div class="row row-cols-lg-1 col-xxl-4 ">
-    <div class="col ">
-      {{ newspaper['wochenzeitung_02071915']|safe }}
-    </div>
-    <div class="col ">
-      {{ newspaper['pfarrchrobnik_oberhollabrunn_1915']|safe }}
+<div class="row py-5 px-5 ">
+  <div class="row col-xxl-4 ">
+    {{ newspaper['wochenzeitung_02071915']|safe }}
+    {{ newspaper['pfarrchrobnik_oberhollabrunn_1915']|safe }}
+  </div>
+  <div class="col-xxl-4 d-flex align-items-center justify-content-center align-content-center ">
+    <div class="old-paper col-9 ">
+      <p class="inner_monolog">{{ _('inner_monolog_17') }}</p>
+      <p class="inner_monolog">{{ _('inner_monolog_18') }}</p>
+      <p class="inner_monolog">{{ _('inner_monolog_19') }}</p>
     </div>
   </div>
-  <div class="row row-cols-lg-1 col-xxl-4 old-paper">
-    <div class="col">
-      <p class="inner_monolog">
-        {{ _('inner_monolog_17') }}
-      </p>
-      <p class="inner_monolog">
-        {{ _('inner_monolog_18') }}
-      </p>
-      <p class="inner_monolog">
-        {{ _('inner_monolog_19') }}
-      </p>
-    </div>
-  </div>
-  <div class="row row-cols-lg-1 col-xxl-4">
-    <div class="col">
-      {{ images['schuettkasten']|safe }}
-    </div>
+  <div class="row col-xxl-4">
+    {{ images['schuettkasten']|safe }}
   </div>
 </div>
 

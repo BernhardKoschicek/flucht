@@ -10,6 +10,7 @@ def build_newspaper_tag():
         teaser = (value['teaser'][:100] + '...') if len(
             value['teaser']) > 100 else value['teaser']
         news_tag[name] = f'''
+        <div class="row d-flex justify-content-center">
         <div class="col-8" xmlns="http://www.w3.org/1999/html">
             <button class="border border-warning bg-warning rounded shadow-longer" 
                     data-bs-toggle="modal" 
@@ -35,6 +36,7 @@ def build_newspaper_tag():
 
                 </div>
             </button>
+        </div>
         </div>
             '''
     return news_tag

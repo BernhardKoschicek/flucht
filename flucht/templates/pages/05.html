@@ -1,25 +1,14 @@
-<div class="row py-5 px-5">
-  <div class="row col-xxl-4">
-    <div class="col">
-      {{ images['bukowina_verkehrskarte']|safe }}
+<div class="row  py-5 px-5 ">
+  <div class="row col-xxl-4 ">
+    {{ images['bukowina_verkehrskarte']|safe }}
+  </div>
+  <div class="col-xxl-4 d-flex align-items-center justify-content-center align-content-center ">
+    <div class="old-paper col-9 ">
+      <p class="inner_monolog">{{ _('inner_monolog_06') }}</p>
+      <p class="inner_monolog">{{ _('inner_monolog_07') }}</p>
     </div>
   </div>
-  <div class="col-xxl-4 old-paper">
-    <p class="inner_monolog">
-      {{ _('inner_monolog_06') }}
-      <br>
-      {{ _('inner_monolog_07') }}
-    </p>
-  </div>
   <div class="row col-xxl-4">
-    <div class="col">
-      {{ images['bahnhof_czernowitz']|safe }}
-    </div>
+    {{ images['bahnhof_czernowitz']|safe }}
   </div>
 </div>
-
-
-{##}
-{#    <div class="col-6">#}
-{#      {{ images['bukowina_verkehrskarte_focus']|safe }}#}
-{#    </div>#}

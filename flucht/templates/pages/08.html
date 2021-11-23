@@ -1,17 +1,14 @@
-<div class="row py-5 px-5">
-  <div class="row row-cols-lg-1 col-xxl-4">
-    <div class="col pt-5">
-      {{ newspaper['neue_freie_presse_18071916_2']|safe }}
+<div class="row  py-5 px-5 ">
+  <div class="row col-xxl-4 ">
+ {{ newspaper['neue_freie_presse_18071916_2']|safe }}
+  </div>
+  <div class="col-xxl-4 d-flex align-items-center justify-content-center align-content-center ">
+    <div class="old-paper col-9 ">
+      <p class="inner_monolog">{{ _('inner_monolog_10') }}</p>
     </div>
   </div>
-  <div class="col-xxl-4 old-paper">
-    <p class="inner_monolog">{{ _('inner_monolog_10') }}</p>
-  </div>
-  <div class="row row-cols-lg-1 col-xxl-4">
-    <div class="col">
-      {{ images['flucht_bukowina']|safe }}
-    </div>
+  <div class="row col-xxl-4">
+     {{ images['flucht_bukowina']|safe }}
   </div>
 </div>
-
 

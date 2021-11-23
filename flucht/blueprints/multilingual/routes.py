@@ -5,6 +5,7 @@ from flask_babel import _
 from flucht import app
 from flucht.data.logos import logos
 from flucht.data.references import intro_books
+from flucht.util.build_banner import build_banner
 from flucht.util.build_img_tag import build_img_tag, build_modal_img
 from flucht.util.build_newspaper_tag import build_modal_newspaper, \
     build_newspaper_tag
@@ -64,6 +65,7 @@ def exhibition():
         images=build_img_tag(),
         img_modal=build_modal_img(),
         news_modal=build_modal_newspaper(),
+        banner=build_banner(),
         sponsors=logos,
         )
 
