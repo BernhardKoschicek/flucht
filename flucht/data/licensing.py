@@ -6,8 +6,13 @@ licensing = {
     'ha': 'Heritage Auction',
     'aichhorn': 'Aichhorn',
     'seher': 'Seher',
-    'fittner': 'Fittner',
-    'holla': 'Stadtarchiv Hollabrunn'}
+    'fittner': 'Walter Johann Fittner',
+    'hollabrunn': 'Stadtarchiv Hollabrunn',
+    'mp': 'Mihailo St. Popović',
+    'vd': 'Verena Demel',
+    'lamm': 'Werner Lamm',
+    'noe_reg': 'NÖ Reg, AR B 1903-1935',
+    'noe_bib': 'Niederösterreichische Landesbibliothek)'}
 
 source = {
     'oesta': 'OeStA',
@@ -15,6 +20,8 @@ source = {
     'oenb_akon': 'AKON ÖNB',
     'oenb_anno': 'ANNO ÖNB',
     'oenb': 'ÖNB',
+    'noe_archiv': 'NÖLA',
+    'noe_bib': 'NÖ Landesbibliothek',
     'austria_forum': 'Austria Forum',
     'muzejew': 'Czernowitzer Museum für jüdische Geschichte',
     'wwp': 'Wiener Werkstätte Postkarten',

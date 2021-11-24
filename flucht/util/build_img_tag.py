@@ -8,8 +8,9 @@ def build_img_tag():
     img_tag = {}
     for name, value in pictures_exhibition.items():
         img_tag[name] = f'''
-        <div class="row d-flex justify-content-center">
-        <div class="col-10">
+ 
+        <div class="col-10 mx-auto">
+        <span class="img-button">
                 <img 
                     id={name} 
                     data-bs-toggle="modal" 
@@ -18,7 +19,8 @@ def build_img_tag():
                     src="{url_for('static', filename=value['filepath'])}" 
                     alt="{name}"
                     loading="lazy">
-        </div>
+        </button>
+
         </div>
         '''
 
@@ -47,8 +49,9 @@ def build_modal_img():
                             <a 
                                 href="{value['url']}"
                                  target="_blank">
-                                {value['source']}
-                               </a>
+                                {value['source']}         
+                            </a>
+                            {value['licensing']}
                         </p>
                         <figcaption>
                             {_(name)}

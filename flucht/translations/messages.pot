@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-05 10:12+0100\n"
+"POT-Creation-Date: 2021-11-24 11:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,601 +17,563 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:3
-#: flucht/templates/pages/01.html:3
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:5
+#: flucht/templates/pages/01.html:4
 msgid "page_titel"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:5
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:10
 msgid "intro_paragraph_1"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:6
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:11
 msgid "intro_paragraph_2"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:7
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:12
 msgid "intro_paragraph_3"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:8
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:13
 msgid "intro_paragraph_4"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:9
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:24
 msgid "intro_paragraph_5"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:10
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:25
 msgid "intro_paragraph_6"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:11
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:26
 msgid "intro_paragraph_7"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:14
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:32
 msgid "further_reading"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:2
-#: flucht/templates/text.html:2
 msgid "deutsches_volksblatt_20061915"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:3
-#: flucht/templates/text.html:3
 msgid "neue_freie_presse_18071916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:4
-#: flucht/templates/text.html:4
 msgid "czernowitzer_tagblatt_27081914"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:5
-#: flucht/templates/text.html:5
 msgid "innsbrucker_nachrichten_10071916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:6
-#: flucht/templates/text.html:6
 msgid "neue_freie_presse_20061916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:7
-#: flucht/templates/text.html:7
 msgid "neue_freie_presse_18071916_2"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:8
-#: flucht/templates/text.html:8
 msgid "pfarrchronik_oberhollabrunn_1916_1"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:9
-#: flucht/templates/text.html:9
 msgid "wochenzeitung_24031916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:10
-#: flucht/templates/text.html:10
 msgid "pfarrchronik_oberhollabrunn_1916_2"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:11
-#: flucht/templates/text.html:11
 msgid "wochenzeitung_21011916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:12
-#: flucht/templates/text.html:12
 msgid "wochenzeitung_26021915"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:13
-#: flucht/templates/text.html:13
 msgid "pfarrchrobnik_oberhollabrunn_1915_Bom"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:14
-#: flucht/templates/text.html:14
 msgid "eggenburger_zeitung_29091916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:15
-#: flucht/templates/text.html:15
 msgid "eggenburger_zeitung_17111916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:16
-#: flucht/templates/text.html:16
 msgid "neue_freie_presse_09071916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:17
-#: flucht/templates/text.html:17
 msgid "neue_freie_presse_15091916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:18
-#: flucht/templates/text.html:18
 msgid "eggenburger_zeitung_21051915"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:19
-#: flucht/templates/text.html:19
 msgid "wochenzeitung_10111916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:20
-#: flucht/templates/text.html:20
 msgid "wochenzeitung_22091916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:21
-#: flucht/templates/text.html:21
 msgid "neue_freie_presse_13071917"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:22
-#: flucht/templates/text.html:22
 msgid "pfarrchronik_oberhollabrunn_1917"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:23
-#: flucht/templates/text.html:23
 msgid "illustrierte_kronen_zeitung_08071916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:24
-#: flucht/templates/text.html:24
 msgid "allgemeiner_tiroler_18071917"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:25
-#: flucht/templates/text.html:25
 msgid "oesterreichische_illustrierte_zeitung_21101917"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:26
-#: flucht/templates/text.html:26
 msgid "wochenzeitung_29031918"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:27
-#: flucht/templates/text.html:27
 msgid "eggenburger_zeitung_26041918"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:30
-#: flucht/templates/text.html:30
-msgid "artilleriestellung_191606"
-msgstr ""
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:31
-#: flucht/templates/text.html:31
-msgid "trommelfeuer_1914"
-msgstr ""
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:32
-#: flucht/templates/text.html:32
-msgid "kirche_toporoutz"
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:28
+msgid "transcription-newspaper"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:33
-#: flucht/templates/text.html:33
-msgid "ansichtskarte_sadogora"
+msgid "artilleriestellung_191606"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:34
-#: flucht/templates/text.html:34
-msgid "ansichtskarte_czernowitz"
+msgid "trommelfeuer_1914"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:35
-#: flucht/templates/text.html:35
-msgid "oest_ung_sprachgebiete"
+msgid "kirche_toporoutz"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:36
-#: flucht/templates/text.html:36
-msgid "bukowina"
+msgid "ansichtskarte_sadogora"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:37
-#: flucht/templates/text.html:37
-msgid "bahnhof_czernowitz"
+msgid "ansichtskarte_czernowitz"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:38
-#: flucht/templates/text.html:38
-msgid "kundmachung_19071915"
+msgid "oest_ung_sprachgebiete"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:39
-#: flucht/templates/text.html:39
-msgid "ansicht_czernowitz_1916"
+msgid "bukowina"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:40
-#: flucht/templates/text.html:40
-msgid "eisenbahnbruecke_061915"
+msgid "bahnhof_czernowitz_postkarte"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:41
-#: flucht/templates/text.html:41
-msgid "flucht_bukowina"
+msgid "bahnhof_czernowitz"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:42
-#: flucht/templates/text.html:42
-msgid "kundmachung_20061916"
+msgid "kundmachung_19071915"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:43
-#: flucht/templates/text.html:43
-msgid "kriegsschaden_1917"
+msgid "ansicht_czernowitz_1916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:44
-#: flucht/templates/text.html:44
-msgid "postkarte_bahnhof_oberhollabrunn"
+msgid "eisenbahnbruecke_061915"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:45
-#: flucht/templates/text.html:45
-msgid "ansicht_oberhollabrunn_1910"
+msgid "flucht_bukowina"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:46
-#: flucht/templates/text.html:46
-msgid "lagerbuch_1903_1935"
+msgid "kundmachung_20061916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:47
-#: flucht/templates/text.html:47
-msgid "lagertor"
+msgid "kriegsschaden_1917"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:48
-#: flucht/templates/text.html:48
-msgid "verwaltungsgebaeude"
+msgid "postkarte_bahnhof_oberhollabrunn"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:49
-#: flucht/templates/text.html:49
-msgid "quarantaenebaracke"
+msgid "ansicht_oberhollabrunn_1910"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:50
-#: flucht/templates/text.html:50
-msgid "haupttor_1916"
+msgid "lagerbuch_1903_1935"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:51
-#: flucht/templates/text.html:51
-msgid "baracke_film"
+msgid "lagertor"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:52
-#: flucht/templates/text.html:52
-msgid "ansichtkarte_1917"
+msgid "verwaltungsgebaeude"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:53
-#: flucht/templates/text.html:53
-msgid "ansicht_stadt_lager"
+msgid "quarantaenebaracke"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:54
-#: flucht/templates/text.html:54
-msgid "lagerplan_oberhollabrunn"
+msgid "haupttor_1916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:55
-#: flucht/templates/text.html:55
-msgid "aufnahmen_kriegspresse"
+msgid "baracke_film"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:56
-#: flucht/templates/text.html:56
-msgid "schuettkasten"
+msgid "ansichtkarte_1917"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:57
-#: flucht/templates/text.html:57
-msgid "cziebanowski_lagerbuch"
+msgid "ansicht_stadt_lager"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:58
-#: flucht/templates/text.html:58
-msgid "vermisstenanzeige"
+msgid "lagerplan_oberhollabrunn"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:59
-#: flucht/templates/text.html:59
-msgid "kirlibaba_1916"
+msgid "aufnahmen_kriegspresse"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:60
-#: flucht/templates/text.html:60
-msgid "ansicht_bad_dorna_watra_1916"
+msgid "schuettkasten"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:61
-#: flucht/templates/text.html:61
-msgid "stellung_dorna_watra_1917"
+msgid "cziebanowski_lagerbuch"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:62
-#: flucht/templates/text.html:62
-msgid "lagergeld"
+msgid "vermisstenanzeige"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:63
-#: flucht/templates/text.html:63
-msgid "gruppenbild_1918"
+msgid "kirlibaba_1916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:64
-#: flucht/templates/text.html:64
-msgid "pferdefuhrwerk"
+msgid "ansicht_bad_dorna_watra_1916"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:65
-#: flucht/templates/text.html:65
-msgid "lagerbahn"
+msgid "stellung_dorna_watra_1917"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:66
-#: flucht/templates/text.html:66
-msgid "totenbeschau_popeskul"
+msgid "lagergeld"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:67
-#: flucht/templates/text.html:67
-msgid "totenbeschau_pawluk"
+msgid "gruppenbild_1918"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:68
-#: flucht/templates/text.html:68
-msgid "schreiben_lagerverwaltung"
+msgid "pferdefuhrwerk"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:69
-#: flucht/templates/text.html:69
-msgid "lagerkirche"
+msgid "lagerbahn"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:70
-#: flucht/templates/text.html:70
-msgid "totenschein_basil"
+msgid "totenbeschau_popeskul"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:71
-#: flucht/templates/text.html:71
-msgid "geburt_roman"
+msgid "totenbeschau_pawluk"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:72
-#: flucht/templates/text.html:72
-msgid "truhe_fluchtlinge"
+msgid "schreiben_lagerverwaltung"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:73
-#: flucht/templates/text.html:73
-msgid "standbild_erholung"
+msgid "lagerkirche"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:74
+msgid "totenschein_basil"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:75
+msgid "geburt_roman"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:76
+msgid "truhe_fluchtlinge"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:77
-#: flucht/templates/pages/02.html:7 flucht/templates/text.html:77
-msgid "inner_monolog_01"
+msgid "standbild_erholung"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:78
-#: flucht/templates/pages/02.html:8 flucht/templates/text.html:78
-msgid "inner_monolog_02"
+msgid "kk_frontlines"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:79
-#: flucht/templates/pages/03.html:7 flucht/templates/text.html:79
-msgid "inner_monolog_03"
+msgid "eisenbahn_karte"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:80
-#: flucht/templates/pages/03.html:8 flucht/templates/text.html:80
-msgid "inner_monolog_04"
+msgid "krankenbaracke"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:81
-#: flucht/templates/pages/04.html:7 flucht/templates/text.html:81
-msgid "inner_monolog_05"
+msgid "bahnhof_oberhollabrunn"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:82
-#: flucht/templates/pages/04.html:8 flucht/templates/text.html:82
-msgid "inner_monolog_06"
+msgid "lager_panoramaaufnahme"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:83
-#: flucht/templates/pages/05.html:7 flucht/templates/text.html:83
-msgid "inner_monolog_07"
-msgstr ""
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:84
-#: flucht/templates/pages/05.html:8 flucht/templates/text.html:84
-msgid "inner_monolog_08"
-msgstr ""
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:85
-#: flucht/templates/pages/06.html:6 flucht/templates/text.html:85
-msgid "inner_monolog_09"
-msgstr ""
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:86
-#: flucht/templates/pages/10.html:6 flucht/templates/text.html:86
-msgid "inner_monolog_10"
+msgid "strickmuster"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:87
-#: flucht/templates/pages/11.html:5 flucht/templates/text.html:87
-msgid "inner_monolog_11"
+#: flucht/templates/pages/01.html:12
+msgid "inner_monolog_01"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:88
-#: flucht/templates/pages/12.html:6 flucht/templates/text.html:88
-msgid "inner_monolog_12"
+#: flucht/templates/pages/02.html:8
+msgid "inner_monolog_02"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:89
-#: flucht/templates/pages/12.html:7 flucht/templates/text.html:89
-msgid "inner_monolog_13"
+#: flucht/templates/pages/02.html:9
+msgid "inner_monolog_03"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:90
-#: flucht/templates/pages/13.html:6 flucht/templates/text.html:90
-msgid "inner_monolog_14"
+#: flucht/templates/pages/04.html:8
+msgid "inner_monolog_04"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:91
-#: flucht/templates/pages/16.html:6 flucht/templates/text.html:91
-msgid "inner_monolog_15"
+#: flucht/templates/pages/04.html:9
+msgid "inner_monolog_05"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:92
-#: flucht/templates/pages/16.html:7 flucht/templates/text.html:92
-msgid "inner_monolog_16"
+#: flucht/templates/pages/05.html:7
+msgid "inner_monolog_06"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:93
-#: flucht/templates/pages/16.html:8 flucht/templates/text.html:93
-msgid "inner_monolog_17"
+#: flucht/templates/pages/05.html:8
+msgid "inner_monolog_07"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:94
-#: flucht/templates/pages/17.html:7 flucht/templates/text.html:94
-msgid "inner_monolog_18"
+#: flucht/templates/pages/07.html:7
+msgid "inner_monolog_08"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:95
-#: flucht/templates/pages/19.html:9 flucht/templates/text.html:95
-msgid "inner_monolog_19"
+#: flucht/templates/pages/07.html:8
+msgid "inner_monolog_09"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:96
-#: flucht/templates/pages/20.html:7 flucht/templates/text.html:96
-msgid "inner_monolog_20"
+#: flucht/templates/pages/08.html:7
+msgid "inner_monolog_10"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:97
-#: flucht/templates/pages/20.html:8 flucht/templates/text.html:97
-msgid "inner_monolog_21"
+#: flucht/templates/pages/13.html:9
+msgid "inner_monolog_11"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:98
-#: flucht/templates/pages/21.html:7 flucht/templates/text.html:98
-msgid "inner_monolog_22"
+#: flucht/templates/pages/13.html:10
+msgid "inner_monolog_12"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:99
-#: flucht/templates/pages/21.html:8 flucht/templates/text.html:99
-msgid "inner_monolog_23"
+#: flucht/templates/pages/14.html:10
+msgid "inner_monolog_13"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:100
-#: flucht/templates/pages/22.html:7 flucht/templates/text.html:100
-msgid "inner_monolog_24"
+#: flucht/templates/pages/14.html:11
+msgid "inner_monolog_14"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:101
-#: flucht/templates/pages/22.html:8 flucht/templates/text.html:101
-msgid "inner_monolog_25"
+#: flucht/templates/pages/15.html:10
+msgid "inner_monolog_15"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:102
-#: flucht/templates/pages/24.html:7 flucht/templates/text.html:102
-msgid "inner_monolog_26"
+#: flucht/templates/pages/15.html:11
+msgid "inner_monolog_16"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:103
-#: flucht/templates/pages/24.html:8 flucht/templates/text.html:103
-msgid "inner_monolog_27"
+#: flucht/templates/pages/18.html:8
+msgid "inner_monolog_17"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:104
-#: flucht/templates/pages/25.html:7 flucht/templates/text.html:104
-msgid "inner_monolog_28"
+#: flucht/templates/pages/18.html:9
+msgid "inner_monolog_18"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:105
-#: flucht/templates/pages/25.html:8 flucht/templates/text.html:105
-msgid "inner_monolog_29"
+#: flucht/templates/pages/18.html:10
+msgid "inner_monolog_19"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:106
-#: flucht/templates/pages/26.html:6 flucht/templates/text.html:106
-msgid "inner_monolog_30"
+#: flucht/templates/pages/19.html:10
+msgid "inner_monolog_20"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:107
-#: flucht/templates/pages/26.html:7 flucht/templates/text.html:107
-msgid "inner_monolog_31"
+#: flucht/templates/pages/21.html:9
+msgid "inner_monolog_21"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:108
-#: flucht/templates/pages/26.html:8 flucht/templates/text.html:108
-msgid "inner_monolog_32"
+#: flucht/templates/pages/22.html:10
+msgid "inner_monolog_22"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:109
-#: flucht/templates/pages/27.html:5 flucht/templates/text.html:109
-msgid "inner_monolog_33"
+#: flucht/templates/pages/22.html:11
+msgid "inner_monolog_23"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:110
-#: flucht/templates/text.html:110
-msgid "inner_monolog_34"
+#: flucht/templates/pages/22.html:12
+msgid "inner_monolog_24"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:111
-#: flucht/templates/text.html:111
-msgid "inner_monolog_35"
+#: flucht/templates/pages/24.html:8
+msgid "inner_monolog_25"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:112
+#: flucht/templates/pages/24.html:9
+msgid "inner_monolog_26"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:113
+msgid "inner_monolog_27"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:114
-#: flucht/templates/text.html:114
-msgid "MHermann2017_1"
+#: flucht/templates/pages/26.html:10
+msgid "inner_monolog_28"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:115
-#: flucht/templates/text.html:115
-msgid "MHermann2017_2"
+#: flucht/templates/pages/26.html:11
+msgid "inner_monolog_29"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:116
-#: flucht/templates/text.html:116
-msgid "Wmentzel2013"
+#: flucht/templates/pages/28.html:8
+msgid "inner_monolog_30"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:117
-#: flucht/templates/text.html:117
-msgid "WMentzel1997"
+#: flucht/templates/pages/28.html:9
+msgid "inner_monolog_31"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:118
-#: flucht/templates/text.html:118
-msgid "HLeidinger2014"
+#: flucht/templates/pages/29.html:8 flucht/templates/pages/29.html:25
+msgid "inner_monolog_32"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:119
-#: flucht/templates/text.html:119
-msgid "ASenarclens2018"
+#: flucht/templates/pages/29.html:9 flucht/templates/pages/29.html:26
+msgid "inner_monolog_33"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:120
-#: flucht/templates/text.html:120
+#: flucht/templates/pages/29.html:10 flucht/templates/pages/29.html:27
+msgid "inner_monolog_34"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:121
+#: flucht/templates/pages/30.html:6
+msgid "inner_monolog_35"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:124
+msgid "MHermann2017_1"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:125
+msgid "MHermann2017_2"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:126
+msgid "Wmentzel2013"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:127
+msgid "WMentzel1997"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:128
+msgid "HLeidinger2014"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:129
+msgid "ASenarclens2018"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:130
 msgid "WLamm1999"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:134
+msgid "page"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:135
+msgid "source"
 msgstr ""
 
 #: flucht/templates/nav.html:20
@@ -622,7 +584,7 @@ msgstr ""
 msgid "Exhibition"
 msgstr ""
 
-#: flucht/templates/pages/01.html:4
+#: flucht/templates/pages/01.html:5
 msgid "page_subtitel"
 msgstr ""
 

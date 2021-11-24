@@ -7,37 +7,37 @@ from flucht.data.newspaper import newspapers
 def build_newspaper_tag():
     news_tag = {}
     for name, value in newspapers.items():
-        teaser = (value['teaser'][:100] + '...') if len(
-            value['teaser']) > 100 else value['teaser']
+        teaser = value['teaser']
+        # (value['teaser'][:100] + '...')
+        # if len(value['teaser']) > 100 else value['teaser']
         news_tag[name] = f'''
-        <div class="row d-flex justify-content-center">
-        <div class="col-8" xmlns="http://www.w3.org/1999/html">
+        <div class="col-8 mx-auto" xmlns="http://www.w3.org/1999/html">
             <button class="border border-warning bg-warning rounded shadow-longer" 
                     data-bs-toggle="modal" 
                     data-bs-target="#{name}Modal">
                 <div class="row">
                     <div class="col">
-                     <blockquote>
-                            <p class="source-text">                 
-                                {teaser}
-                            </p>
-                        <figcaption class="blockquote-footer blockquote-footer-teaser ">
+                                <p class="source-text">                 
+                                    {teaser}
+                                </p>
+                         <div class="row">
+                            <div class="col-9 d-flex align-items-center align-content-center justify-content-center">
+                             <figcaption class="blockquote-footer blockquote-footer-teaser">
                                 <cite title="{value['citation']}">
                                 {value['citation']}
                                 </cite>
-                          
-             
-                        </figcaption>   
+                               </figcaption>  
+                            </div>
+                            <div class="col-3 ">
+                                     <img src="../static/images/exhibition/news_person.png" 
+                                         class="img-fluid" alt="newspict" loading="lazy">   
+                            </div>
+                        </div>
                       </div>
-                      <div class="col-3">
-                            <img src="../static/images/exhibition/news_person.png" 
-                            class="img-fluid" alt="newspict" loading="lazy">
-                      </div>
-
                 </div>
             </button>
         </div>
-        </div>
+
             '''
     return news_tag
 
@@ -96,7 +96,9 @@ def build_modal_newspaper():
                     <p class="pic-source">
                      {source_link if value['url'] else value['source']}
                    </p>
-                   <p class="fst-italic">Buchstabengetreu transkribiert, Orthographie und Zeichensetzung des Originals übernommen.</p>
+                   <p class="fst-italic">
+                   {_("transcription-newspaper")}
+                   </p>
                 </div>
                 
                 <div class="col-1">

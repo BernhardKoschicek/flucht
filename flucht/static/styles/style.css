@@ -3,7 +3,7 @@
 html {
     scroll-behavior: smooth;
     min-height: 100%;
-        display: flex;
+    display: flex;
     flex-direction: column;
 }
 
@@ -12,7 +12,7 @@ body {
     color: #fcf8e3;
     scroll-behavior: smooth;
     font-family: 'Open Sans', serif;
-      flex-grow: 1;
+    flex-grow: 1;
 }
 
 p {
@@ -25,7 +25,8 @@ cite {
 }
 
 .img-thumbnail {
-    border: 0px solid;
+    background: none;
+    border: 0.1px;
 }
 
 .inner_monolog {
@@ -36,34 +37,16 @@ cite {
     font-weight: bold;
 }
 
+
 .blockquote-footer {
+    margin-top: 0;
     color: #cbccce;
 }
 
-
-
-.img-rotate-right-5 {
-  transform: rotate( 5deg );
+.img-button {
+    background: none;
+    cursor: pointer;
 }
-.img-rotate-right-10 {
-  transform: rotate( 10deg );
-}
-.img-rotate-right-15 {
-  transform: rotate( 15deg );
-}
-
-.img-rotate-left-5 {
-  transform: rotate( -5deg );
-}
-.img-rotate-left-10 {
-  transform: rotate( -10deg );
-}
-.img-rotate-left-15 {
-  transform: rotate( -15deg );
-}
-
-
-
 
 .source-header {
     color: black;
@@ -77,6 +60,8 @@ cite {
     color: black;
     font-weight: lighter;
     font-family: 'UnifrakturMaguntia', serif;
+    text-align: start;
+    margin-bottom: 0;
 }
 
 .blockquote-footer-teaser {
@@ -102,7 +87,6 @@ cite {
     color: #cbccce;
     font-size: 2em;
 }
-
 
 
 /* Modal */
@@ -276,22 +260,22 @@ section.current {
 }
 
 .newspaper-spacing {
-     letter-spacing: 4px;
+    letter-spacing: 4px;
 }
 
 .shadow-6 {
-  box-shadow: 0 1px 1px rgba(0,0,0,0.11),
-              0 2px 2px rgba(0,0,0,0.11),
-              0 4px 4px rgba(0,0,0,0.11),
-              0 8px 8px rgba(0,0,0,0.11),
-              0 16px 16px rgba(0,0,0,0.11),
-              0 32px 32px rgba(0,0,0,0.11);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.11),
+    0 2px 2px rgba(0, 0, 0, 0.11),
+    0 4px 4px rgba(0, 0, 0, 0.11),
+    0 8px 8px rgba(0, 0, 0, 0.11),
+    0 16px 16px rgba(0, 0, 0, 0.11),
+    0 32px 32px rgba(0, 0, 0, 0.11);
 }
 
 .shadow-longer {
-  box-shadow: 0 2px 1px rgba(0,0,0,0.09),
-              0 4px 2px rgba(0,0,0,0.09),
-              0 8px 4px rgba(0,0,0,0.09),
-              0 16px 8px rgba(0,0,0,0.09),
-              0 32px 16px rgba(0,0,0,0.09);
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.09),
+    0 4px 2px rgba(0, 0, 0, 0.09),
+    0 8px 4px rgba(0, 0, 0, 0.09),
+    0 16px 8px rgba(0, 0, 0, 0.09),
+    0 32px 16px rgba(0, 0, 0, 0.09);
 }
