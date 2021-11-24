@@ -312,5 +312,11 @@ pictures_exhibition = {
         'licensing': '',
         'url': 'http://folkcostume.blogspot.com/2014/01/embroidery-of-zastawna-county.html',
         'source': 'Folkcostume'
+    },
+    'map_flucht': {
+        'filepath': 'images/exhibition/map_flucht.jpg',
+        'licensing': 'Bernhard Koschiček-Krombholz, 2021',
+        'url': '',
+        'source': ''
     }
 }
