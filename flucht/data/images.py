@@ -290,7 +290,7 @@ pictures_exhibition = {
         'source': source['wikipedia']
     },
     'lager_panoramaaufnahme': {
-        'filepath': 'images/lageraufnahme.jpg',
+        'filepath': 'images/exhibition/lageraufnahme.jpg',
         'licensing': licensing['hollabrunn'],
         'url': '',
         'source': ''
