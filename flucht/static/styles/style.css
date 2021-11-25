@@ -37,6 +37,32 @@ cite {
     font-weight: bold;
 }
 
+article {
+  background-image: linear-gradient(
+    to bottom,
+    transparent 0px,
+    #2c3034 50px,
+    #2c3034 calc(100% - 50px),
+    transparent 0
+  );
+
+}
+
+.category,
+.title,
+.sticky-footer{
+  position: -webkit-sticky; /* Required for Safari */
+  position: sticky;
+  height: 100%;
+}
+
+.category {
+  top: 0;
+}
+
+.title {
+  top: 0;
+}
 
 .blockquote-footer {
     margin-top: 0;
@@ -257,6 +283,9 @@ section.current {
 
 .bg-kaisergelb {
     background-color: #F0D077;
+}
+.bg-grey {
+    background-color: #2c3034;
 }
 
 .newspaper-spacing {

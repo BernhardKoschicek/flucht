@@ -212,7 +212,7 @@ pictures_exhibition = {
         'source': source['oesta']
     },
     'lagergeld': {
-        'filepath': 'images/exhibition/lagergeld.jpg',
+        'filepath': 'images/exhibition/lagergeld.png',
         'licensing': '',
         'url': 'https://www.numisbids.com/n.php?p=lot&sid=3357&lot=28924',
         'source': licensing['ha']
@@ -316,6 +316,12 @@ pictures_exhibition = {
     'map_flucht': {
         'filepath': 'images/exhibition/map_flucht.jpg',
         'licensing': 'Bernhard Koschiček-Krombholz, 2021',
+        'url': '',
+        'source': ''
+    },
+    'kk_karte': {
+        'filepath': 'images/exhibition/kk_karte.jpg',
+        'licensing': '',
         'url': '',
         'source': ''
     }

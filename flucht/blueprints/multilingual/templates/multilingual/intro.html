@@ -1,48 +1,44 @@
 {% extends "layout.html" %}
 {% block content %}
-  <div class="row justify-content-center pt-5">
-    <div class="col-auto">
-      <h3 class="display-3">{{ _('page_titel') }}</h3>
+  <div class="container-xxl">
+    <div class="row justify-content-center pt-5">
+      <div class="col-auto">
+        <h3 class="display-3">{{ _('page_titel') }}</h3>
+      </div>
     </div>
-  </div>
-  <div class="row pt-4">
-    <div class="col-auto">
-      <p>{{ _('intro_paragraph_1') }}</p>
-      <p>{{ _('intro_paragraph_2') }}</p>
-      <p>{{ _('intro_paragraph_3') }}</p>
-      <p>{{ _('intro_paragraph_4') }}</p>
+    <div class="row pt-4">
+      <div class="col-auto">
+        <p>{{ _('intro_paragraph_1') }}</p>
+        <p>{{ _('intro_paragraph_2') }}</p>
+        <p>{{ _('intro_paragraph_3') }}</p>
+        <p>{{ _('intro_paragraph_4') }}</p>
+      </div>
     </div>
-  </div>
-  <div class="row pt-2 justify-content-center">
-    <div class="col-6">
-      {{ images['kk_frontlines']|safe }}
-    </div>
+    <div class="row pt-2 justify-content-center">
+      <div class="col-6">
+        {{ images['kk_frontlines']|safe }}
+      </div>
 
-  </div>
-  <div class="row pt-2">
-    <div class="col-auto">
-      <p>{{ _('intro_paragraph_5') }}</p>
-      <p>{{ _('intro_paragraph_6') }}</p>
-      <p>{{ _('intro_paragraph_7') }}</p>
     </div>
-  </div>
-
-  <div class="row pt-5 pb-5">
-    <div class="col-auto">
-      <h2>{{ _('further_reading') }}</h2>
-      <ul class="list-group list-group-flush">
-        {% for book in books %}
-          <li class="list-group-item bg-secondary" style="color: #fcf8e3;">
-            {{ _(books[book]) }}
-          </li>
-        {% endfor %}
-      </ul>
+    <div class="row pt-2">
+      <div class="col-auto">
+        <p>{{ _('intro_paragraph_5') }}</p>
+        <p>{{ _('intro_paragraph_6') }}</p>
+        <p>{{ _('intro_paragraph_7') }}</p>
+      </div>
     </div>
 
+    <div class="row pt-5 pb-5">
+      <div class="col-auto">
+        <h2>{{ _('further_reading') }}</h2>
+        <ul class="list-group list-group-flush">
+          {% for book in books %}
+            <li class="list-group-item bg-secondary" style="color: #fcf8e3;">
+              {{ _(books[book]) }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
-
-
-
-
-
 {% endblock content %}

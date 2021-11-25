@@ -1,7 +1,11 @@
-<div class="row kk-background">
-    <div class="col-10">
-      <img src="{{ url_for('static', filename='images/exhibition/bukowina.jpg') }}"
-           loading="lazy" alt="bukowina" class="img-fluid">
-    </div>
-</div>
+<article>
+  <div class="row  h-100 category">
+    {{ banner['kk_karte'] | safe }}
+  </div>
 
+
+  <div class=" row col-10 title">
+{{ images['bukowina'] | safe }}
+  </div>
+
+</article>

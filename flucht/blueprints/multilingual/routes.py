@@ -51,6 +51,9 @@ def intro() -> str:
         'multilingual/intro.html',
         title=_('page_titel'),
         books=intro_books,
+        banner_modal=build_modal_banner(),
+        banner=build_banner(),
+        img_modal=build_modal_img(),
         images=build_img_tag())
 
 
