@@ -7,6 +7,7 @@ from flucht.data.logos import logos
 from flucht.data.references import intro_books
 from flucht.util.build_banner import build_banner, build_modal_banner
 from flucht.util.build_img_tag import build_img_tag, build_modal_img
+from flucht.util.build_info import build_info_btn, build_modal_info
 from flucht.util.build_newspaper_tag import build_modal_newspaper, \
     build_newspaper_tag
 from flucht.util.pages import get_sections_pages
@@ -71,6 +72,8 @@ def exhibition():
         banner_modal=build_modal_banner(),
         banner=build_banner(),
         sponsors=logos,
+        info=build_info_btn(),
+        info_modal=build_modal_info()
         )
 
 

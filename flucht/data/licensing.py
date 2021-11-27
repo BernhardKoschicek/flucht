@@ -12,7 +12,7 @@ licensing = {
     'vd': 'Verena Demel',
     'lamm': 'Werner Lamm',
     'noe_reg': 'NÖ Reg, AR B 1903-1935',
-    'noe_bib': 'Niederösterreichische Landesbibliothek)'}
+    'noe_bib': 'Niederösterreichische Landesbibliothek'}
 
 source = {
     'oesta': 'OeStA',

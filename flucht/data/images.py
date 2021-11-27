@@ -65,7 +65,7 @@ pictures_exhibition = {
         'filepath': 'images/exhibition/chernivtsi_railroad.jpg',
         'licensing': '',
         'url': 'https://de.wikipedia.org/wiki/Bahnstrecke_Tscherniwzi%E2%80%93Suceava#/media/Datei:Chernivtsi_Railroad_Station.JPG',
-        'source': source['wwp']
+        'source': source['wikipedia']
     },
     'kundmachung_19071915': {
         'filepath': 'images/exhibition/kundmachung_19071915.jpg',
@@ -123,9 +123,9 @@ pictures_exhibition = {
     },
     'lagertor': {
         'filepath': 'images/exhibition/lagertor.jpg',
-        'licensing': licensing['lamm'],
-        'url': '',
-        'source': '',
+        'licensing': '',
+        'url': 'https://permalink.obvsg.at/AC02521047',
+        'source': source['lamm']
     },
     'verwaltungsgebaeude': {
         'filepath': 'images/exhibition/verwaltungsgebaeude.jpg',
@@ -190,7 +190,7 @@ pictures_exhibition = {
     'vermisstenanzeige': {
         'filepath': 'images/exhibition/vermisstenanzeige.jpg',
         'licensing': '',
-        'url': '',
+        'url': 'http://www.kultur-pool.at/plugins/kulturpool/showitem.action?itemId=150324555371&kupoContext=default',
         'source': source['oenb']
     },
     'kirlibaba_1916': {
@@ -225,15 +225,15 @@ pictures_exhibition = {
     },
     'pferdefuhrwerk': {
         'filepath': 'images/exhibition/pferdefuhrwerk.jpg',
-        'licensing': source['lamm'],
-        'url': '',
-        'source': ''
+        'licensing': '',
+        'url': 'https://permalink.obvsg.at/AC02521047',
+        'source': source['lamm']
     },
     'lagerbahn': {
         'filepath': 'images/exhibition/lagerbahn.jpg',
-        'licensing': source['lamm'],
-        'url': '',
-        'source': ''
+        'licensing': '',
+        'url': 'https://permalink.obvsg.at/AC02521047',
+        'source': source['lamm']
     },
     'totenbeschau_popeskul': {
         'filepath': 'images/exhibition/totenbeschau_popeskul.png',

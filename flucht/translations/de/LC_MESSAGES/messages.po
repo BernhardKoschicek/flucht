@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-24 11:37+0100\n"
-"PO-Revision-Date: 2021-11-24 13:57+0100\n"
+"POT-Creation-Date: 2021-11-27 14:27+0100\n"
+"PO-Revision-Date: 2021-11-27 14:29+0100\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -19,12 +19,12 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:5
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:6
 #: flucht/templates/pages/01.html:4
 msgid "page_titel"
 msgstr "Auf der Flucht in der Monarchie"
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:10
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:11
 msgid "intro_paragraph_1"
 msgstr ""
 "Im Ersten Weltkrieg (1914-1918) kam es zu Flüchtlingsströmen von den "
@@ -35,7 +35,7 @@ msgstr ""
 "u.k. Armee evakuiert, um die lokalen Ressourcen selbst zu nutzen oder auf dem "
 "Rückzug vor dem vordringenden Feind zu zerstören."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:11
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:12
 msgid "intro_paragraph_2"
 msgstr ""
 "Die k.u.k. Armee ging dabei auch gegen die eigene multi-ethnische Bevölkerung "
@@ -46,7 +46,7 @@ msgstr ""
 "Ukrainer) und Rumänen betroffen, unter den Christen besonders die orthodoxe "
 "Bevölkerung."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:12
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:13
 msgid "intro_paragraph_3"
 msgstr ""
 "Die Flüchtlinge wurden in überfüllten Sammelstationen registriert und nach "
@@ -56,7 +56,7 @@ msgstr ""
 "in die ihr zugewiesenen Aufenthaltsorte überführt. Viele von ihnen starben auf "
 "dem Weg vor Hunger und Kälte oder wegen des Ausbruchs von Seuchen."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:13
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:14
 msgid "intro_paragraph_4"
 msgstr ""
 "Um die großen Städte der Monarchie, in denen sich bereits Flüchtlinge "
@@ -69,7 +69,7 @@ msgstr ""
 "Niederösterreich entstanden mehrere solcher Barackenstädte, die größte in Gmünd "
 "beherbergte bis zu 30.000 Flüchtlinge, überwiegend Ruthenen."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:24
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:25
 msgid "intro_paragraph_5"
 msgstr ""
 "Zu Beginn der Flüchtlingsströme 1914 wurden in den Lagern ausschließlich große "
@@ -77,7 +77,7 @@ msgstr ""
 "konnten vielfältig verwendet werden, etwa als Schlafsäle, Küchen, Schulen oder "
 "Spitäler. Bis zu 500 Personen wurden in einer Baracke untergebracht."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:25
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:26
 msgid "intro_paragraph_6"
 msgstr ""
 "Im Verlauf des Krieges ging man zu immer kleineren Unterkünften über, da sich "
@@ -86,7 +86,7 @@ msgstr ""
 "auch kleinere gemauerte Wohngebäude und die Lager wurden zusehends mit einer "
 "modernen Infrastruktur ausgestattet."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:26
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:27
 msgid "intro_paragraph_7"
 msgstr ""
 "Das Lager Oberhollabrunn wurde im Jahr 1916 errichtet und bis zum Frühjahr 1918 "
@@ -98,9 +98,9 @@ msgstr ""
 "Sowjetrussland in Brest-Litowsk, wurden sie zurück in ihre größtenteils "
 "zerstörte Heimat transportiert."
 
-#: flucht/blueprints/multilingual/templates/multilingual/intro.html:32
+#: flucht/blueprints/multilingual/templates/multilingual/intro.html:33
 msgid "further_reading"
-msgstr "Weiterführende Literatur"
+msgstr "Literatur"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:2
 msgid "deutsches_volksblatt_20061915"
@@ -590,14 +590,14 @@ msgid "strickmuster"
 msgstr "Traditionelles bukowinisches Trachtenmuster."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:87
-#: flucht/templates/pages/01.html:12
+#: flucht/templates/pages/02.html:7
 msgid "inner_monolog_01"
 msgstr ""
 "Die fiktionale Ich-Erzählung ist eine Dramatisierung realer historischer "
 "Begebenheiten."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:88
-#: flucht/templates/pages/02.html:8
+#: flucht/templates/pages/02.html:19
 msgid "inner_monolog_02"
 msgstr ""
 "Das Donnern der Kanonen kam näher und Panik breitete sich im Dorf aus. Würde "
@@ -608,7 +608,7 @@ msgstr ""
 "verschleppt und unser Vieh davon getrieben."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:89
-#: flucht/templates/pages/02.html:9
+#: flucht/templates/pages/02.html:20
 msgid "inner_monolog_03"
 msgstr ""
 "Als die Rauchschwaden des Trommelfeuers am Horizont zu sehen waren, wurde ich "
@@ -634,7 +634,7 @@ msgstr ""
 "würde."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:92
-#: flucht/templates/pages/05.html:7
+#: flucht/templates/pages/05.html:10
 msgid "inner_monolog_06"
 msgstr ""
 "Der Ochse zog den Karren über Rarancze und Buda bis Czernowitz, wo wir am "
@@ -645,7 +645,7 @@ msgstr ""
 "Ochsen zurücklassen."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:93
-#: flucht/templates/pages/05.html:8
+#: flucht/templates/pages/05.html:11
 msgid "inner_monolog_07"
 msgstr ""
 "Würde unsere Armee Czernowitz halten können? Ich lief durch die Menge voraus "
@@ -702,7 +702,7 @@ msgstr ""
 "wurden auch weggebracht."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:99
-#: flucht/templates/pages/14.html:10
+#: flucht/templates/pages/14.html:11
 msgid "inner_monolog_13"
 msgstr ""
 "Ich wurde zu einer gemauerten Baracke auf einer Anhöhe geführt. Das Haus war "
@@ -712,7 +712,7 @@ msgstr ""
 "Hoffentlich könnte ich bald nach Hause!"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:100
-#: flucht/templates/pages/14.html:11
+#: flucht/templates/pages/14.html:12
 msgid "inner_monolog_14"
 msgstr ""
 "Obwohl es sehr eng war, war ich froh, dass ich Menschen aus meiner Heimat um "
@@ -799,7 +799,7 @@ msgstr ""
 "Milch."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:110
-#: flucht/templates/pages/22.html:12
+#: flucht/templates/pages/22.html:15
 msgid "inner_monolog_24"
 msgstr ""
 "Jeden Tag kamen Pferdewagen ins Lager. Sie hatten Essen und Kleidung geladen. "
@@ -807,7 +807,7 @@ msgstr ""
 "Bauern um ihre Ernte."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:111
-#: flucht/templates/pages/24.html:8
+#: flucht/templates/pages/22.html:16
 msgid "inner_monolog_25"
 msgstr ""
 "Zu Beginn waren die Mahlzeiten sättigend, doch mit der Zeit wurde der Brei "
@@ -816,13 +816,14 @@ msgstr ""
 "andere auch Hunger hätten."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:112
-#: flucht/templates/pages/24.html:9
+#: flucht/templates/pages/24.html:8
 msgid "inner_monolog_26"
 msgstr ""
 "Im Winter wurden viele krank. Die Baracken waren zugig, das Heizmaterial zu "
 "wenig und der Hunger kaum auszuhalten. Überall hörte man Leute husten."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:113
+#: flucht/templates/pages/24.html:9
 msgid "inner_monolog_27"
 msgstr ""
 "Ich musste zusehen wie viele schwer erkrankten, auch Freunde von mir. Sie "
@@ -831,7 +832,7 @@ msgstr ""
 "sie am Stadtfriedhof begraben wurden."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:114
-#: flucht/templates/pages/26.html:10
+#: flucht/templates/pages/26.html:13
 msgid "inner_monolog_28"
 msgstr ""
 "Die Pfarrer, die ebenfalls geflüchtet waren, versuchten uns zu trösten. Ich "
@@ -839,7 +840,7 @@ msgstr ""
 "Arijczuk. "
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:115
-#: flucht/templates/pages/26.html:11
+#: flucht/templates/pages/26.html:14
 msgid "inner_monolog_29"
 msgstr ""
 "Er erzählte mir, dass Pfarrer Kornel Pihuliak und seine Frau Augustine auch aus "
@@ -865,7 +866,7 @@ msgstr ""
 "angeblich sogar dem Kaiser geschenkt."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:118
-#: flucht/templates/pages/29.html:8 flucht/templates/pages/29.html:25
+#: flucht/templates/pages/29.html:7
 msgid "inner_monolog_32"
 msgstr ""
 "Die Zeit verging und wir durften immer noch nicht nach Hause. Schon das zweite "
@@ -873,7 +874,7 @@ msgstr ""
 "sein?"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:119
-#: flucht/templates/pages/29.html:9 flucht/templates/pages/29.html:26
+#: flucht/templates/pages/29.html:8
 msgid "inner_monolog_33"
 msgstr ""
 "Im Frühling war es endlich so weit. Wir wurden wieder in Transportzüge "
@@ -882,14 +883,14 @@ msgstr ""
 "Lager gestorben waren."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:120
-#: flucht/templates/pages/29.html:10 flucht/templates/pages/29.html:27
+#: flucht/templates/pages/29.html:9
 msgid "inner_monolog_34"
 msgstr ""
 "Wieder war es eine Fahrt ins Ungewisse. Wir waren so viele Monate weg gewesen "
 "und hatten keine Vorstellung davon, was uns in der Heimat erwarten würde."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:121
-#: flucht/templates/pages/30.html:6
+#: flucht/templates/pages/30.html:9
 msgid "inner_monolog_35"
 msgstr ""
 "Zu Hause angekommen, sah ich die Verwüstungen, die der Krieg hinterlassen "
@@ -951,6 +952,36 @@ msgstr "Seite"
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:135
 msgid "source"
 msgstr "Quelle"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:136
+msgid "arijczuk"
+msgstr ""
+"Basil Arijczuk studierte in den 1890er Jahren Theologie an der Universität "
+"Czernowitz (heute Chernivtsi). Während dieser Zeit engagierte er sich im "
+"ruthenisch-akademischen Verein \"Karpat\", wo er Tanzkränzchen organisierte. "
+"Dieser Verein wurde der Russophilie beschuldigt und 1910 verboten.<br />\n"
+"Basil Arijczuk war als griechisch-orientalischer Kooperator (Kaplan oder Vikar) "
+"in Toporoutz, Bukowina, tätig (heute Toporivtsi, Ukraine), wo er an politischen "
+"Veranstaltungen des Ruthenenklubs teilnahm.<br />\n"
+"Seine Wohnung wurde während der russischen Besetzung von Toporoutz 1914/15 "
+"verwüstet. Ab 1916 war er im Flüchtlingslager Oberhollabrunn interniert."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:137
+msgid "pihuliak"
+msgstr ""
+"Augustine Pihuliak, die im Barackenlager Gmünd einquartiert war, suchte im Juli "
+"1916 ihren Mann Kornel Pihuliak, einen griechisch-orientalischen Pfarrer aus "
+"Babyn (Bukowina), per Zeitungsannonce. Die beiden trafen schließlich am 28. "
+"August 1916 gemeinsam im Flüchtlingslager Oberhollabrunn ein. Am 17. November "
+"1916 wurde dort ihr Sohn Roman geboren, und zwar im Haus 46 (heute "
+"Übelbachergasse 23). Dabei handelt es sich um ein gemauertes Einfamilienhaus, "
+"das möglicherweise der Familie als Wohnort diente.<br />\n"
+"Kornel Pihuliak war im Lager als Seelsorger tätig und führte Bestattungen von "
+"griechisch-orientalischen Flüchtlingen am Friedhof Oberhollabrunn durch."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:138
+msgid "ex_offico"
+msgstr ""
 
 #: flucht/templates/nav.html:20
 msgid "Intro"

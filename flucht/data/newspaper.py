@@ -135,7 +135,7 @@ Unsere Armeeleitung traf ihre letzten Maßnahmen. Von neun Uhr abends …
         'teaser': '''Flüchtlingslager. <br /> 
 Die in Barackenform in Aussicht genommenen Unterkünfte für die Flüchtlinge sind bereits…
 ''',
-        'citation': 'WZ Mahnhartsberg, 24. März 1916',
+        'citation': 'WZ Manhartsberg, 24. März 1916',
         'title': 'Flüchtlingslager.',
         'page': '',
         'url': '',
@@ -146,7 +146,7 @@ Die in Barackenform in Aussicht genommenen Unterkünfte für die Flüchtlinge si
     'wochenzeitung_02071915': {
         'teaser': '''Die Internierungsstationen befinden sich in Weierburg, Enzersdorf im Tale, Sitzendorf, Mittergrabern und Raschala, …
 ''',
-        'citation': 'WZ Mahnhartsberg, 2. Juli 1918',
+        'citation': 'WZ Manhartsberg, 2. Juli 1918',
         'title': 'K. k. Internierungsstationen',
         'page': '',
         'url': '',
@@ -157,7 +157,7 @@ Die in Barackenform in Aussicht genommenen Unterkünfte für die Flüchtlinge si
     'wochenzeitung_21011916': {
         'teaser': '''Flüchtlingslager. Die Arbeiten zur Herstellung des von der Staatsverwaltung in Oberhollabrunn …
 ''',
-        'citation': 'WZ Mahnhartsberg, 21. Januar 1916',
+        'citation': 'WZ Manhartsberg, 21. Januar 1916',
         'title': 'Flüchtlingslager.',
         'page': '',
         'url': '',
@@ -244,7 +244,7 @@ landwirtschaftlicher Arbeit, …
     'wochenzeitung_10111916': {
         'teaser': '''Lagermisere. Das Flüchtlingslager, welches jetzt mit mehr als 3000 Flüchtlingen, zumeist aus der Bukowina und Siebenbürgen …
 ''',
-        'citation': 'WZ Mahnhartsberg, 10 November 1916',
+        'citation': 'WZ Manhartsberg, 10 November 1916',
         'title': 'Lagermisere',
         'page': '',
         'url': '',
@@ -256,7 +256,7 @@ landwirtschaftlicher Arbeit, …
         'teaser': '''Flüchtlingslager. Dank der Evakuierung von Teilen Ostgaliziens und der Bukowina sind schon 
 mehr als 2000 Flüchtlinge …
 ''',
-        'citation': 'WZ Mahnhartsberg, 22. September 1916',
+        'citation': 'WZ Manhartsberg, 22. September 1916',
         'title': 'Flüchtlingslager',
         'page': '',
         'url': '',
@@ -323,7 +323,7 @@ Die ukrainischen Flüchtlinge aus der Bukowina haben der kaiserlichen Familie Ge
         'teaser': '''Flüchtlingslager.<br />
 Am 23. und 24. März 1918 ist ein großer Teil der im k. k. Flüchtlingslager untergebrachten Flüchtlinge …
 ''',
-        'citation': 'WZ Mahnhartsberg, 29. März 1918',
+        'citation': 'WZ Manhartsberg, 29. März 1918',
         'title': 'Flüchtlingslager.',
         'page': '',
         'url': '',
