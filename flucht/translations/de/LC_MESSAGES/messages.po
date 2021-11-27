@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-27 14:27+0100\n"
-"PO-Revision-Date: 2021-11-27 14:29+0100\n"
+"POT-Creation-Date: 2021-11-27 19:58+0100\n"
+"PO-Revision-Date: 2021-11-27 20:03+0100\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -590,14 +590,14 @@ msgid "strickmuster"
 msgstr "Traditionelles bukowinisches Trachtenmuster."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:87
-#: flucht/templates/pages/02.html:7
+#: flucht/templates/pages/02.html:8
 msgid "inner_monolog_01"
 msgstr ""
 "Die fiktionale Ich-Erzählung ist eine Dramatisierung realer historischer "
 "Begebenheiten."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:88
-#: flucht/templates/pages/02.html:19
+#: flucht/templates/pages/02.html:20
 msgid "inner_monolog_02"
 msgstr ""
 "Das Donnern der Kanonen kam näher und Panik breitete sich im Dorf aus. Würde "
@@ -608,7 +608,7 @@ msgstr ""
 "verschleppt und unser Vieh davon getrieben."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:89
-#: flucht/templates/pages/02.html:20
+#: flucht/templates/pages/02.html:21
 msgid "inner_monolog_03"
 msgstr ""
 "Als die Rauchschwaden des Trommelfeuers am Horizont zu sehen waren, wurde ich "
@@ -995,3 +995,11 @@ msgstr "Ausstellung"
 msgid "page_subtitel"
 msgstr ""
 "Das Schicksal der orthodoxen Flüchtlinge im Lager Oberhollabrunn (1914-1918)"
+
+#: flucht/templates/pages/31.html:6
+msgid "sponsored"
+msgstr "Gefördert von"
+
+#: flucht/templates/pages/31.html:19
+msgid "cooperation"
+msgstr "In Zusammenarbeit mit"
