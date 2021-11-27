@@ -1,6 +1,51 @@
-  <div class="col d-flex align-items-center justify-content-center align-content-center ">
-<iframe class="embed-responsive-item" style="width: 75%; height: 100vh"
-        src="https://geoportal.orthodoxes-europa.at/"></iframe>
-  </div>
+{#<div class="py-5 px-5 d-flex align-items-center justify-content-center align-content-center ">#}
+{#  <iframe class="embed-responsive-item" style="width: 75%; height: 100vh"#}
+{#          src="https://geoportal.orthodoxes-europa.at/"></iframe>#}
+{#</div>#}
+{##}
 
-Sponsoren
+
+
+<div class="col d-flex align-items-center justify-content-center align-content-center ">
+  <h4 class="display-4">{{ _('sponsored') }}</h4>
+</div>
+
+<div class=" py-5 px-5 d-flex align-items-center justify-content-center align-content-center ">
+  <div class="row col-lg-4 d-flex align-items-center justify-content-center align-content-center">
+    <a href="http://www.zukunftsfonds-austria.at/" target="_blank">
+      <img src="{{ url_for('static', filename='images/logos/Zukunftsfonds.jpg') }}"
+           alt="dggoo"
+           class="img-fluid">
+    </a>
+  </div>
+</div>
+<div class="col d-flex align-items-center justify-content-center align-content-center ">
+  <h4 class="display-4">{{ _('cooperation') }}</h4>
+</div>
+
+
+<div class=" py-5 px-5 d-flex align-items-center justify-content-center align-content-center ">
+  <div class="row col-lg-4 d-flex align-items-center justify-content-center align-content-center">
+    <a href="https://www.orthodoxes-europa.at/" target="_blank">
+      <img src="{{ url_for('static', filename='images/logos/dggoo.png') }}"
+           alt="dggoo"
+           class="img-fluid">
+    </a>
+  </div>
+  <div class=" col-lg-4 d-flex align-items-center justify-content-center align-content-center">
+        <a href="https://www.metropolisvonaustria.at/index.php/de/" target="_blank">
+    <img src="{{ url_for('static', filename='images/logos/metropolis.png') }}"
+         alt="metropolis"
+         class="img-fluid">
+        </a>
+  </div>
+  <div class="col-lg-4 d-flex align-items-center justify-content-center align-content-center">
+        <a href="https://www.ait.ac.at/" target="_blank">
+    <img src="{{ url_for('static', filename='images/logos/ait.jpg') }}"
+         alt="ait"
+         class="img-fluid">
+        </a>
+  </div>
+</div>
+
+

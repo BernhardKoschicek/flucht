@@ -342,4 +342,24 @@ Das Flüchtlingslager, das zur Zeit des stärksten Belages über 4000 Flüchtlin
         'source': source['oenb_anno'],
         'filename': '',
         'content': '''- Das Flüchtlingslager, das zur Zeit des stärksten Belages über 4000 Flüchtlinge beherbergte, ist nun fast vollständig geräumt. Dienstag ging der letzte große Transport ab, dem am 28. April der Rest folgen wird. Die Freude der Flüchtlinge, endlich in die Heimat zu kommen, gelangte oft stürmisch zum Ausbruch: nachdem sie abends auf der Bismarckstraße noch zum letztenmal Menage erhalten hatten, gingen sie in den bereitstehenden Zug, der Heimat entgegen.'''}
+,
+    'oesterreich_illustrierte_21101917': {
+        'teaser': '''Eine ukrainische Huldigung.<br />
+(Mit 6 Abbildungen.)<br />
+Die ukrainischen Flüchtlinge aus der Bukowina haben der kaiserlichen Familie Geschenke überreicht, …
+''',
+        'citation': 'Eggenburger Zeitung, 26. April 1918',
+        'title': 'Eine ukrainische Huldigung.(Mit 6 Abbildungen.)',
+        'page': '20',
+        'url': 'https://anno.onb.ac.at/cgi-content/anno?aid=oiz&datum=19171021&seite=20&zoom=33',
+        'source': source['oenb_anno'],
+        'filename': '',
+        'content': '''Die ukrainischen Flüchtlinge aus der Bukowina haben der kaiserlichen Familie Geschenke überreicht, deren Wert hauptsächlich in der Originalität besteht. Für den Kaiser bestimmt ist die Truhe, Skrenia genannt. Sie wird von den Huzulen, den ukrainischen Gebirgsbewohnern, zur Aufbewahrung von festlichen Kleidern, Hochzeitskleidern usw. verwendet. […] <br />
+Für die Kaiserin bestimmt sind folgende Handarbeiten: <br />
+1. Ein Sofakissen auf Drapleinen in bunter Nationalstickerei, Muster aus der Gegend Kadobiwci, Bezirk Zastawna (Bukowina). <br />
+2. Eine Tischgarnitur, bestehend aus: Tischtuch, Tischläufer, Tassendeckchen, aus Leinengewebe, umrandet mit einem breiten Hohlsaum. […]<br />
+Die Erzeugnisse wurden von Bukowinaer ukrainischen Flüchtlingen in Oberhollabrunn angefertigt.
+Für den kleinen Kronprinzen bestimmt ist das Huzulen-Nationalkostüm, bestehend aus: Hemd, Hose, Gürtel und Umhängetasche (Dziobenka). […]<br />
+Die huzulische Huldigungsabordnung wurde vom Kaiserpaar im Beisein des kleinen Kronprinzen auf der Terrasse des Schlosses Wartholz empfangen. Die Geschenke wurden huldvollst angenommen.
+'''}
 }

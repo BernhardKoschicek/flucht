@@ -212,7 +212,7 @@ pictures_exhibition = {
         'source': source['oesta']
     },
     'lagergeld': {
-        'filepath': 'images/exhibition/lagergeld.png',
+        'filepath': 'images/exhibition/lagergeld.jpg',
         'licensing': '',
         'url': 'https://www.numisbids.com/n.php?p=lot&sid=3357&lot=28924',
         'source': licensing['ha']

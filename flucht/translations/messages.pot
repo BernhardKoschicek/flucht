@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-27 14:27+0100\n"
+"POT-Creation-Date: 2021-11-27 19:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -367,17 +367,17 @@ msgid "strickmuster"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:87
-#: flucht/templates/pages/02.html:7
+#: flucht/templates/pages/02.html:8
 msgid "inner_monolog_01"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:88
-#: flucht/templates/pages/02.html:19
+#: flucht/templates/pages/02.html:20
 msgid "inner_monolog_02"
 msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:89
-#: flucht/templates/pages/02.html:20
+#: flucht/templates/pages/02.html:21
 msgid "inner_monolog_03"
 msgstr ""
 
@@ -599,5 +599,13 @@ msgstr ""
 
 #: flucht/templates/pages/01.html:5
 msgid "page_subtitel"
+msgstr ""
+
+#: flucht/templates/pages/31.html:6
+msgid "sponsored"
+msgstr ""
+
+#: flucht/templates/pages/31.html:19
+msgid "cooperation"
 msgstr ""
 

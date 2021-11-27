@@ -9,7 +9,7 @@ def build_img_tag():
     for name, value in pictures_exhibition.items():
         img_tag[name] = f'''
  
-        <div class="col-10 mx-auto h-auto">
+        <div class="col-10 py-3 mx-auto h-auto">
         <span class="img-button">
                 <img 
                     id={name} 

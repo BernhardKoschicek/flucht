@@ -1,4 +1,10 @@
 
 
 
-{{ banner['eisenbahn_karte'] | safe }}
+<div class="d-flex img-magnifier-container justify-content-center align-content-center align-items-center">
+  <img id="eisenbahn_karte"
+                    data-bs-toggle="modal"
+                    data-bs-target="#eisenbahn_karteModal" class="h-75 w-75"
+       src="{{ url_for('static', filename='images/exhibition/eisenbahnkarte.jpg') }}"
+        alt="eisenbahn_karte">
+</div>

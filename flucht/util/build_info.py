@@ -1,5 +1,5 @@
 from flucht.data.info import info
-
+from flask_babel import _
 
 def build_info_btn():
     news_tag = {}
@@ -44,7 +44,7 @@ def build_modal_info():
                    
                     <blockquote class="newspaper-blockquote">
                         <p>                 
-                           {value['text']}
+                           {value['text'] if value['text'] else _(name)}
                         </p>
                     </blockquote>
                 </div>             
