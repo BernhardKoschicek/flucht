@@ -7,16 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-27 19:58+0100\n"
-"PO-Revision-Date: 2021-11-27 14:30+0100\n"
+"POT-Creation-Date: 2021-11-28 11:38+0100\n"
+"PO-Revision-Date: 2021-11-28 11:53+0100\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:6
 #: flucht/templates/pages/01.html:4
@@ -26,76 +27,72 @@ msgstr "On the Run in the Monarchy"
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:11
 msgid "intro_paragraph_1"
 msgstr ""
-"During the First World War (1914-1918) refugees came from the theatres of"
-" war, the border areas of the monarchy, into the interior of the Empire. "
-"More than one million people were on the run. Residents of affected areas"
-" left their homes and farms in order to flee from the war. For strategic "
-"reasons, numerous villages were also evacuated by the Austro-Hungarian "
-"Army to use local resources for itself or to destroy it in retreat from "
-"the advancing enemy. "
+"During the First World War (1914-1918) refugees came from the theatres of war, "
+"the border areas of the monarchy, into the interior of the Empire. More than "
+"one million people were on the run. Residents of affected areas left their "
+"homes and farms in order to flee from the war. For strategic reasons, numerous "
+"villages were also evacuated by the Austro-Hungarian Army to use local "
+"resources for itself or to destroy it in retreat from the advancing enemy. "
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:12
 msgid "intro_paragraph_2"
 msgstr ""
-"The Austro-Hungarian Army also acted against its own multi-ethnic "
-"population. Various groups of the population were purposefully expelled "
-"in order to prevent them from real or alleged allying with the enemy "
-"states. Executions of suspected were also carried out. On the Eastern "
-"front, Jews, Ruthenians (Ukrainians living in Galicia and Bukovina) and "
-"Romanians were affected, among the Christians especially the Orthodox "
-"population."
+"The Austro-Hungarian Army also acted against its own multi-ethnic population. "
+"Various groups of the population were purposefully expelled in order to prevent "
+"them from real or alleged allying with the enemy states. Executions of "
+"suspected were also carried out. On the Eastern front, Jews, Ruthenians "
+"(Ukrainians living in Galicia and Bukovina) and Romanians were affected, among "
+"the Christians especially the Orthodox population."
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:13
 msgid "intro_paragraph_3"
 msgstr ""
-"The refugees were registered in overcrowded collection points and "
-"categorised according to social status, material possessions, ethnicity "
-"and religion. The aim of these measures was to manage and control the "
-"flow of refugees. The poor population was transferred in freight wagons "
-"and under strict guard to their assigned places of residence. Many of "
-"them died on the way from hunger, cold or epidemics."
+"The refugees were registered in overcrowded collection points and categorised "
+"according to social status, material possessions, ethnicity and religion. The "
+"aim of these measures was to manage and control the flow of refugees. The poor "
+"population was transferred in freight wagons and under strict guard to their "
+"assigned places of residence. Many of them died on the way from hunger, cold or "
+"epidemics."
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:14
 msgid "intro_paragraph_4"
 msgstr ""
-"In order to relieve the big cities of the monarchy, in which refugees had"
-" already accumulated, it was decided in September 1914 to build barrack "
-"camps for the destitute masses. These camps were erected along convenient"
-" railway connections, but isolated from villages and towns. This was to "
-"prevent the refugees from integrating and settling down in the long term,"
-" and in this way the local population was not confronted with the true "
-"dimensions of the war. Several such barrack camps were built in Lower "
-"Austria, the largest in Gmünd accommodated up to 30,000 refugees, mostly "
-"Ruthenians."
+"In order to relieve the big cities of the monarchy, in which refugees had "
+"already accumulated, it was decided in September 1914 to build barrack camps "
+"for the destitute masses. These camps were erected along convenient railway "
+"connections, but isolated from villages and towns. This was to prevent the "
+"refugees from integrating and settling down in the long term, and in this way "
+"the local population was not confronted with the true dimensions of the war. "
+"Several such barrack camps were built in Lower Austria, the largest in Gmünd "
+"accommodated up to 30,000 refugees, mostly Ruthenians."
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:25
 msgid "intro_paragraph_5"
 msgstr ""
-"At the beginning of the refugee flow in 1914 huge wooden barracks were "
-"erected in the camps. These were inexpensive, could be built quickly and "
-"used in many ways, for example as dormitories, kitchens, schools or "
-"hospitals. Up to 500 people were accommodated per barrack. "
+"At the beginning of the refugee flow in 1914 huge wooden barracks were erected "
+"in the camps. These were inexpensive, could be built quickly and used in many "
+"ways, for example as dormitories, kitchens, schools or hospitals. Up to 500 "
+"people were accommodated per barrack. "
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:26
 msgid "intro_paragraph_6"
 msgstr ""
-"In the course of the war, smaller and smaller accommodations were used, "
-"as diseases spread rapidly in the mass quarters. The poorly durable "
-"wooden barracks, which were penetrated by cold and damp, were now joined "
-"by smaller brick buildings and the camps were increasingly equipped with "
-"a modern infrastructure."
+"In the course of the war, smaller and smaller accommodations were used, as "
+"diseases spread rapidly in the mass quarters. The poorly durable wooden "
+"barracks, which were penetrated by cold and damp, were now joined by smaller "
+"brick buildings and the camps were increasingly equipped with a modern "
+"infrastructure."
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:27
 msgid "intro_paragraph_7"
 msgstr ""
-"The camp in Oberhollabrunn was erected in 1916 and operated as a refugee "
-"camp until spring 1918. Mainly Ruthenians and Romanians from Bukovina "
-"were kept here, in whose homeland there was renewed mass flight and "
-"expulsion in the summer of 1916 due to an advance by Tsarist Russia. The "
-"refugees in the camp Oberhollabrunn belonged to the Christian, mainly "
-"Orthodox population of Bukovina. In the spring of 1918, after the peace "
-"agreement with Soviet Russia in Brest-Litowsk, they were sent back to "
-"their largely destroyed homeland."
+"The camp in Oberhollabrunn was erected in 1916 and operated as a refugee camp "
+"until spring 1918. Mainly Ruthenians and Romanians from Bukovina were kept "
+"here, in whose homeland there was renewed mass flight and expulsion in the "
+"summer of 1916 due to an advance by Tsarist Russia. The refugees in the camp "
+"Oberhollabrunn belonged to the Christian, mainly Orthodox population of "
+"Bukovina. In the spring of 1918, after the peace agreement with Soviet Russia "
+"in Brest-Litowsk, they were sent back to their largely destroyed homeland."
 
 #: flucht/blueprints/multilingual/templates/multilingual/intro.html:33
 msgid "further_reading"
@@ -208,28 +205,28 @@ msgstr ""
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:28
 msgid "transcription-newspaper"
 msgstr ""
-"Transcribed to the letter, orthography and punctuation of the original "
-"retained."
+"Transcribed to the letter, orthography and punctuation of the original retained."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:33
 msgid "artilleriestellung_191606"
 msgstr ""
+"Artillery Emplacement of a 30,5 cm Mortar near Toporoutz, Photograph, June 1916"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:34
 msgid "trommelfeuer_1914"
-msgstr ""
+msgstr "Drumfire in Toporoutz, between 1914 and 1918, K.u.k. Kriegspressequartier"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:35
 msgid "kirche_toporoutz"
-msgstr ""
+msgstr "Church in Toporoutz, K.u.k. Kriegspressequartier, 28 September 1917"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:36
 msgid "ansichtskarte_sadogora"
-msgstr ""
+msgstr "Picture Postcard of the Suburb Sadagora of Chernivtsi from 1908"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:37
 msgid "ansichtskarte_czernowitz"
-msgstr ""
+msgstr "Picture Postcard of the Ringplatz in Chernivtsi"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:38
 msgid "oest_ung_sprachgebiete"
@@ -237,35 +234,38 @@ msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:39
 msgid "bukowina"
-msgstr ""
+msgstr "Ethnographic Map of the Bukovina from 1910"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:40
 msgid "bahnhof_czernowitz_postkarte"
-msgstr ""
+msgstr "Historic Picture Postcard of the Railway Station Hollabrunn"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:41
 msgid "bahnhof_czernowitz"
-msgstr ""
+msgstr "The Central Railway Station in Chernivtsi (erected between 1906 and 1909)"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:42
 msgid "kundmachung_19071915"
 msgstr ""
+"Announcement of the Austro-Hungarian City Command in Chernivtsi, 19 July 1915"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:43
 msgid "ansicht_czernowitz_1916"
-msgstr ""
+msgstr "Picture Postcard of Chernivtsi from 1916"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:44
 msgid "eisenbahnbruecke_061915"
 msgstr ""
+"Destroyed Railway Bridge over the Pruth near Chernivtsi, Photograph, before "
+"June 1915"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:45
 msgid "flucht_bukowina"
-msgstr ""
+msgstr "Refugees from the Bukovina on an Elektrotrain"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:46
 msgid "kundmachung_20061916"
-msgstr ""
+msgstr "Announcement of the Russian City Command in Chernivtsi, 20 June 1916"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:47
 msgid "kriegsschaden_1917"
@@ -277,11 +277,19 @@ msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:49
 msgid "ansicht_oberhollabrunn_1910"
-msgstr ""
+msgstr "Picture Postcard of Oberhollabrunn from 1910"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:50
 msgid "lagerbuch_1903_1935"
 msgstr ""
+"Name, date of arrival, date of birth, sometimes the religious affiliation, "
+"occupation and place of origin were noted in the camp register of the refugee "
+"camp of Oberhollabrunn. However, the book was not kept for the entire period, "
+"so that no information is available on many refugees. This is confirmed by the "
+"documents on baptism, marriage and death of the Greek Orthodox parish, in which "
+"refugees are noted, who do not appear in the camp's register. N.B F, Index <br /"
+">\n"
+"Flüchtlingslager Oberhollabrunn, NÖ Reg, AR B 1903-1935, 1636 <br />"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:51
 msgid "lagertor"
@@ -289,15 +297,15 @@ msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:52
 msgid "verwaltungsgebaeude"
-msgstr ""
+msgstr "Former Administrative Building in the Refugee Camp of Oberhollabrunn"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:53
 msgid "quarantaenebaracke"
-msgstr ""
+msgstr "Former Quarantine Barrack in the Refugee Camp of Oberhollabrunn"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:54
 msgid "haupttor_1916"
-msgstr ""
+msgstr "The Main Gate to the Refugee Camp of Oberhollabrunn from 1916"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:55
 msgid "baracke_film"
@@ -305,15 +313,17 @@ msgstr ""
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:56
 msgid "ansichtkarte_1917"
-msgstr ""
+msgstr "Picture Postcard of the Refugee Camp of Oberhollabrunn from 1917"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:57
 msgid "ansicht_stadt_lager"
 msgstr ""
+"View of the City and the Refugee Camp of Oberhollabrunn (Author and Year "
+"unknown)"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:58
 msgid "lagerplan_oberhollabrunn"
-msgstr ""
+msgstr "Site Plan of the Refugee Camp of Oberhollabrunn"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:59
 msgid "aufnahmen_kriegspresse"
@@ -322,30 +332,39 @@ msgstr ""
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:60
 msgid "schuettkasten"
 msgstr ""
+"Granary in Raschala, owned by the Schönborn forestry administration. 1915-1918 "
+"Austro-Hungarian internment camp for foreigners from enemy states as well as "
+"politically suspicious citizens of the Austro-Hungarian Empire, especially from "
+"Italian, Polish and Ruthenian areas."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:61
 msgid "cziebanowski_lagerbuch"
 msgstr ""
+"Camp Register of the Austro-Hungarian Refugee Camp in Oberhollabrunn, Family "
+"Cziebanowski"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:62
 msgid "vermisstenanzeige"
 msgstr ""
+"Multilingual Missing Person's Report for Oberhollabrunn from 8 January 1915"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:63
 msgid "kirlibaba_1916"
-msgstr ""
+msgstr "Kirlibaba, Photograph, August 1916"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:64
 msgid "ansicht_bad_dorna_watra_1916"
-msgstr ""
+msgstr "Picture Postcard of the Spa Dorna Watra, 1916"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:65
 msgid "stellung_dorna_watra_1917"
 msgstr ""
+"\"Our Positions near Dorna Watra\": Positions of the Austro-Hungarian Army, "
+"Photograph, May 1917"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:66
 msgid "lagergeld"
-msgstr ""
+msgstr "Money used in the Refugee Camp"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:67
 msgid "gruppenbild_1918"
@@ -354,14 +373,21 @@ msgstr ""
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:68
 msgid "pferdefuhrwerk"
 msgstr ""
+"Horse and Cart in the Refugee Camp. From: Werner Lamm, Vom Flüchtlingslager zur "
+"Gartenstadt. Mit Beiträgen von Walter Johann Fittner, Hollabrunn 1999."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:69
 msgid "lagerbahn"
 msgstr ""
+"The Camp's Railway. From: Werner Lamm, Vom Flüchtlingslager zur Gartenstadt. "
+"Mit Beiträgen von Walter Johann Fittner, Hollabrunn 1999."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:70
 msgid "totenbeschau_popeskul"
 msgstr ""
+"Coroner's Report on Helena Popeskul from 7 April 1918 (Copyright Metropolis von "
+"Austria). She died of pulmonary tuberculosis. Heart and respiratory diseases "
+"were the most common causes of death in the camp."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:71
 msgid "totenbeschau_pawluk"
@@ -370,30 +396,37 @@ msgstr ""
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:72
 msgid "schreiben_lagerverwaltung"
 msgstr ""
+"Letter from the camp's administration to the Greek Orthodox Parish of the Holy "
+"Trinity in Vienna (Fleischmarkt 13) regarding the installation of a memorial "
+"plaque for the refugees buried in the cemetery in Oberhollabrunn, 31 May 1920"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:73
 msgid "lagerkirche"
-msgstr ""
+msgstr "The Camp's Church"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:74
 msgid "totenschein_basil"
-msgstr ""
+msgstr "Death Certificate of an Orthodox Refugee, signed by Basil Arijczuk. "
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:75
 msgid "geburt_roman"
 msgstr ""
+"Baptismal Registers for Orthodox Children born in the Refugee Camp of "
+"Oberhollabrunn, Archive of the Holy Trinity, K 14, Faszikel 4."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:76
 msgid "truhe_fluchtlinge"
-msgstr ""
+msgstr "A Chest made by Refugees"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:77
 msgid "standbild_erholung"
 msgstr ""
+"The Camp's School, Fixed-Image from the Film \"Erholungsfürsorge der Gemeinde "
+"Wien im Flüchtlingslager Oberhollabrunn\", 1918"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:78
 msgid "kk_frontlines"
-msgstr ""
+msgstr "Map of Austria-Hungary"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:79
 msgid "eisenbahn_karte"
@@ -402,6 +435,7 @@ msgstr ""
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:80
 msgid "krankenbaracke"
 msgstr ""
+"In the Background: Barrack for the Sick in the Refugee Camp of Oberhollabrunn"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:81
 msgid "bahnhof_oberhollabrunn"
@@ -410,408 +444,431 @@ msgstr ""
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:82
 msgid "lager_panoramaaufnahme"
 msgstr ""
+"Photograph of the Refugee Camp of Oberhollabrunn from the West (Author and Year "
+"unknown)"
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:83
 msgid "strickmuster"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:87
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:84
+msgid "bukowina_verkehrskarte"
+msgstr "Traffic Map of the Duchy of Bukovina from 1907"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:85
+msgid "bukowina_verkehrskarte_focus"
+msgstr "Section of the Traffic Map of the Duchy of Bukovina from 1907"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:86
+msgid "map_flucht"
+msgstr ""
+"Overview Map of the Hometowns of the Orthodox Refugees extracted from the "
+"Project's Database <br />\n"
+"(Geoportal der Geschichte der Orthodoxen in Österreich, https://orthodoxes-"
+"europa.at/geoportal)"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:89
 #: flucht/templates/pages/02.html:8
 msgid "inner_monolog_01"
 msgstr ""
-"The fictional first-person-narrative is the dramatization of real "
-"historical facts."
+"The fictional first-person-narrative is the dramatization of real historical "
+"facts."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:88
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:90
 #: flucht/templates/pages/02.html:20
 msgid "inner_monolog_02"
 msgstr ""
-"The thunder of the cannons came closer and panic spread through the "
-"village. Would the Tsar's army reach us again? They had already occupied "
-"Toporoutz once, when they overran Bukovina in the autumn of 1914 and even"
-" took our capital Czernowitz. They devastated many of our houses then. "
-"The men who stayed behind in the village were all taken to Russia and our"
-" cattle were driven away."
+"The thunder of the cannons came closer and panic spread through the village. "
+"Would the Tsar's army reach us again? They had already occupied Toporoutz once, "
+"when they overran Bukovina in the autumn of 1914 and even took our capital "
+"Czernowitz. They devastated many of our houses then. The men who stayed behind "
+"in the village were all taken to Russia and our cattle were driven away."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:89
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:91
 #: flucht/templates/pages/02.html:21
 msgid "inner_monolog_03"
 msgstr ""
-"When the clouds of smoke from the drumfire could be seen on the horizon, "
-"I became very anxious. Everyone started packing up their belongings."
+"When the clouds of smoke from the drumfire could be seen on the horizon, I "
+"became very anxious. Everyone started packing up their belongings."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:90
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:92
 #: flucht/templates/pages/04.html:8
 msgid "inner_monolog_04"
 msgstr ""
-"People were moving through the village, some on foot, some on carts, "
-"towards the capital. They reported agitatedly that they had been ordered "
-"to leave their houses by soldiers of our army. So the Cossacks were "
-"already that close!"
+"People were moving through the village, some on foot, some on carts, towards "
+"the capital. They reported agitatedly that they had been ordered to leave their "
+"houses by soldiers of our army. So the Cossacks were already that close!"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:91
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:93
 #: flucht/templates/pages/04.html:9
 msgid "inner_monolog_05"
 msgstr ""
-"I hurriedly loaded the small cart in front of the house and harnessed the"
-" ox. I left the chickens and the sheep with the neighbour who was nursing"
-" her sick mother. She wanted to brave the Cossacks, locked up in her "
-"home. She only sent her twelve-year-old son with us so that he would not "
-"be taken away."
+"I hurriedly loaded the small cart in front of the house and harnessed the ox. I "
+"left the chickens and the sheep with the neighbour who was nursing her sick "
+"mother. She wanted to brave the Cossacks, locked up in her home. She only sent "
+"her twelve-year-old son with us so that he would not be taken away."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:92
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:94
 #: flucht/templates/pages/05.html:10
 msgid "inner_monolog_06"
 msgstr ""
-"The ox pulled the cart via Rarancze and Buda to Czernowitz, where we "
-"arrived on the same evening. Hundreds of other people were also on their "
-"way there, including friends, relatives and many strangers. After we had "
-"crossed the Pruth River, I could no longer make any progress with the "
-"cart. Too many people were crowding into the city. I had to leave the "
-"cart and the ox behind."
+"The ox pulled the cart via Rarancze and Buda to Czernowitz, where we arrived on "
+"the same evening. Hundreds of other people were also on their way there, "
+"including friends, relatives and many strangers. After we had crossed the Pruth "
+"River, I could no longer make any progress with the cart. Too many people were "
+"crowding into the city. I had to leave the cart and the ox behind."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:93
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:95
 #: flucht/templates/pages/05.html:11
 msgid "inner_monolog_07"
 msgstr ""
-"Would our army be able to hold Czernowitz? I ran through the crowd ahead "
-"to the train station. People were already there. Soldiers were keeping "
-"them from storming the incoming trains. It was incredibly loud and "
-"everyone was shouting in different languages. It seemed as if the whole "
-"city was here."
+"Would our army be able to hold Czernowitz? I ran through the crowd ahead to the "
+"train station. People were already there. Soldiers were keeping them from "
+"storming the incoming trains. It was incredibly loud and everyone was shouting "
+"in different languages. It seemed as if the whole city was here."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:94
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:96
 #: flucht/templates/pages/07.html:7
 msgid "inner_monolog_08"
 msgstr ""
-"Trains had already been leaving all night, but they were only loaded with"
-" things belonging to the army. Finally, people were allowed on board, but"
-" only with a valid pass. Once again, the rich had the right of way. An "
-"early train ride did not seem possible for our kind."
+"Trains had already been leaving all night, but they were only loaded with "
+"things belonging to the army. Finally, people were allowed on board, but only "
+"with a valid pass. Once again, the rich had the right of way. An early train "
+"ride did not seem possible for our kind."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:95
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:97
 #: flucht/templates/pages/07.html:8
 msgid "inner_monolog_09"
 msgstr ""
-"With many others, I spent the following days on the outskirts of the "
-"city. From our camp we could hear the rumbling of the cannons "
-"approaching. I heard that our army was trying to hold the front line on "
-"the Pruth and by doing so to protect the city. It was, thus, clear that "
-"the village Toporoutz had already fallen."
+"With many others, I spent the following days on the outskirts of the city. From "
+"our camp we could hear the rumbling of the cannons approaching. I heard that "
+"our army was trying to hold the front line on the Pruth and by doing so to "
+"protect the city. It was, thus, clear that the village Toporoutz had already "
+"fallen."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:96
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:98
 #: flucht/templates/pages/08.html:7
 msgid "inner_monolog_10"
 msgstr ""
-"Finally, they let us through to the trains. I was herded into a wagon "
-"with many others by soldiers. We sat tightly packed on the cold floor. "
-"The train left. Everyone wondered how long we would be on the road? No "
-"one knew where the journey was going. I winced with every thunder of the "
-"cannons."
+"Finally, they let us through to the trains. I was herded into a wagon with many "
+"others by soldiers. We sat tightly packed on the cold floor. The train left. "
+"Everyone wondered how long we would be on the road? No one knew where the "
+"journey was going. I winced with every thunder of the cannons."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:97
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:99
 #: flucht/templates/pages/13.html:9
 msgid "inner_monolog_11"
 msgstr ""
-"My journey ended in front of a gate. On it was the Emperor's eagle, but I"
-" couldn't read the writing. In front of a larger house we were told to "
-"line up in order to register. Despite hunger and exhaustion, I waited "
-"patiently."
+"My journey ended in front of a gate. On it was the Emperor's eagle, but I "
+"couldn't read the writing. In front of a larger house we were told to line up "
+"in order to register. Despite hunger and exhaustion, I waited patiently."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:98
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:100
 #: flucht/templates/pages/13.html:10
 msgid "inner_monolog_12"
 msgstr ""
-"We were then led to a wash house. In a large shower room I could finally "
-"wash. Then, fresh clothes were handed out, but not enough for everyone. "
-"In a barrack next door was a doctor. Everyone was shown to him. Those who"
-" had lice were locked away. The sick were also taken away."
+"We were then led to a wash house. In a large shower room I could finally wash. "
+"Then, fresh clothes were handed out, but not enough for everyone. In a barrack "
+"next door was a doctor. Everyone was shown to him. Those who had lice were "
+"locked away. The sick were also taken away."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:99
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:101
 #: flucht/templates/pages/14.html:11
 msgid "inner_monolog_13"
 msgstr ""
-"I was led to a barrack made of bricks on a hill. The house was big and "
-"new, the interior was sparse. I had to sleep on a wooden cot. Straw sacks"
-" and blankets made it a little cosier. So this is where I would spend the"
-" next few weeks, along with many others. Hopefully I could go home soon!"
+"I was led to a barrack made of bricks on a hill. The house was big and new, the "
+"interior was sparse. I had to sleep on a wooden cot. Straw sacks and blankets "
+"made it a little cosier. So this is where I would spend the next few weeks, "
+"along with many others. Hopefully I could go home soon!"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:100
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:102
 #: flucht/templates/pages/14.html:12
 msgid "inner_monolog_14"
 msgstr ""
-"Although it was very cramped, I was glad to have people from my home "
-"country around me. Only after a few days did I learn that the place we "
-"were in was called Oberhollabrunn."
+"Although it was very cramped, I was glad to have people from my home country "
+"around me. Only after a few days did I learn that the place we were in was "
+"called Oberhollabrunn."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:101
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:103
 #: flucht/templates/pages/15.html:10
 msgid "inner_monolog_15"
 msgstr ""
-"On my walks I realised how big the camp actually was. All around were "
-"numerous other barracks, some smaller, some larger. Most of them were "
-"made of wood. Down the hill, houses were being built of brick. They were "
-"almost finished, but no one lived in them yet. "
+"On my walks I realised how big the camp actually was. All around were numerous "
+"other barracks, some smaller, some larger. Most of them were made of wood. Down "
+"the hill, houses were being built of brick. They were almost finished, but no "
+"one lived in them yet. "
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:102
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:104
 #: flucht/templates/pages/15.html:11
 msgid "inner_monolog_16"
 msgstr ""
-"Not only we the refugees, but also some of the camp staff slept in the "
-"camp. There were stables for cattle and pigs as well. Occasionally a "
-"small train came in to bring food and building materials."
+"Not only we the refugees, but also some of the camp staff slept in the camp. "
+"There were stables for cattle and pigs as well. Occasionally a small train came "
+"in to bring food and building materials."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:103
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:105
 #: flucht/templates/pages/18.html:8
 msgid "inner_monolog_17"
 msgstr ""
-"As I walked past the construction work, I heard that the workers spoke my"
-" language and stopped in amazement. I spoke to them, and we started "
-"chatting. They were from Galicia!"
+"As I walked past the construction work, I heard that the workers spoke my "
+"language and stopped in amazement. I spoke to them, and we started chatting. "
+"They were from Galicia!"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:104
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:106
 #: flucht/templates/pages/18.html:9
 msgid "inner_monolog_18"
 msgstr ""
-"They had been here for over a year. They did not live in our camp, but in"
-" nearby Raschala. There was another camp, where Italians, Poles and "
-"Ruthenians were accommodated. They called it the internment station. "
-"Apparently they were here for political reasons, but they wouldn't tell "
-"me any more about it. Many of them were doing construction work or were "
-"working in the fields."
+"They had been here for over a year. They did not live in our camp, but in "
+"nearby Raschala. There was another camp, where Italians, Poles and Ruthenians "
+"were accommodated. They called it the internment station. Apparently they were "
+"here for political reasons, but they wouldn't tell me any more about it. Many "
+"of them were doing construction work or were working in the fields."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:105
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:107
 #: flucht/templates/pages/18.html:10
 msgid "inner_monolog_19"
 msgstr "When the houses were finished, displaced teachers and priests moved in."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:106
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:108
 #: flucht/templates/pages/19.html:10
 msgid "inner_monolog_20"
 msgstr ""
-"In summer and autumn people kept arriving. Most of them, like me, came by"
-" train from the East or South. Some also from small shelters or "
-"overcrowded camps in the surrounding area. They had already been in the "
-"area for some time. Many families came, some had unfortunately been "
-"separated on the journey. Desperately, they now tried to find each other "
-"again."
+"In summer and autumn people kept arriving. Most of them, like me, came by train "
+"from the East or South. Some also from small shelters or overcrowded camps in "
+"the surrounding area. They had already been in the area for some time. Many "
+"families came, some had unfortunately been separated on the journey. "
+"Desperately, they now tried to find each other again."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:107
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:109
 #: flucht/templates/pages/21.html:9
 msgid "inner_monolog_21"
 msgstr ""
-"More and more people from the South of the Bukovina arrived and became "
-"our neighbours. They told news from home. Many were from Kirlibaba and "
-"Dorna-Watra, where fighting was particularly fierce. Soldiers had ordered"
-" them to leave their homes as the front approached. I no longer had any "
-"hope of getting home soon."
+"More and more people from the South of the Bukovina arrived and became our "
+"neighbours. They told news from home. Many were from Kirlibaba and Dorna-Watra, "
+"where fighting was particularly fierce. Soldiers had ordered them to leave "
+"their homes as the front approached. I no longer had any hope of getting home "
+"soon."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:108
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:110
 #: flucht/templates/pages/22.html:10
 msgid "inner_monolog_22"
 msgstr ""
-"The weeks went by, and I gradually got used to everyday life in the camp."
-" The children and their mothers mainly stayed around the barracks. But "
-"those who could work, were assigned to the warehouse or had to help out "
-"with the surrounding farmers."
+"The weeks went by, and I gradually got used to everyday life in the camp. The "
+"children and their mothers mainly stayed around the barracks. But those who "
+"could work, were assigned to the warehouse or had to help out with the "
+"surrounding farmers."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:109
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:111
 #: flucht/templates/pages/22.html:11
 msgid "inner_monolog_23"
 msgstr ""
-"Three times a day we got something to eat from the kitchen barrack. It "
-"was mostly bread and porridge, sometimes vegetables and meat. The "
-"children also got milk."
+"Three times a day we got something to eat from the kitchen barrack. It was "
+"mostly bread and porridge, sometimes vegetables and meat. The children also got "
+"milk."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:110
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:112
 #: flucht/templates/pages/22.html:15
 msgid "inner_monolog_24"
 msgstr ""
-"Horse-drawn carts came to the camp every day. They were loaded with food "
-"and clothes. From the camp you could see the surrounding fields. We "
-"envied the farmers for their harvest."
+"Horse-drawn carts came to the camp every day. They were loaded with food and "
+"clothes. From the camp you could see the surrounding fields. We envied the "
+"farmers for their harvest."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:111
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:113
 #: flucht/templates/pages/22.html:16
 msgid "inner_monolog_25"
 msgstr ""
-"At the beginning, the meals were filling, but over time the porridge "
-"became watered down, so that we were often hungry. We therefore became "
-"angry and shouted at the camp staff. We were told that it was the war's "
-"fault and that others were also hungry."
+"At the beginning, the meals were filling, but over time the porridge became "
+"watered down, so that we were often hungry. We therefore became angry and "
+"shouted at the camp staff. We were told that it was the war's fault and that "
+"others were also hungry."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:112
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:114
 #: flucht/templates/pages/24.html:8
 msgid "inner_monolog_26"
 msgstr ""
-"In winter, many became ill. The barracks were draughty, there was not "
-"enough heating material and the hunger was almost unbearable. You could "
-"hear people coughing everywhere."
+"In winter, many became ill. The barracks were draughty, there was not enough "
+"heating material and the hunger was almost unbearable. You could hear people "
+"coughing everywhere."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:113
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:115
 #: flucht/templates/pages/24.html:9
 msgid "inner_monolog_27"
 msgstr ""
-"I had to watch many people fall seriously ill, including friends of mine."
-" They were taken to the barracks for the sick. Some of them never came "
-"back. We were able to say goodbye to them in a small chapel on the edge "
-"of the camp, before they were buried in the town cemetery."
+"I had to watch many people fall seriously ill, including friends of mine. They "
+"were taken to the barracks for the sick. Some of them never came back. We were "
+"able to say goodbye to them in a small chapel on the edge of the camp, before "
+"they were buried in the town cemetery."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:114
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:116
 #: flucht/templates/pages/26.html:13
 msgid "inner_monolog_28"
 msgstr ""
-"The parish priests who had also fled tried to comfort us. I met a "
-"clergyman from my Orthodox parish in Toporoutz called Basil Arijczuk."
+"The parish priests who had also fled tried to comfort us. I met a clergyman "
+"from my Orthodox parish in Toporoutz called Basil Arijczuk."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:115
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:117
 #: flucht/templates/pages/26.html:14
 msgid "inner_monolog_29"
 msgstr ""
-"He told me that Father Kornel Pihuliak and his wife Augustine had also "
-"fled from Bukovina. During the flight they had parted ways. Augustine "
-"arrived not far from here in another camp and desperately searched for "
-"her husband. Thanks to God they were able to find each other again! Their"
-" son Roman was born here in the camp."
+"He told me that Father Kornel Pihuliak and his wife Augustine had also fled "
+"from Bukovina. During the flight they had parted ways. Augustine arrived not "
+"far from here in another camp and desperately searched for her husband. Thanks "
+"to God they were able to find each other again! Their son Roman was born here "
+"in the camp."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:116
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:118
 #: flucht/templates/pages/28.html:8
 msgid "inner_monolog_30"
 msgstr ""
-"In the summer of 1917, important people arrived to officially open the "
-"new school. Some of us were chosen to receive the distinguished visitors "
-"together with the guards at the camp gate."
+"In the summer of 1917, important people arrived to officially open the new "
+"school. Some of us were chosen to receive the distinguished visitors together "
+"with the guards at the camp gate."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:117
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:119
 #: flucht/templates/pages/28.html:9
 msgid "inner_monolog_31"
 msgstr ""
-"Not only the children, but also many adults learned German in the camp "
-"school. There were also handicraft courses. Some of our work was "
-"allegedly even given to the Emperor as a gift."
+"Not only the children, but also many adults learned German in the camp school. "
+"There were also handicraft courses. Some of our work was allegedly even given "
+"to the Emperor as a gift."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:118
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:120
 #: flucht/templates/pages/29.html:7
 msgid "inner_monolog_32"
 msgstr ""
-"Time passed and we were still not allowed to go home. This was the second"
-" Christmas we had to celebrate in the camp. When would this wretched war "
-"be over?"
+"Time passed and we were still not allowed to go home. This was the second "
+"Christmas we had to celebrate in the camp. When would this wretched war be over?"
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:119
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:121
 #: flucht/templates/pages/29.html:8
 msgid "inner_monolog_33"
 msgstr ""
-"In spring, the time had finally come. We were put back on trains. I hoped"
-" to see my homeland again soon. But when the train started, I also "
-"thought of everyone we left behind, of the friends who had died in the "
-"camp."
+"In spring, the time had finally come. We were put back on trains. I hoped to "
+"see my homeland again soon. But when the train started, I also thought of "
+"everyone we left behind, of the friends who had died in the camp."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:120
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:122
 #: flucht/templates/pages/29.html:9
 msgid "inner_monolog_34"
 msgstr ""
-"Again it was a journey into the unknown. We had been away for so many "
-"months and had no idea what to expect back home. "
+"Again it was a journey into the unknown. We had been away for so many months "
+"and had no idea what to expect back home. "
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:121
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:123
 #: flucht/templates/pages/30.html:9
 msgid "inner_monolog_35"
 msgstr ""
-"When I arrived at home, I saw the devastation that the war had left "
-"behind. Many of us could not return to their homes. The places, the "
-"people, everything had changed."
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:124
-msgid "MHermann2017_1"
-msgstr ""
-"Martina Hermann, Cities of Barracks: Refugees in the Austrian Part of the"
-" Habsburg Empire during the First World War. In: Peter Gatrell, Liubov "
-"Zhvanko (Ed.), Europe on the Move: Refugees in the Era of the Great War. "
-"Manchester 2017, pp. 129-155."
-
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:125
-msgid "MHermann2017_2"
-msgstr ""
-"Martina Hermann, Die hölzerne Stadt. Das Barackenlager Gmünd 1914-1918, "
-"Graz 2017."
+"When I arrived at home, I saw the devastation that the war had left behind. "
+"Many of us could not return to their homes. The places, the people, everything "
+"had changed."
 
 #: flucht/blueprints/multilingual/templates/multilingual/text.html:126
+msgid "MHermann2017_1"
+msgstr ""
+"Martina Hermann, Cities of Barracks: Refugees in the Austrian Part of the "
+"Habsburg Empire during the First World War. In: Peter Gatrell, Liubov Zhvanko "
+"(Ed.), Europe on the Move: Refugees in the Era of the Great War. Manchester "
+"2017, pp. 129-155."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:127
+msgid "MHermann2017_2"
+msgstr ""
+"Martina Hermann, Die hölzerne Stadt. Das Barackenlager Gmünd 1914-1918, Graz "
+"2017."
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:128
 msgid "Wmentzel2013"
 msgstr ""
 "Walter Mentzel, Kriegserfahrungen von Flüchtlingen aus dem Nordosten der "
-"Monarchie während des Ersten Weltkrieges. In: Bernhard Bachinger, Wolfram"
-" Dornik (Ed.), Jenseits des Schützengrabens: der Erste Weltkrieg im "
-"Osten: Erfahrung - Wahrnehmung - Kontext. Innsbruck - Wien 2013, pp. "
-"359-390."
+"Monarchie während des Ersten Weltkrieges. In: Bernhard Bachinger, Wolfram "
+"Dornik (Ed.), Jenseits des Schützengrabens: der Erste Weltkrieg im Osten: "
+"Erfahrung - Wahrnehmung - Kontext. Innsbruck - Wien 2013, pp. 359-390."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:127
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:129
 msgid "WMentzel1997"
 msgstr ""
-"Walter Mentzel, Kriegsflüchtlinge in Cis-Leithanien im Ersten Weltkrieg. "
-"Wien 1997."
+"Walter Mentzel, Kriegsflüchtlinge in Cis-Leithanien im Ersten Weltkrieg. Wien "
+"1997."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:128
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:130
 msgid "HLeidinger2014"
 msgstr ""
 "Hannes Leidinger, Verena Moritz, Karin Moser, Wolfram Dornik, Habsburgs "
-"schmutziger Krieg. Ermittlungen zur österreichisch-ungarischen "
-"Kriegsführung 1914-1918, St. Pölten - Salzburg - Wien 2014."
+"schmutziger Krieg. Ermittlungen zur österreichisch-ungarischen Kriegsführung "
+"1914-1918, St. Pölten - Salzburg - Wien 2014."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:129
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:131
 msgid "ASenarclens2018"
 msgstr ""
-"Antje Senarclens de Grancy, Different Housing Spaces - Space, Function, "
-"and Use of Barrack-Huts in World War I Refugee Camps. In: Oliver Rathkolb"
-" (Ed.), Zeitgeschichte 45. Jahrgang, Heft 4. Wien 2018, pp. 457-482."
+"Antje Senarclens de Grancy, Different Housing Spaces - Space, Function, and Use "
+"of Barrack-Huts in World War I Refugee Camps. In: Oliver Rathkolb (Ed.), "
+"Zeitgeschichte 45. Jahrgang, Heft 4. Wien 2018, pp. 457-482."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:130
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:132
 msgid "WLamm1999"
 msgstr ""
-"Werner Lamm, Vom Flüchtlingslager zur Gartenstadt. Mit Beiträgen von "
-"Walter Johann Fittner, Hollabrunn 1999."
+"Werner Lamm, Vom Flüchtlingslager zur Gartenstadt. Mit Beiträgen von Walter "
+"Johann Fittner, Hollabrunn 1999."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:134
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:136
 msgid "page"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:135
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:137
 msgid "source"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:136
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:138
 msgid "arijczuk"
 msgstr ""
 "Basil Arijczuk studied theology at the university of Czernowitz (today "
-"Chernivtsi) in the 1890s. During this time he got involved with the "
-"Ruthenian-academic association \"Karpat\", where he organised dance "
-"evenings. This association was accused of russophilia and forbidden in "
-"1910.<br />\n"
-"Basil Arijczuk worked as a Greek Oriental cooperator (chaplain or vicar) "
-"at Toporoutz, Bukovina (today Toporivtsi, Ukraine), where he attended "
-"political events of the Ruthenians.\n"
-"His flat was depredated by the Russians in 1914/15 during their "
-"occupation of Toporoutz.<br />\n"
-"In 1916 he was interned at the refugee camp Oberhollabrunn, where he "
-"worked as a Pastor."
+"Chernivtsi) in the 1890s. During this time he got involved with the Ruthenian-"
+"academic association \"Karpat\", where he organised dance evenings. This "
+"association was accused of russophilia and forbidden in 1910.<br />\n"
+"Basil Arijczuk worked as a Greek Oriental cooperator (chaplain or vicar) at "
+"Toporoutz, Bukovina (today Toporivtsi, Ukraine), where he attended political "
+"events of the Ruthenians.\n"
+"His flat was depredated by the Russians in 1914/15 during their occupation of "
+"Toporoutz.<br />\n"
+"In 1916 he was interned at the refugee camp Oberhollabrunn, where he worked as "
+"a Pastor."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:137
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:139
 msgid "pihuliak"
 msgstr ""
-"Augustine Pihuliak, who was interned at the barrack camp Gmünd, looked "
-"for her husband Kornel Pihuliak, a Greek Oriental priest from Babyn "
-"(Bukovina), by newspaper advertisement in July 1916. They finally arrived"
-" together at the refugee camp Oberhollabrunn on 28th August 1916. On 17th"
-" November 1916 their common son Roman was born in the camp, namely in "
-"house 46, a masoned one-family house (today Übelbachergasse 23). Probably"
-" the family lived there.<br />\n"
-"Kornel Pihuliak worked as a pastor at the camp and performed funeral "
-"ceremonies for the greek-oriental refugees at the cemetery of "
-"Oberhollabrunn."
+"Augustine Pihuliak, who was interned at the barrack camp Gmünd, looked for her "
+"husband Kornel Pihuliak, a Greek Oriental priest from Babyn (Bukovina), by "
+"newspaper advertisement in July 1916. They finally arrived together at the "
+"refugee camp Oberhollabrunn on 28th August 1916. On 17th November 1916 their "
+"common son Roman was born in the camp, namely in house 46, a masoned one-family "
+"house (today Übelbachergasse 23). Probably the family lived there.<br />\n"
+"Kornel Pihuliak worked as a pastor at the camp and performed funeral ceremonies "
+"for the greek-oriental refugees at the cemetery of Oberhollabrunn."
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:138
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:140
 msgid "ex_offico"
 msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:141
+#: flucht/templates/pages/31.html:8
+msgid "geoportal_1"
+msgstr "You can access and search all data sets of our project via our Geoportal:"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:142
+#: flucht/templates/pages/31.html:13
+msgid "geoportal_2"
+msgstr ""
+"You can download the Geoportal as application on your mobile phone free of "
+"charge via the following link as QR Code:"
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:143
+#: flucht/templates/pages/31.html:18
+msgid "geoportal_3"
+msgstr ""
+"If you would like to get an introduction to the functions of the Geoportal, be "
+"it on your computer or mobile phone, please take a look on the following short "
+"movie on the application made by Dr Rainer Simon (AIT):"
 
 #: flucht/templates/nav.html:20
 msgid "Intro"
@@ -825,11 +882,63 @@ msgstr "Exhibition"
 msgid "page_subtitel"
 msgstr "The fate of orthodox refugees in the camp of Oberhollabrunn (1914-1918)"
 
-#: flucht/templates/pages/31.html:6
+#: flucht/templates/pages/31.html:35
 msgid "sponsored"
-msgstr ""
+msgstr "Sponsored by"
 
-#: flucht/templates/pages/31.html:19
+#: flucht/templates/pages/31.html:48
 msgid "cooperation"
-msgstr ""
+msgstr "In cooperation with"
 
+#: flucht/templates/pages/32.html:4
+msgid "impressum_1"
+msgstr ""
+"The virtual exhibition \"Auf der Flucht in der Monarchie: Das Schicksal der "
+"orthodoxen Flüchtlinge im Lager Oberhollabrunn (1914-1918)\" is published by:"
+
+#: flucht/templates/pages/32.html:10
+msgid "vertreten_durch"
+msgstr "Represented by:"
+
+#: flucht/templates/pages/32.html:12
+msgid "projektleiter"
+msgstr "Project Leader"
+
+#: flucht/templates/pages/32.html:18
+msgid "kontakt"
+msgstr "Contact:"
+
+#: flucht/templates/pages/32.html:22
+msgid "impressum_2"
+msgstr ""
+"The virtual exhibition \"Auf der Flucht in der Monarchie: Das Schicksal der "
+"orthodoxen Flüchtlinge im Lager Oberhollabrunn (1914-1918)\" was funded by the "
+"Zukunftsfonds der Republik Österreich within the project P19-3804."
+
+#: flucht/templates/pages/32.html:26
+msgid "zum_projekt"
+msgstr "Cf. on the Project:"
+
+#: flucht/templates/pages/32.html:31
+msgid "inhaltich_verantwortlich"
+msgstr "Responsible for the Content:"
+
+#: flucht/templates/pages/32.html:40
+msgid "konzept_ausstellungstexte"
+msgstr "Concept and Texts of the Exhibition:"
+
+#: flucht/templates/pages/32.html:45
+msgid "englische_übersetzung"
+msgstr "English Translation:"
+
+#: flucht/templates/pages/32.html:50
+msgid "kommunikationsdesign"
+msgstr "Comunication Design:"
+
+#: flucht/templates/pages/32.html:54
+msgid "app_desgin"
+msgstr "App Design:"
+
+#: flucht/templates/pages/32.html:61
+msgid "wien"
+msgstr "Vienna"
