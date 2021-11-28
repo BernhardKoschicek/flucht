@@ -84,5 +84,5 @@ def page_not_found(e: Exception) -> tuple:
 
 @app.route('/')
 def index():
-    g.lang_code = request.accept_languages.best_match(app.config['LANGUAGES'])
+    g.lang_code = request.accept_languages.best_match(['en', 'de'])
     return redirect(url_for('multilingual.intro'))
