@@ -10,7 +10,7 @@ pictures_exhibition = {
     'trommelfeuer_1914': {
         'filepath': 'images/exhibition/trommelfeuer_1914.jpg',
         'licensing': '',
-        'url': 'https://www.archivinformationssystem.at/detail.aspx?ID=3030813',
+        'url': '',
         'source': source['oenb_bild']
     },
     'kirche_toporoutz': {
@@ -142,7 +142,7 @@ pictures_exhibition = {
     'haupttor_1916': {
         'filepath': 'images/exhibition/haupttor_1916.jpg',
         'licensing': '',
-        'url': 'regiowiki.at/wiki/Datei:Stockerau_Fl%C3%BCchtlingslager.jpg',
+        'url': 'https://regiowiki.at/wiki/Datei:Stockerau_Fl%C3%BCchtlingslager.jpg',
         'source': source['regiowikiat']
     },
     'baracke_film': {
@@ -279,9 +279,9 @@ pictures_exhibition = {
     },
     'standbild_erholung': {
         'filepath': 'images/exhibition/standbild_erholung.jpg',
-        'licensing': source['filmarchiv'],
-        'url': '',
-        'source': ''
+        'licensing': '',
+        'url': 'https://www.filmarchiv.at/',
+        'source': source['filmarchiv']
     },
     'kk_frontlines': {
         'filepath': 'images/kk_frontlines.jpg',
@@ -297,9 +297,9 @@ pictures_exhibition = {
     },
     'krankenbaracke': {
         'filepath': 'images/exhibition/krankenbaracke.jpg',
-        'licensing': source['filmarchiv'],
-        'url': '',
-        'source': ''
+        'licensing': '',
+        'url': 'https://www.filmarchiv.at/',
+        'source': source['filmarchiv']
     },
     'eisenbahn_karte': {
         'filepath': 'images/exhibition/eisenbahnkarte.jpg',

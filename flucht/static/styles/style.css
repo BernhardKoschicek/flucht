@@ -14,6 +14,14 @@ body {
     font-family: 'Open Sans', serif;
     flex-grow: 1;
 }
+a {
+     color: #F0D077;
+}
+
+a:hover {
+     color: #eab92e;
+    font-weight: bold;
+}
 
 p {
     text-align: justify;

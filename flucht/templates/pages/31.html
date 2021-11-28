@@ -3,15 +3,40 @@
 {#          src="https://geoportal.orthodoxes-europa.at/"></iframe>#}
 {#</div>#}
 {##}
+<div class="row d-flex justify-content-center ">
+  <div class="col-8 ">
+    <p class="text-center">{{ _('geoportal_1') }}</p>
+    <p class="text-center"><a href="https://orthodoxes-europa.at/geoportal"
+                              target="_blank">https://orthodoxes-europa.at/geoportal</a>
+    </p>
+
+    <p class="text-center">{{ _('geoportal_2') }}</p>
+    <p class="text-center"><a href="https://orthodoxes-europa.at/download"
+                              target="_blank">https://orthodoxes-europa.at/download</a>
+    </p>
+
+    <p class="text-center">{{ _('geoportal_3') }}</p>
+  </div>
+</div>
 
 
+<div class="row py-5 vh-100">
+  <div class="col-md-12 d-flex align-items-center justify-content-center align-content-center">
+    <iframe width="75%" height="100%"
+            src="https://www.youtube.com/embed/6LPnri48dRs"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+
+  </div>
+</div>
 
 <div class="col d-flex align-items-center justify-content-center align-content-center ">
-  <h4 class="display-4">{{ _('sponsored') }}</h4>
+  <h5 class="display-5">{{ _('sponsored') }}</h5>
 </div>
 
 <div class=" py-5 px-5 d-flex align-items-center justify-content-center align-content-center ">
-  <div class="row col-lg-4 d-flex align-items-center justify-content-center align-content-center">
+  <div class="row col-lg-4 d-flex align-items-center justify-content-center align-content-center ">
     <a href="http://www.zukunftsfonds-austria.at/" target="_blank">
       <img src="{{ url_for('static', filename='images/logos/Zukunftsfonds.jpg') }}"
            alt="dggoo"
@@ -20,8 +45,10 @@
   </div>
 </div>
 <div class="col d-flex align-items-center justify-content-center align-content-center ">
-  <h4 class="display-4">{{ _('cooperation') }}</h4>
+  <h5 class="display-5">{{ _('cooperation') }}</h5>
 </div>
+
+
 
 
 <div class=" py-5 px-5 d-flex align-items-center justify-content-center align-content-center ">
@@ -33,18 +60,18 @@
     </a>
   </div>
   <div class=" col-lg-4 d-flex align-items-center justify-content-center align-content-center">
-        <a href="https://www.metropolisvonaustria.at/index.php/de/" target="_blank">
-    <img src="{{ url_for('static', filename='images/logos/metropolis.png') }}"
-         alt="metropolis"
-         class="img-fluid">
-        </a>
+    <a href="https://www.metropolisvonaustria.at/index.php/de/" target="_blank">
+      <img src="{{ url_for('static', filename='images/logos/metropolis.png') }}"
+           alt="metropolis"
+           class="img-fluid">
+    </a>
   </div>
   <div class="col-lg-4 d-flex align-items-center justify-content-center align-content-center">
-        <a href="https://www.ait.ac.at/" target="_blank">
-    <img src="{{ url_for('static', filename='images/logos/ait.jpg') }}"
-         alt="ait"
-         class="img-fluid">
-        </a>
+    <a href="https://www.ait.ac.at/" target="_blank">
+      <img src="{{ url_for('static', filename='images/logos/ait.jpg') }}"
+           alt="ait"
+           class="img-fluid">
+    </a>
   </div>
 </div>
 
