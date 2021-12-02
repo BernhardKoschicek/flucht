@@ -32,6 +32,9 @@ cite {
     font-size: 1.1em;
 }
 
+.logos {
+    max-height: 200px;
+}
 .img-thumbnail {
     background: none;
     border: 0.1px;

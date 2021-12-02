@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-28 11:38+0100\n"
+"POT-Creation-Date: 2021-12-02 18:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -378,240 +378,244 @@ msgstr ""
 msgid "map_flucht"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:89
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:87
+msgid "kk_karte"
+msgstr ""
+
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:90
 #: flucht/templates/pages/02.html:8
 msgid "inner_monolog_01"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:90
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:91
 #: flucht/templates/pages/02.html:20
 msgid "inner_monolog_02"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:91
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:92
 #: flucht/templates/pages/02.html:21
 msgid "inner_monolog_03"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:92
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:93
 #: flucht/templates/pages/04.html:8
 msgid "inner_monolog_04"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:93
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:94
 #: flucht/templates/pages/04.html:9
 msgid "inner_monolog_05"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:94
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:95
 #: flucht/templates/pages/05.html:10
 msgid "inner_monolog_06"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:95
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:96
 #: flucht/templates/pages/05.html:11
 msgid "inner_monolog_07"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:96
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:97
 #: flucht/templates/pages/07.html:7
 msgid "inner_monolog_08"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:97
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:98
 #: flucht/templates/pages/07.html:8
 msgid "inner_monolog_09"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:98
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:99
 #: flucht/templates/pages/08.html:7
 msgid "inner_monolog_10"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:99
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:100
 #: flucht/templates/pages/13.html:9
 msgid "inner_monolog_11"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:100
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:101
 #: flucht/templates/pages/13.html:10
 msgid "inner_monolog_12"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:101
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:102
 #: flucht/templates/pages/14.html:11
 msgid "inner_monolog_13"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:102
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:103
 #: flucht/templates/pages/14.html:12
 msgid "inner_monolog_14"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:103
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:104
 #: flucht/templates/pages/15.html:10
 msgid "inner_monolog_15"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:104
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:105
 #: flucht/templates/pages/15.html:11
 msgid "inner_monolog_16"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:105
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:106
 #: flucht/templates/pages/18.html:8
 msgid "inner_monolog_17"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:106
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:107
 #: flucht/templates/pages/18.html:9
 msgid "inner_monolog_18"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:107
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:108
 #: flucht/templates/pages/18.html:10
 msgid "inner_monolog_19"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:108
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:109
 #: flucht/templates/pages/19.html:10
 msgid "inner_monolog_20"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:109
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:110
 #: flucht/templates/pages/21.html:9
 msgid "inner_monolog_21"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:110
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:111
 #: flucht/templates/pages/22.html:10
 msgid "inner_monolog_22"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:111
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:112
 #: flucht/templates/pages/22.html:11
 msgid "inner_monolog_23"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:112
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:113
 #: flucht/templates/pages/22.html:15
 msgid "inner_monolog_24"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:113
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:114
 #: flucht/templates/pages/22.html:16
 msgid "inner_monolog_25"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:114
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:115
 #: flucht/templates/pages/24.html:8
 msgid "inner_monolog_26"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:115
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:116
 #: flucht/templates/pages/24.html:9
 msgid "inner_monolog_27"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:116
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:117
 #: flucht/templates/pages/26.html:13
 msgid "inner_monolog_28"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:117
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:118
 #: flucht/templates/pages/26.html:14
 msgid "inner_monolog_29"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:118
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:119
 #: flucht/templates/pages/28.html:8
 msgid "inner_monolog_30"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:119
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:120
 #: flucht/templates/pages/28.html:9
 msgid "inner_monolog_31"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:120
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:121
 #: flucht/templates/pages/29.html:7
 msgid "inner_monolog_32"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:121
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:122
 #: flucht/templates/pages/29.html:8
 msgid "inner_monolog_33"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:122
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:123
 #: flucht/templates/pages/29.html:9
 msgid "inner_monolog_34"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:123
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:124
 #: flucht/templates/pages/30.html:9
 msgid "inner_monolog_35"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:126
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:127
 msgid "MHermann2017_1"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:127
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:128
 msgid "MHermann2017_2"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:128
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:129
 msgid "Wmentzel2013"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:129
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:130
 msgid "WMentzel1997"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:130
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:131
 msgid "HLeidinger2014"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:131
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:132
 msgid "ASenarclens2018"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:132
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:133
 msgid "WLamm1999"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:136
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:137
 msgid "page"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:137
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:138
 msgid "source"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:138
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:139
 msgid "arijczuk"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:139
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:140
 msgid "pihuliak"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:140
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:141
 msgid "ex_offico"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:141
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:142
 #: flucht/templates/pages/31.html:8
 msgid "geoportal_1"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:142
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:143
 #: flucht/templates/pages/31.html:13
 msgid "geoportal_2"
 msgstr ""
 
-#: flucht/blueprints/multilingual/templates/multilingual/text.html:143
+#: flucht/blueprints/multilingual/templates/multilingual/text.html:144
 #: flucht/templates/pages/31.html:18
 msgid "geoportal_3"
 msgstr ""
@@ -636,51 +640,51 @@ msgstr ""
 msgid "cooperation"
 msgstr ""
 
-#: flucht/templates/pages/32.html:4
+#: flucht/templates/pages/32.html:5
 msgid "impressum_1"
 msgstr ""
 
-#: flucht/templates/pages/32.html:10
+#: flucht/templates/pages/32.html:11
 msgid "vertreten_durch"
 msgstr ""
 
-#: flucht/templates/pages/32.html:12
+#: flucht/templates/pages/32.html:14 flucht/templates/pages/32.html:43
 msgid "projektleiter"
 msgstr ""
 
-#: flucht/templates/pages/32.html:18
+#: flucht/templates/pages/32.html:20
 msgid "kontakt"
 msgstr ""
 
-#: flucht/templates/pages/32.html:22
+#: flucht/templates/pages/32.html:28
 msgid "impressum_2"
 msgstr ""
 
-#: flucht/templates/pages/32.html:26
+#: flucht/templates/pages/32.html:31
 msgid "zum_projekt"
 msgstr ""
 
-#: flucht/templates/pages/32.html:31
+#: flucht/templates/pages/32.html:40
 msgid "inhaltich_verantwortlich"
 msgstr ""
 
-#: flucht/templates/pages/32.html:40
+#: flucht/templates/pages/32.html:50
 msgid "konzept_ausstellungstexte"
 msgstr ""
 
-#: flucht/templates/pages/32.html:45
+#: flucht/templates/pages/32.html:56
 msgid "englische_übersetzung"
 msgstr ""
 
-#: flucht/templates/pages/32.html:50
+#: flucht/templates/pages/32.html:62
 msgid "kommunikationsdesign"
 msgstr ""
 
-#: flucht/templates/pages/32.html:54
+#: flucht/templates/pages/32.html:68
 msgid "app_desgin"
 msgstr ""
 
-#: flucht/templates/pages/32.html:61
+#: flucht/templates/pages/32.html:80
 msgid "wien"
 msgstr ""
 

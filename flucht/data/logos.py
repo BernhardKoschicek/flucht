@@ -12,7 +12,12 @@ logos= {
     'metropolis': {
         'filepath': 'images/logos/metropolis.png',
         'text': 'Metropolis von Austria',
-        'url': 'https://www.metropolisvonaustria.at/index.php/de/',
+        'url': 'https://www.metropolisvonaustria.at/',
+    },
+    'kkez': {
+        'filepath': 'images/logos/kkez.png',
+        'text': 'Erzdiözese Wien',
+        'url': 'https://www.erzdioezese-wien.at/',
     },
     'ait': {
         'filepath': 'images/logos/ait.jpg',
